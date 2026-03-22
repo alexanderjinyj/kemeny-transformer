@@ -1,0 +1,360 @@
+26-03-11--08-13-30
+
+comment=Configuration file for Kemeny Transformer training (Corrected and Flattened)
+dim_input=10
+dim_emb=128
+dim_ff=512
+numb_heads=8
+numb_layers_decoder=3
+numb_layers_encoder=2
+max_len_PE=1000
+conv_out_channels=64
+batchnorm=True
+embedding_type=linear
+lr=0.0001
+nb_epochs=1000
+nb_batch_per_epoch=250
+bsz=512
+baseline_alpha=0.05
+roll_out_bsz=2048
+num_voters_range=[6, 10]
+num_items_range=[90, 110]
+phi_range=[0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 0.92, 0.94, 0.96, 0.98, 1.0]
+data_generation_method=fine_tuning_mix
+sample_voters_from_range=True
+sample_items_from_range=True
+normalize_input=True
+original_validation_data=True
+checkpoint_file=checkpoint_epoch_400.pkl
+checkpoint_dir=kemeny_transformer_checkpoint/various_input_kemeny_transformer/linear_embedding/700k_various_voters_various_items_mix_batch_3_encoder_2_decoder_kemeny_transformer_without_guide
+save_every=5
+validation_data_dir=validate_dataset
+roll_out_log_dir=roll_out_logs/various_input_kemeny_transformer/linear_embedding/700k_various_voters_various_items_mix_batch_3_encoder_2_decoder_kemeny_transformer_without_guide
+validate_log_dir=validate_logs/various_input_kemeny_transformer/linear_embedding/700k_various_voters_various_items_mix_batch_3_encoder_2_decoder_kemeny_transformer_without_guide
+gpu_id=0,1
+
+
+Epoch: 401, epoch time: 10.28min, tot time: 3.49day, gap_random: 13.7070,0.0074, gap_repeat: 23.0361,0.0242, gap_jiggling: 17.0020,0.0366, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 402, epoch time: 10.19min, tot time: 3.50day, gap_random: 13.4210,0.0072, gap_repeat: 19.5957,0.0190, gap_jiggling: 13.6924,0.0311, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 403, epoch time: 10.17min, tot time: 3.51day, gap_random: 13.5160,0.0073, gap_repeat: 19.0566,0.0183, gap_jiggling: 13.5020,0.0301, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 404, epoch time: 10.17min, tot time: 3.51day, gap_random: 13.0465,0.0070, gap_repeat: 16.5977,0.0149, gap_jiggling: 11.9971,0.0282, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 405, epoch time: 10.20min, tot time: 3.52day, gap_random: 13.4925,0.0072, gap_repeat: 16.5625,0.0147, gap_jiggling: 10.9697,0.0270, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 406, epoch time: 10.15min, tot time: 3.53day, gap_random: 13.1283,0.0071, gap_repeat: 15.1514,0.0132, gap_jiggling: 10.3457,0.0260, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 407, epoch time: 10.20min, tot time: 3.53day, gap_random: 13.2925,0.0071, gap_repeat: 14.9141,0.0128, gap_jiggling: 10.2373,0.0260, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 408, epoch time: 10.21min, tot time: 3.54day, gap_random: 13.4213,0.0072, gap_repeat: 14.4473,0.0124, gap_jiggling: 10.3857,0.0260, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 409, epoch time: 10.19min, tot time: 3.55day, gap_random: 13.2010,0.0071, gap_repeat: 14.7295,0.0127, gap_jiggling: 9.8193,0.0250, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 410, epoch time: 10.22min, tot time: 3.56day, gap_random: 12.9983,0.0070, gap_repeat: 13.8008,0.0115, gap_jiggling: 9.6104,0.0245, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 411, epoch time: 10.25min, tot time: 3.56day, gap_random: 13.1075,0.0070, gap_repeat: 13.8564,0.0115, gap_jiggling: 9.7148,0.0251, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 412, epoch time: 10.18min, tot time: 3.57day, gap_random: 13.2683,0.0071, gap_repeat: 13.5410,0.0111, gap_jiggling: 9.4160,0.0249, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 413, epoch time: 10.19min, tot time: 3.58day, gap_random: 13.1460,0.0071, gap_repeat: 14.0527,0.0118, gap_jiggling: 9.4473,0.0248, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 414, epoch time: 10.15min, tot time: 3.58day, gap_random: 13.3295,0.0072, gap_repeat: 14.0352,0.0117, gap_jiggling: 9.8389,0.0259, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 415, epoch time: 10.24min, tot time: 3.59day, gap_random: 13.1798,0.0071, gap_repeat: 13.1221,0.0107, gap_jiggling: 9.0889,0.0240, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 416, epoch time: 10.12min, tot time: 3.60day, gap_random: 13.1638,0.0071, gap_repeat: 13.6201,0.0114, gap_jiggling: 9.2490,0.0244, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 417, epoch time: 10.18min, tot time: 3.61day, gap_random: 13.4450,0.0072, gap_repeat: 13.4785,0.0111, gap_jiggling: 9.1201,0.0241, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 418, epoch time: 10.19min, tot time: 3.61day, gap_random: 13.1805,0.0071, gap_repeat: 12.9961,0.0104, gap_jiggling: 9.1523,0.0245, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 419, epoch time: 10.13min, tot time: 3.62day, gap_random: 13.1083,0.0070, gap_repeat: 13.0176,0.0105, gap_jiggling: 8.8916,0.0243, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 420, epoch time: 10.20min, tot time: 3.63day, gap_random: 13.2113,0.0071, gap_repeat: 13.0137,0.0105, gap_jiggling: 9.7109,0.0249, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 421, epoch time: 10.21min, tot time: 3.63day, gap_random: 13.3353,0.0072, gap_repeat: 12.7305,0.0102, gap_jiggling: 8.9150,0.0239, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 422, epoch time: 10.18min, tot time: 3.64day, gap_random: 13.2133,0.0071, gap_repeat: 12.7676,0.0105, gap_jiggling: 9.0146,0.0246, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 423, epoch time: 10.11min, tot time: 3.65day, gap_random: 12.9500,0.0070, gap_repeat: 12.4307,0.0099, gap_jiggling: 8.9639,0.0239, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 424, epoch time: 10.14min, tot time: 3.65day, gap_random: 13.3730,0.0072, gap_repeat: 12.8018,0.0104, gap_jiggling: 8.8994,0.0237, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 425, epoch time: 10.17min, tot time: 3.66day, gap_random: 13.3550,0.0072, gap_repeat: 12.2197,0.0096, gap_jiggling: 8.9561,0.0232, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 426, epoch time: 10.23min, tot time: 3.67day, gap_random: 13.1825,0.0071, gap_repeat: 12.6992,0.0103, gap_jiggling: 8.6494,0.0234, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 427, epoch time: 10.26min, tot time: 3.68day, gap_random: 13.1405,0.0071, gap_repeat: 12.6719,0.0101, gap_jiggling: 8.7549,0.0235, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 428, epoch time: 10.24min, tot time: 3.68day, gap_random: 13.4000,0.0072, gap_repeat: 15.0586,0.0133, gap_jiggling: 9.8506,0.0249, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 429, epoch time: 10.26min, tot time: 3.69day, gap_random: 13.1705,0.0071, gap_repeat: 12.2490,0.0097, gap_jiggling: 8.8848,0.0238, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 430, epoch time: 10.17min, tot time: 3.70day, gap_random: 13.2085,0.0071, gap_repeat: 13.0645,0.0107, gap_jiggling: 8.8682,0.0237, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 431, epoch time: 10.16min, tot time: 3.70day, gap_random: 13.2790,0.0071, gap_repeat: 12.9219,0.0107, gap_jiggling: 8.8477,0.0239, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 432, epoch time: 10.17min, tot time: 3.71day, gap_random: 13.4500,0.0072, gap_repeat: 13.9658,0.0122, gap_jiggling: 9.1709,0.0245, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 433, epoch time: 10.18min, tot time: 3.72day, gap_random: 13.1515,0.0071, gap_repeat: 11.8887,0.0093, gap_jiggling: 8.4756,0.0228, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 434, epoch time: 10.20min, tot time: 3.73day, gap_random: 13.2910,0.0071, gap_repeat: 11.9170,0.0093, gap_jiggling: 8.4434,0.0235, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 435, epoch time: 10.27min, tot time: 3.73day, gap_random: 13.0435,0.0070, gap_repeat: 12.1289,0.0096, gap_jiggling: 8.3926,0.0233, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 436, epoch time: 10.20min, tot time: 3.74day, gap_random: 12.8828,0.0069, gap_repeat: 11.4648,0.0088, gap_jiggling: 8.2256,0.0232, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 437, epoch time: 10.19min, tot time: 3.75day, gap_random: 13.1290,0.0071, gap_repeat: 12.6045,0.0105, gap_jiggling: 8.6885,0.0236, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 438, epoch time: 10.13min, tot time: 3.75day, gap_random: 13.2305,0.0071, gap_repeat: 11.8916,0.0093, gap_jiggling: 8.3799,0.0230, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 439, epoch time: 10.22min, tot time: 3.76day, gap_random: 13.2300,0.0071, gap_repeat: 11.7021,0.0091, gap_jiggling: 8.4199,0.0233, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 440, epoch time: 10.20min, tot time: 3.77day, gap_random: 13.0505,0.0070, gap_repeat: 12.3213,0.0099, gap_jiggling: 8.5596,0.0231, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 441, epoch time: 10.19min, tot time: 3.78day, gap_random: 13.0858,0.0070, gap_repeat: 11.8721,0.0095, gap_jiggling: 8.4473,0.0229, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 442, epoch time: 10.20min, tot time: 3.78day, gap_random: 13.1360,0.0071, gap_repeat: 11.6748,0.0091, gap_jiggling: 8.4746,0.0228, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 443, epoch time: 10.21min, tot time: 3.79day, gap_random: 13.1338,0.0071, gap_repeat: 11.4141,0.0088, gap_jiggling: 8.1602,0.0227, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 444, epoch time: 10.15min, tot time: 3.80day, gap_random: 13.3880,0.0072, gap_repeat: 12.2754,0.0099, gap_jiggling: 8.8193,0.0230, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 445, epoch time: 10.24min, tot time: 3.80day, gap_random: 13.0730,0.0070, gap_repeat: 11.3623,0.0088, gap_jiggling: 8.2715,0.0223, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 446, epoch time: 10.17min, tot time: 3.81day, gap_random: 13.1623,0.0071, gap_repeat: 11.6064,0.0091, gap_jiggling: 8.4072,0.0231, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 447, epoch time: 10.20min, tot time: 3.82day, gap_random: 13.0668,0.0070, gap_repeat: 11.4521,0.0089, gap_jiggling: 8.2959,0.0226, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 448, epoch time: 10.20min, tot time: 3.83day, gap_random: 13.0615,0.0070, gap_repeat: 11.6582,0.0093, gap_jiggling: 8.2246,0.0227, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 449, epoch time: 10.22min, tot time: 3.83day, gap_random: 13.0508,0.0070, gap_repeat: 12.0791,0.0097, gap_jiggling: 8.4541,0.0231, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 450, epoch time: 10.15min, tot time: 3.84day, gap_random: 13.0563,0.0070, gap_repeat: 11.6445,0.0091, gap_jiggling: 8.3193,0.0235, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 451, epoch time: 10.24min, tot time: 3.85day, gap_random: 13.0705,0.0070, gap_repeat: 11.7139,0.0091, gap_jiggling: 8.1152,0.0225, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 452, epoch time: 10.29min, tot time: 3.85day, gap_random: 13.0658,0.0070, gap_repeat: 11.2539,0.0086, gap_jiggling: 8.2842,0.0229, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 453, epoch time: 10.20min, tot time: 3.86day, gap_random: 13.1505,0.0071, gap_repeat: 11.4170,0.0088, gap_jiggling: 8.1631,0.0224, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 454, epoch time: 10.21min, tot time: 3.87day, gap_random: 12.9525,0.0070, gap_repeat: 11.2988,0.0087, gap_jiggling: 7.9932,0.0228, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 455, epoch time: 10.23min, tot time: 3.88day, gap_random: 12.9555,0.0070, gap_repeat: 10.9727,0.0086, gap_jiggling: 7.8574,0.0231, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 456, epoch time: 10.18min, tot time: 3.88day, gap_random: 13.1300,0.0071, gap_repeat: 10.9414,0.0084, gap_jiggling: 7.8779,0.0224, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 457, epoch time: 10.21min, tot time: 3.89day, gap_random: 12.9100,0.0069, gap_repeat: 11.1768,0.0087, gap_jiggling: 7.7754,0.0232, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 458, epoch time: 10.22min, tot time: 3.90day, gap_random: 12.9910,0.0070, gap_repeat: 10.9082,0.0083, gap_jiggling: 7.7139,0.0221, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 459, epoch time: 10.22min, tot time: 3.90day, gap_random: 13.0320,0.0070, gap_repeat: 10.7920,0.0082, gap_jiggling: 7.5947,0.0218, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 460, epoch time: 10.15min, tot time: 3.91day, gap_random: 13.0370,0.0070, gap_repeat: 10.9336,0.0086, gap_jiggling: 7.6543,0.0217, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 461, epoch time: 10.11min, tot time: 3.92day, gap_random: 12.9413,0.0070, gap_repeat: 10.5059,0.0080, gap_jiggling: 7.8633,0.0221, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 462, epoch time: 10.20min, tot time: 3.93day, gap_random: 13.1580,0.0071, gap_repeat: 11.0322,0.0085, gap_jiggling: 7.8027,0.0217, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 463, epoch time: 10.24min, tot time: 3.93day, gap_random: 12.9548,0.0070, gap_repeat: 10.6240,0.0080, gap_jiggling: 7.6348,0.0220, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 464, epoch time: 10.29min, tot time: 3.94day, gap_random: 12.9353,0.0069, gap_repeat: 10.3594,0.0077, gap_jiggling: 7.6162,0.0219, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 465, epoch time: 10.28min, tot time: 3.95day, gap_random: 13.2258,0.0071, gap_repeat: 10.7314,0.0082, gap_jiggling: 7.7002,0.0216, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 466, epoch time: 10.24min, tot time: 3.95day, gap_random: 13.0658,0.0070, gap_repeat: 10.5869,0.0081, gap_jiggling: 7.6895,0.0221, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 467, epoch time: 10.20min, tot time: 3.96day, gap_random: 12.8858,0.0069, gap_repeat: 10.6719,0.0081, gap_jiggling: 7.6387,0.0219, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 468, epoch time: 10.18min, tot time: 3.97day, gap_random: 13.1363,0.0071, gap_repeat: 10.6064,0.0081, gap_jiggling: 7.6455,0.0217, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 469, epoch time: 10.19min, tot time: 3.98day, gap_random: 13.0118,0.0070, gap_repeat: 10.9629,0.0086, gap_jiggling: 7.6123,0.0221, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 470, epoch time: 10.20min, tot time: 3.98day, gap_random: 12.8480,0.0069, gap_repeat: 10.5195,0.0080, gap_jiggling: 7.6064,0.0220, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 471, epoch time: 10.25min, tot time: 3.99day, gap_random: 13.0463,0.0070, gap_repeat: 10.4346,0.0078, gap_jiggling: 7.4609,0.0219, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 472, epoch time: 10.24min, tot time: 4.00day, gap_random: 12.8673,0.0069, gap_repeat: 10.2139,0.0076, gap_jiggling: 7.7441,0.0220, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 473, epoch time: 10.28min, tot time: 4.00day, gap_random: 13.1418,0.0071, gap_repeat: 10.9590,0.0085, gap_jiggling: 7.5469,0.0217, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 474, epoch time: 10.58min, tot time: 4.01day, gap_random: 13.0080,0.0070, gap_repeat: 10.4893,0.0080, gap_jiggling: 7.6348,0.0219, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 475, epoch time: 10.51min, tot time: 4.02day, gap_random: 12.9993,0.0070, gap_repeat: 10.2715,0.0076, gap_jiggling: 7.5479,0.0215, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 476, epoch time: 10.50min, tot time: 4.03day, gap_random: 13.1190,0.0070, gap_repeat: 10.4385,0.0077, gap_jiggling: 7.5703,0.0219, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 477, epoch time: 10.55min, tot time: 4.03day, gap_random: 13.0433,0.0070, gap_repeat: 10.3643,0.0079, gap_jiggling: 7.5254,0.0212, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 478, epoch time: 10.43min, tot time: 4.04day, gap_random: 13.0415,0.0070, gap_repeat: 10.4736,0.0079, gap_jiggling: 7.5840,0.0216, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 479, epoch time: 10.78min, tot time: 4.05day, gap_random: 12.9240,0.0069, gap_repeat: 10.2949,0.0077, gap_jiggling: 7.7158,0.0215, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 480, epoch time: 10.21min, tot time: 4.05day, gap_random: 12.9510,0.0070, gap_repeat: 10.6074,0.0080, gap_jiggling: 7.4502,0.0216, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 481, epoch time: 13.58min, tot time: 4.06day, gap_random: 12.9023,0.0069, gap_repeat: 10.1514,0.0075, gap_jiggling: 7.5107,0.0215, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 482, epoch time: 13.53min, tot time: 4.07day, gap_random: 13.0045,0.0070, gap_repeat: 10.2012,0.0075, gap_jiggling: 7.2959,0.0213, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 483, epoch time: 13.54min, tot time: 4.08day, gap_random: 13.0875,0.0070, gap_repeat: 10.7598,0.0084, gap_jiggling: 7.6875,0.0220, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 484, epoch time: 13.32min, tot time: 4.09day, gap_random: 12.7623,0.0069, gap_repeat: 10.2217,0.0077, gap_jiggling: 7.3604,0.0212, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 485, epoch time: 13.87min, tot time: 4.10day, gap_random: 13.0200,0.0070, gap_repeat: 10.1191,0.0075, gap_jiggling: 7.2510,0.0213, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 486, epoch time: 13.37min, tot time: 4.11day, gap_random: 12.9788,0.0070, gap_repeat: 10.1533,0.0076, gap_jiggling: 7.4248,0.0215, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 487, epoch time: 13.32min, tot time: 4.12day, gap_random: 13.1410,0.0071, gap_repeat: 10.3438,0.0078, gap_jiggling: 7.4873,0.0213, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 488, epoch time: 12.75min, tot time: 4.13day, gap_random: 12.9378,0.0069, gap_repeat: 10.4600,0.0081, gap_jiggling: 7.2930,0.0212, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 489, epoch time: 11.36min, tot time: 4.14day, gap_random: 12.7213,0.0068, gap_repeat: 9.8574,0.0072, gap_jiggling: 7.4727,0.0213, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 490, epoch time: 10.56min, tot time: 4.14day, gap_random: 12.9278,0.0069, gap_repeat: 10.2246,0.0077, gap_jiggling: 7.2480,0.0213, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 491, epoch time: 10.28min, tot time: 4.15day, gap_random: 12.9160,0.0069, gap_repeat: 9.9521,0.0075, gap_jiggling: 7.2441,0.0212, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 492, epoch time: 10.16min, tot time: 4.16day, gap_random: 12.7965,0.0069, gap_repeat: 10.0674,0.0075, gap_jiggling: 7.5039,0.0216, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 493, epoch time: 10.17min, tot time: 4.17day, gap_random: 12.6743,0.0068, gap_repeat: 10.0234,0.0076, gap_jiggling: 7.2666,0.0216, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 494, epoch time: 10.14min, tot time: 4.17day, gap_random: 13.0260,0.0070, gap_repeat: 10.0703,0.0075, gap_jiggling: 7.2295,0.0213, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 495, epoch time: 10.24min, tot time: 4.18day, gap_random: 12.9088,0.0069, gap_repeat: 10.3545,0.0078, gap_jiggling: 7.2910,0.0217, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 496, epoch time: 10.21min, tot time: 4.19day, gap_random: 12.8003,0.0069, gap_repeat: 10.3242,0.0078, gap_jiggling: 7.4844,0.0214, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 497, epoch time: 10.24min, tot time: 4.19day, gap_random: 12.8658,0.0069, gap_repeat: 10.3076,0.0077, gap_jiggling: 7.3682,0.0206, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 498, epoch time: 10.24min, tot time: 4.20day, gap_random: 12.8428,0.0069, gap_repeat: 10.1494,0.0076, gap_jiggling: 7.5332,0.0217, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 499, epoch time: 10.26min, tot time: 4.21day, gap_random: 13.2745,0.0071, gap_repeat: 10.7139,0.0080, gap_jiggling: 7.7764,0.0211, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 500, epoch time: 10.22min, tot time: 4.22day, gap_random: 13.4648,0.0072, gap_repeat: 12.4004,0.0099, gap_jiggling: 8.9512,0.0229, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 501, epoch time: 10.28min, tot time: 4.22day, gap_random: 13.1920,0.0071, gap_repeat: 12.1670,0.0099, gap_jiggling: 8.3887,0.0222, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 502, epoch time: 10.22min, tot time: 4.23day, gap_random: 13.2653,0.0071, gap_repeat: 10.5088,0.0079, gap_jiggling: 7.5264,0.0217, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 503, epoch time: 10.23min, tot time: 4.24day, gap_random: 12.9255,0.0069, gap_repeat: 10.5889,0.0083, gap_jiggling: 7.4346,0.0207, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 504, epoch time: 10.21min, tot time: 4.24day, gap_random: 13.0855,0.0070, gap_repeat: 10.6562,0.0079, gap_jiggling: 7.6914,0.0216, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 505, epoch time: 10.21min, tot time: 4.25day, gap_random: 12.8413,0.0069, gap_repeat: 10.2529,0.0077, gap_jiggling: 7.4600,0.0216, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 506, epoch time: 10.21min, tot time: 4.26day, gap_random: 12.8115,0.0069, gap_repeat: 10.1875,0.0076, gap_jiggling: 7.3564,0.0213, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 507, epoch time: 10.23min, tot time: 4.27day, gap_random: 12.9190,0.0069, gap_repeat: 10.2334,0.0076, gap_jiggling: 7.2988,0.0212, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 508, epoch time: 10.20min, tot time: 4.27day, gap_random: 12.8510,0.0069, gap_repeat: 10.1924,0.0077, gap_jiggling: 7.3984,0.0209, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 509, epoch time: 10.19min, tot time: 4.28day, gap_random: 12.8573,0.0069, gap_repeat: 10.3164,0.0079, gap_jiggling: 7.4160,0.0217, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 510, epoch time: 10.21min, tot time: 4.29day, gap_random: 12.8300,0.0069, gap_repeat: 10.6318,0.0080, gap_jiggling: 7.5039,0.0212, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 511, epoch time: 10.26min, tot time: 4.29day, gap_random: 13.0218,0.0070, gap_repeat: 11.2471,0.0088, gap_jiggling: 8.0527,0.0217, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 512, epoch time: 10.26min, tot time: 4.30day, gap_random: 13.1055,0.0070, gap_repeat: 10.3193,0.0077, gap_jiggling: 7.4648,0.0213, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 513, epoch time: 10.20min, tot time: 4.31day, gap_random: 12.5718,0.0068, gap_repeat: 10.0557,0.0077, gap_jiggling: 7.1006,0.0207, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 514, epoch time: 10.29min, tot time: 4.32day, gap_random: 12.8900,0.0069, gap_repeat: 9.9502,0.0074, gap_jiggling: 7.1074,0.0209, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 515, epoch time: 10.26min, tot time: 4.32day, gap_random: 12.8350,0.0069, gap_repeat: 10.3691,0.0081, gap_jiggling: 7.3740,0.0211, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 516, epoch time: 10.26min, tot time: 4.33day, gap_random: 12.8865,0.0069, gap_repeat: 9.8633,0.0073, gap_jiggling: 7.3145,0.0211, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 517, epoch time: 10.24min, tot time: 4.34day, gap_random: 12.7113,0.0068, gap_repeat: 9.5732,0.0070, gap_jiggling: 7.0205,0.0207, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 518, epoch time: 10.26min, tot time: 4.34day, gap_random: 12.7053,0.0068, gap_repeat: 9.2314,0.0067, gap_jiggling: 7.0195,0.0209, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 519, epoch time: 10.17min, tot time: 4.35day, gap_random: 12.6208,0.0068, gap_repeat: 9.8184,0.0076, gap_jiggling: 6.9736,0.0210, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 520, epoch time: 10.20min, tot time: 4.36day, gap_random: 12.6518,0.0068, gap_repeat: 9.4971,0.0069, gap_jiggling: 7.0029,0.0207, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 521, epoch time: 10.18min, tot time: 4.37day, gap_random: 12.7373,0.0068, gap_repeat: 9.8770,0.0074, gap_jiggling: 7.0479,0.0206, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 522, epoch time: 10.24min, tot time: 4.37day, gap_random: 12.6360,0.0068, gap_repeat: 9.5811,0.0071, gap_jiggling: 6.9258,0.0204, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 523, epoch time: 10.22min, tot time: 4.38day, gap_random: 12.8360,0.0069, gap_repeat: 9.9033,0.0074, gap_jiggling: 7.1123,0.0200, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 524, epoch time: 10.16min, tot time: 4.39day, gap_random: 12.7618,0.0069, gap_repeat: 9.8633,0.0074, gap_jiggling: 6.8477,0.0202, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 525, epoch time: 10.22min, tot time: 4.39day, gap_random: 12.6665,0.0068, gap_repeat: 9.8701,0.0074, gap_jiggling: 7.2441,0.0212, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 526, epoch time: 10.19min, tot time: 4.40day, gap_random: 12.6593,0.0068, gap_repeat: 9.4736,0.0069, gap_jiggling: 7.0068,0.0205, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 527, epoch time: 10.21min, tot time: 4.41day, gap_random: 12.7368,0.0068, gap_repeat: 9.5518,0.0071, gap_jiggling: 7.2217,0.0207, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 528, epoch time: 10.23min, tot time: 4.42day, gap_random: 12.9185,0.0069, gap_repeat: 9.5039,0.0070, gap_jiggling: 7.3643,0.0206, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 529, epoch time: 10.24min, tot time: 4.42day, gap_random: 12.6723,0.0068, gap_repeat: 9.7695,0.0072, gap_jiggling: 7.0107,0.0204, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 530, epoch time: 10.21min, tot time: 4.43day, gap_random: 12.6345,0.0068, gap_repeat: 9.8936,0.0075, gap_jiggling: 6.9180,0.0205, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 531, epoch time: 10.19min, tot time: 4.44day, gap_random: 12.6558,0.0068, gap_repeat: 9.2881,0.0068, gap_jiggling: 6.8213,0.0196, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 532, epoch time: 10.24min, tot time: 4.44day, gap_random: 12.8595,0.0069, gap_repeat: 9.8701,0.0074, gap_jiggling: 7.0635,0.0203, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 533, epoch time: 10.21min, tot time: 4.45day, gap_random: 12.6058,0.0068, gap_repeat: 10.0801,0.0078, gap_jiggling: 7.0977,0.0208, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 534, epoch time: 10.21min, tot time: 4.46day, gap_random: 13.1643,0.0071, gap_repeat: 10.6621,0.0083, gap_jiggling: 8.6523,0.0219, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 535, epoch time: 10.19min, tot time: 4.47day, gap_random: 12.7193,0.0068, gap_repeat: 10.5371,0.0082, gap_jiggling: 7.8555,0.0212, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 536, epoch time: 10.19min, tot time: 4.47day, gap_random: 12.9698,0.0070, gap_repeat: 10.0674,0.0075, gap_jiggling: 7.3555,0.0208, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 537, epoch time: 10.23min, tot time: 4.48day, gap_random: 12.8430,0.0069, gap_repeat: 11.0332,0.0086, gap_jiggling: 7.6670,0.0210, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 538, epoch time: 10.23min, tot time: 4.49day, gap_random: 103.5578,0.0557, gap_repeat: 296.7207,0.2487, gap_jiggling: 409.3047,3.0660, kemeny_distance_idx_620: 602.0, kemeny_distance_idx_920: 602.0 
+Epoch: 539, epoch time: 10.20min, tot time: 4.49day, gap_random: 28.8165,0.0155, gap_repeat: 67.7432,0.0881, gap_jiggling: 45.2998,0.0665, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 540, epoch time: 10.22min, tot time: 4.50day, gap_random: 23.3398,0.0125, gap_repeat: 49.2822,0.0569, gap_jiggling: 33.3867,0.0511, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 541, epoch time: 10.26min, tot time: 4.51day, gap_random: 18.0958,0.0097, gap_repeat: 32.3174,0.0360, gap_jiggling: 22.1260,0.0386, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 542, epoch time: 10.20min, tot time: 4.52day, gap_random: 17.0748,0.0092, gap_repeat: 28.8691,0.0305, gap_jiggling: 18.4961,0.0334, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 543, epoch time: 10.25min, tot time: 4.52day, gap_random: 17.5208,0.0094, gap_repeat: 140.3623,0.1097, gap_jiggling: 259.7549,2.4147, kemeny_distance_idx_620: 476.0, kemeny_distance_idx_920: 476.0 
+Epoch: 544, epoch time: 10.25min, tot time: 4.53day, gap_random: 17.0560,0.0092, gap_repeat: 50.2656,0.0411, gap_jiggling: 47.5449,0.7517, kemeny_distance_idx_620: 88.0, kemeny_distance_idx_920: 93.0 
+Epoch: 545, epoch time: 10.20min, tot time: 4.54day, gap_random: 19.9440,0.0107, gap_repeat: 47.9346,0.0419, gap_jiggling: 55.6982,0.3873, kemeny_distance_idx_620: 102.0, kemeny_distance_idx_920: 102.0 
+Epoch: 546, epoch time: 10.21min, tot time: 4.54day, gap_random: 22.3463,0.0120, gap_repeat: 201.5146,0.1428, gap_jiggling: 434.6523,4.3689, kemeny_distance_idx_620: 899.0, kemeny_distance_idx_920: 907.0 
+Epoch: 547, epoch time: 10.20min, tot time: 4.55day, gap_random: 23.2905,0.0125, gap_repeat: 389.1611,0.3206, gap_jiggling: 784.7588,7.2813, kemeny_distance_idx_620: 1463.0, kemeny_distance_idx_920: 1457.0 
+Epoch: 548, epoch time: 10.18min, tot time: 4.56day, gap_random: 25.5460,0.0137, gap_repeat: 235.7500,0.2147, gap_jiggling: 318.3496,2.0258, kemeny_distance_idx_620: 372.0, kemeny_distance_idx_920: 469.0 
+Epoch: 549, epoch time: 10.23min, tot time: 4.57day, gap_random: 30.3278,0.0163, gap_repeat: 267.5908,0.1964, gap_jiggling: 372.0859,2.6917, kemeny_distance_idx_620: 521.0, kemeny_distance_idx_920: 633.0 
+Epoch: 550, epoch time: 10.21min, tot time: 4.57day, gap_random: 33.9135,0.0183, gap_repeat: 279.4785,0.1966, gap_jiggling: 402.8145,3.2488, kemeny_distance_idx_620: 630.0, kemeny_distance_idx_920: 776.0 
+Epoch: 551, epoch time: 10.24min, tot time: 4.58day, gap_random: 39.2183,0.0212, gap_repeat: 138.6553,0.1207, gap_jiggling: 124.3291,0.3145, kemeny_distance_idx_620: 36.0, kemeny_distance_idx_920: 42.0 
+Epoch: 552, epoch time: 10.16min, tot time: 4.59day, gap_random: 29.2463,0.0157, gap_repeat: 62.8750,0.0693, gap_jiggling: 52.2568,0.0832, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 553, epoch time: 10.16min, tot time: 4.59day, gap_random: 27.1503,0.0146, gap_repeat: 50.1162,0.0563, gap_jiggling: 41.7354,0.0737, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 554, epoch time: 10.17min, tot time: 4.60day, gap_random: 22.6665,0.0122, gap_repeat: 66.9814,0.0731, gap_jiggling: 60.6680,0.0923, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 555, epoch time: 10.20min, tot time: 4.61day, gap_random: 21.8428,0.0117, gap_repeat: 42.2285,0.0472, gap_jiggling: 31.8096,0.0606, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 556, epoch time: 10.20min, tot time: 4.62day, gap_random: 19.9575,0.0107, gap_repeat: 33.9824,0.0376, gap_jiggling: 26.5889,0.0602, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 557, epoch time: 10.17min, tot time: 4.62day, gap_random: 18.2840,0.0098, gap_repeat: 25.2227,0.0258, gap_jiggling: 17.7334,0.0426, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 558, epoch time: 10.19min, tot time: 4.63day, gap_random: 17.1425,0.0092, gap_repeat: 21.0586,0.0205, gap_jiggling: 15.5391,0.0356, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 559, epoch time: 10.20min, tot time: 4.64day, gap_random: 16.3448,0.0088, gap_repeat: 18.0449,0.0166, gap_jiggling: 13.1006,0.0319, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 560, epoch time: 10.21min, tot time: 4.64day, gap_random: 15.3093,0.0082, gap_repeat: 17.2422,0.0160, gap_jiggling: 12.6641,0.0308, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 561, epoch time: 10.19min, tot time: 4.65day, gap_random: 14.5798,0.0078, gap_repeat: 14.2656,0.0123, gap_jiggling: 10.9766,0.0290, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 562, epoch time: 10.19min, tot time: 4.66day, gap_random: 14.1718,0.0076, gap_repeat: 12.9404,0.0107, gap_jiggling: 9.9316,0.0277, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 563, epoch time: 10.18min, tot time: 4.66day, gap_random: 14.0218,0.0075, gap_repeat: 12.6982,0.0103, gap_jiggling: 9.9004,0.0272, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 564, epoch time: 10.23min, tot time: 4.67day, gap_random: 13.9445,0.0075, gap_repeat: 12.0566,0.0095, gap_jiggling: 9.0801,0.0259, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 565, epoch time: 10.19min, tot time: 4.68day, gap_random: 16.0795,0.0086, gap_repeat: 36.3428,0.0376, gap_jiggling: 30.8340,0.0494, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 566, epoch time: 10.21min, tot time: 4.69day, gap_random: 14.9888,0.0081, gap_repeat: 17.8555,0.0169, gap_jiggling: 13.8564,0.0310, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 567, epoch time: 10.20min, tot time: 4.69day, gap_random: 14.2528,0.0077, gap_repeat: 15.5527,0.0136, gap_jiggling: 12.2891,0.0290, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 568, epoch time: 10.23min, tot time: 4.70day, gap_random: 14.0940,0.0076, gap_repeat: 12.6006,0.0103, gap_jiggling: 9.0410,0.0246, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 569, epoch time: 10.20min, tot time: 4.71day, gap_random: 13.5780,0.0073, gap_repeat: 11.1777,0.0088, gap_jiggling: 8.1924,0.0241, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 570, epoch time: 10.21min, tot time: 4.71day, gap_random: 13.6530,0.0073, gap_repeat: 11.7666,0.0098, gap_jiggling: 8.1963,0.0238, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 571, epoch time: 10.21min, tot time: 4.72day, gap_random: 13.5913,0.0073, gap_repeat: 10.9727,0.0084, gap_jiggling: 8.0312,0.0226, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 572, epoch time: 10.19min, tot time: 4.73day, gap_random: 13.3963,0.0072, gap_repeat: 11.0000,0.0086, gap_jiggling: 8.0596,0.0229, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 573, epoch time: 10.21min, tot time: 4.74day, gap_random: 13.3148,0.0072, gap_repeat: 10.4453,0.0081, gap_jiggling: 7.7549,0.0225, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 574, epoch time: 10.19min, tot time: 4.74day, gap_random: 13.1760,0.0071, gap_repeat: 10.0508,0.0075, gap_jiggling: 7.6143,0.0220, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 575, epoch time: 10.22min, tot time: 4.75day, gap_random: 13.1745,0.0071, gap_repeat: 10.4277,0.0081, gap_jiggling: 7.5928,0.0223, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 576, epoch time: 10.25min, tot time: 4.76day, gap_random: 13.2478,0.0071, gap_repeat: 10.1094,0.0076, gap_jiggling: 7.3281,0.0218, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 577, epoch time: 10.20min, tot time: 4.76day, gap_random: 12.8923,0.0069, gap_repeat: 9.8125,0.0074, gap_jiggling: 7.4756,0.0217, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 578, epoch time: 10.23min, tot time: 4.77day, gap_random: 13.1140,0.0070, gap_repeat: 10.0723,0.0077, gap_jiggling: 7.2588,0.0213, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 579, epoch time: 10.20min, tot time: 4.78day, gap_random: 13.0998,0.0070, gap_repeat: 9.9053,0.0075, gap_jiggling: 7.1865,0.0212, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 580, epoch time: 10.21min, tot time: 4.79day, gap_random: 12.8240,0.0069, gap_repeat: 9.9678,0.0074, gap_jiggling: 7.4521,0.0217, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 581, epoch time: 10.27min, tot time: 4.79day, gap_random: 12.8005,0.0069, gap_repeat: 9.7422,0.0071, gap_jiggling: 7.3057,0.0210, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 582, epoch time: 10.22min, tot time: 4.80day, gap_random: 12.8213,0.0069, gap_repeat: 9.6953,0.0072, gap_jiggling: 7.2676,0.0209, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 583, epoch time: 10.22min, tot time: 4.81day, gap_random: 12.8480,0.0069, gap_repeat: 9.6016,0.0071, gap_jiggling: 7.1719,0.0210, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 584, epoch time: 10.24min, tot time: 4.81day, gap_random: 12.7203,0.0068, gap_repeat: 9.2734,0.0068, gap_jiggling: 7.0771,0.0209, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 585, epoch time: 10.19min, tot time: 4.82day, gap_random: 12.7820,0.0069, gap_repeat: 9.7861,0.0074, gap_jiggling: 7.0605,0.0206, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 586, epoch time: 10.16min, tot time: 4.83day, gap_random: 13.1603,0.0071, gap_repeat: 10.4463,0.0080, gap_jiggling: 7.6152,0.0211, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 587, epoch time: 10.22min, tot time: 4.84day, gap_random: 21.3190,0.0115, gap_repeat: 224.0322,0.1800, gap_jiggling: 435.3350,4.0724, kemeny_distance_idx_620: 839.0, kemeny_distance_idx_920: 843.0 
+Epoch: 588, epoch time: 10.20min, tot time: 4.84day, gap_random: 25.0563,0.0135, gap_repeat: 272.3936,0.2508, gap_jiggling: 484.9180,4.3770, kemeny_distance_idx_620: 867.0, kemeny_distance_idx_920: 866.0 
+Epoch: 589, epoch time: 10.27min, tot time: 4.85day, gap_random: 87.0398,0.0470, gap_repeat: 609.8291,0.5055, gap_jiggling: 1036.1045,8.6142, kemeny_distance_idx_620: 1742.0, kemeny_distance_idx_920: 1743.0 
+Epoch: 590, epoch time: 10.28min, tot time: 4.86day, gap_random: 40.0445,0.0216, gap_repeat: 191.1973,0.1697, gap_jiggling: 237.6348,1.4621, kemeny_distance_idx_620: 312.0, kemeny_distance_idx_920: 312.0 
+Epoch: 591, epoch time: 10.20min, tot time: 4.86day, gap_random: 20.0425,0.0108, gap_repeat: 33.5107,0.0348, gap_jiggling: 26.8789,0.0554, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 592, epoch time: 10.24min, tot time: 4.87day, gap_random: 15.5265,0.0083, gap_repeat: 19.7949,0.0192, gap_jiggling: 15.1562,0.0378, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 593, epoch time: 10.25min, tot time: 4.88day, gap_random: 14.0950,0.0076, gap_repeat: 13.8359,0.0117, gap_jiggling: 10.3691,0.0296, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 594, epoch time: 10.23min, tot time: 4.89day, gap_random: 13.5648,0.0073, gap_repeat: 11.9893,0.0096, gap_jiggling: 8.7510,0.0253, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 595, epoch time: 10.27min, tot time: 4.89day, gap_random: 13.5433,0.0073, gap_repeat: 10.9648,0.0084, gap_jiggling: 7.9258,0.0229, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 596, epoch time: 10.20min, tot time: 4.90day, gap_random: 13.0123,0.0070, gap_repeat: 10.6514,0.0083, gap_jiggling: 7.7891,0.0223, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 597, epoch time: 10.21min, tot time: 4.91day, gap_random: 13.1640,0.0071, gap_repeat: 9.9512,0.0075, gap_jiggling: 7.3955,0.0212, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 598, epoch time: 10.23min, tot time: 4.91day, gap_random: 12.7155,0.0068, gap_repeat: 9.8965,0.0074, gap_jiggling: 7.2471,0.0215, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 599, epoch time: 10.25min, tot time: 4.92day, gap_random: 12.6648,0.0068, gap_repeat: 9.5938,0.0071, gap_jiggling: 6.9873,0.0201, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 600, epoch time: 10.25min, tot time: 4.93day, gap_random: 12.8065,0.0069, gap_repeat: 9.3672,0.0069, gap_jiggling: 7.2617,0.0211, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 601, epoch time: 10.23min, tot time: 4.94day, gap_random: 12.7433,0.0068, gap_repeat: 9.6309,0.0071, gap_jiggling: 6.9951,0.0203, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 602, epoch time: 10.22min, tot time: 4.94day, gap_random: 12.7230,0.0068, gap_repeat: 9.4639,0.0070, gap_jiggling: 7.1367,0.0204, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 603, epoch time: 10.23min, tot time: 4.95day, gap_random: 12.7335,0.0068, gap_repeat: 9.2422,0.0068, gap_jiggling: 7.0771,0.0205, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 604, epoch time: 10.25min, tot time: 4.96day, gap_random: 12.6885,0.0068, gap_repeat: 9.7324,0.0074, gap_jiggling: 6.9092,0.0203, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 605, epoch time: 10.25min, tot time: 4.96day, gap_random: 12.6078,0.0068, gap_repeat: 9.3721,0.0068, gap_jiggling: 7.0117,0.0202, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 606, epoch time: 10.23min, tot time: 4.97day, gap_random: 12.6478,0.0068, gap_repeat: 9.3252,0.0068, gap_jiggling: 6.7275,0.0199, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 607, epoch time: 10.25min, tot time: 4.98day, gap_random: 12.6223,0.0068, gap_repeat: 9.3574,0.0069, gap_jiggling: 6.7441,0.0200, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 608, epoch time: 10.20min, tot time: 4.99day, gap_random: 12.5665,0.0068, gap_repeat: 9.0156,0.0066, gap_jiggling: 6.8447,0.0199, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 609, epoch time: 10.17min, tot time: 4.99day, gap_random: 12.6043,0.0068, gap_repeat: 9.0527,0.0066, gap_jiggling: 6.7832,0.0199, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 610, epoch time: 10.16min, tot time: 5.00day, gap_random: 12.4550,0.0067, gap_repeat: 8.9199,0.0064, gap_jiggling: 6.7061,0.0195, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 611, epoch time: 10.22min, tot time: 5.01day, gap_random: 12.7625,0.0069, gap_repeat: 9.1963,0.0067, gap_jiggling: 6.8740,0.0200, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 612, epoch time: 10.18min, tot time: 5.01day, gap_random: 12.6340,0.0068, gap_repeat: 9.3193,0.0070, gap_jiggling: 6.9160,0.0202, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 613, epoch time: 10.17min, tot time: 5.02day, gap_random: 12.6273,0.0068, gap_repeat: 9.2559,0.0068, gap_jiggling: 6.9893,0.0201, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 614, epoch time: 10.23min, tot time: 5.03day, gap_random: 12.5703,0.0068, gap_repeat: 9.1758,0.0069, gap_jiggling: 6.8945,0.0203, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 615, epoch time: 10.24min, tot time: 5.04day, gap_random: 12.5145,0.0067, gap_repeat: 9.1318,0.0067, gap_jiggling: 6.8467,0.0198, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 616, epoch time: 10.18min, tot time: 5.04day, gap_random: 12.3840,0.0067, gap_repeat: 8.7959,0.0064, gap_jiggling: 6.5732,0.0198, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 617, epoch time: 10.18min, tot time: 5.05day, gap_random: 12.4255,0.0067, gap_repeat: 8.8613,0.0064, gap_jiggling: 6.7070,0.0196, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 618, epoch time: 10.16min, tot time: 5.06day, gap_random: 12.4930,0.0067, gap_repeat: 8.7197,0.0062, gap_jiggling: 6.8320,0.0195, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 619, epoch time: 10.22min, tot time: 5.06day, gap_random: 12.5298,0.0067, gap_repeat: 8.8701,0.0065, gap_jiggling: 6.6797,0.0196, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 620, epoch time: 10.20min, tot time: 5.07day, gap_random: 12.6018,0.0068, gap_repeat: 8.8750,0.0064, gap_jiggling: 6.7295,0.0200, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 621, epoch time: 10.15min, tot time: 5.08day, gap_random: 12.5618,0.0067, gap_repeat: 9.0557,0.0066, gap_jiggling: 6.5508,0.0191, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 622, epoch time: 10.17min, tot time: 5.08day, gap_random: 12.4160,0.0067, gap_repeat: 9.2275,0.0069, gap_jiggling: 6.5439,0.0195, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 623, epoch time: 10.17min, tot time: 5.09day, gap_random: 12.5518,0.0067, gap_repeat: 8.9482,0.0065, gap_jiggling: 6.6562,0.0197, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 624, epoch time: 10.13min, tot time: 5.10day, gap_random: 12.7040,0.0068, gap_repeat: 9.0742,0.0066, gap_jiggling: 6.6768,0.0193, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 625, epoch time: 10.12min, tot time: 5.11day, gap_random: 12.4235,0.0067, gap_repeat: 9.6016,0.0075, gap_jiggling: 6.8857,0.0197, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 626, epoch time: 9.41min, tot time: 5.11day, gap_random: 12.5355,0.0067, gap_repeat: 9.2070,0.0069, gap_jiggling: 6.7568,0.0197, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 627, epoch time: 7.01min, tot time: 5.12day, gap_random: 12.5418,0.0067, gap_repeat: 9.0596,0.0066, gap_jiggling: 6.6719,0.0192, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 628, epoch time: 7.00min, tot time: 5.12day, gap_random: 12.7725,0.0069, gap_repeat: 9.6318,0.0074, gap_jiggling: 6.7344,0.0192, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 629, epoch time: 6.99min, tot time: 5.13day, gap_random: 12.4523,0.0067, gap_repeat: 8.9688,0.0066, gap_jiggling: 6.6699,0.0193, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 630, epoch time: 6.98min, tot time: 5.13day, gap_random: 12.5023,0.0067, gap_repeat: 8.8066,0.0064, gap_jiggling: 6.7471,0.0197, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 631, epoch time: 7.00min, tot time: 5.14day, gap_random: 12.4020,0.0067, gap_repeat: 8.6123,0.0062, gap_jiggling: 6.6807,0.0195, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 632, epoch time: 7.01min, tot time: 5.14day, gap_random: 12.2738,0.0066, gap_repeat: 9.0264,0.0066, gap_jiggling: 6.7100,0.0192, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 633, epoch time: 7.01min, tot time: 5.15day, gap_random: 12.3438,0.0066, gap_repeat: 9.3701,0.0071, gap_jiggling: 6.6211,0.0190, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 634, epoch time: 7.01min, tot time: 5.15day, gap_random: 12.4683,0.0067, gap_repeat: 8.9482,0.0064, gap_jiggling: 6.5635,0.0193, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 635, epoch time: 7.02min, tot time: 5.16day, gap_random: 12.5203,0.0067, gap_repeat: 8.7383,0.0062, gap_jiggling: 6.5498,0.0190, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 636, epoch time: 7.01min, tot time: 5.16day, gap_random: 12.4333,0.0067, gap_repeat: 8.8594,0.0065, gap_jiggling: 6.5049,0.0192, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 637, epoch time: 7.01min, tot time: 5.17day, gap_random: 12.3858,0.0067, gap_repeat: 8.8213,0.0064, gap_jiggling: 6.5234,0.0186, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 638, epoch time: 7.01min, tot time: 5.17day, gap_random: 12.2945,0.0066, gap_repeat: 8.6953,0.0063, gap_jiggling: 6.4395,0.0186, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 639, epoch time: 7.02min, tot time: 5.18day, gap_random: 12.4923,0.0067, gap_repeat: 8.7764,0.0063, gap_jiggling: 6.6201,0.0188, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 640, epoch time: 7.01min, tot time: 5.18day, gap_random: 12.4908,0.0067, gap_repeat: 8.8213,0.0065, gap_jiggling: 6.5068,0.0183, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 641, epoch time: 7.01min, tot time: 5.19day, gap_random: 12.3580,0.0066, gap_repeat: 8.8594,0.0065, gap_jiggling: 6.3975,0.0187, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 642, epoch time: 6.99min, tot time: 5.19day, gap_random: 12.4430,0.0067, gap_repeat: 8.9521,0.0066, gap_jiggling: 6.4365,0.0188, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 643, epoch time: 6.99min, tot time: 5.20day, gap_random: 12.3598,0.0066, gap_repeat: 8.7168,0.0064, gap_jiggling: 6.5449,0.0190, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 644, epoch time: 6.99min, tot time: 5.20day, gap_random: 12.4770,0.0067, gap_repeat: 8.8105,0.0064, gap_jiggling: 6.4443,0.0186, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 645, epoch time: 7.00min, tot time: 5.21day, gap_random: 12.3648,0.0066, gap_repeat: 8.9639,0.0066, gap_jiggling: 6.5215,0.0183, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 646, epoch time: 7.01min, tot time: 5.21day, gap_random: 12.4103,0.0067, gap_repeat: 8.6982,0.0063, gap_jiggling: 6.4727,0.0190, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 647, epoch time: 7.02min, tot time: 5.22day, gap_random: 12.2848,0.0066, gap_repeat: 8.8623,0.0064, gap_jiggling: 6.4307,0.0188, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 648, epoch time: 7.02min, tot time: 5.22day, gap_random: 12.3185,0.0066, gap_repeat: 8.8525,0.0065, gap_jiggling: 6.4971,0.0192, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 649, epoch time: 7.01min, tot time: 5.23day, gap_random: 12.4195,0.0067, gap_repeat: 8.6279,0.0062, gap_jiggling: 6.5645,0.0186, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 650, epoch time: 7.00min, tot time: 5.23day, gap_random: 12.3278,0.0066, gap_repeat: 8.6904,0.0062, gap_jiggling: 6.5879,0.0188, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 651, epoch time: 7.00min, tot time: 5.23day, gap_random: 12.2235,0.0066, gap_repeat: 8.8477,0.0065, gap_jiggling: 6.4111,0.0183, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 652, epoch time: 6.99min, tot time: 5.24day, gap_random: 12.3835,0.0067, gap_repeat: 8.8740,0.0065, gap_jiggling: 6.6016,0.0193, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 653, epoch time: 6.97min, tot time: 5.24day, gap_random: 12.2930,0.0066, gap_repeat: 8.7598,0.0064, gap_jiggling: 6.4775,0.0189, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 654, epoch time: 6.99min, tot time: 5.25day, gap_random: 12.3038,0.0066, gap_repeat: 8.7129,0.0063, gap_jiggling: 6.5850,0.0187, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 655, epoch time: 7.01min, tot time: 5.25day, gap_random: 12.2750,0.0066, gap_repeat: 8.9023,0.0064, gap_jiggling: 6.2412,0.0180, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 656, epoch time: 6.97min, tot time: 5.26day, gap_random: 12.2980,0.0066, gap_repeat: 8.7344,0.0063, gap_jiggling: 6.2754,0.0182, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 657, epoch time: 7.00min, tot time: 5.26day, gap_random: 12.6065,0.0068, gap_repeat: 9.1924,0.0067, gap_jiggling: 6.4697,0.0186, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 658, epoch time: 7.02min, tot time: 5.27day, gap_random: 12.1858,0.0065, gap_repeat: 8.8994,0.0065, gap_jiggling: 6.5312,0.0181, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 659, epoch time: 7.03min, tot time: 5.27day, gap_random: 12.3173,0.0066, gap_repeat: 8.5479,0.0061, gap_jiggling: 6.4385,0.0187, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 660, epoch time: 7.02min, tot time: 5.28day, gap_random: 12.3008,0.0066, gap_repeat: 9.0322,0.0067, gap_jiggling: 6.6318,0.0191, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 661, epoch time: 7.02min, tot time: 5.28day, gap_random: 12.3043,0.0066, gap_repeat: 8.5566,0.0062, gap_jiggling: 6.3682,0.0185, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 662, epoch time: 6.99min, tot time: 5.29day, gap_random: 12.2813,0.0066, gap_repeat: 8.6387,0.0062, gap_jiggling: 6.3857,0.0180, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 663, epoch time: 6.99min, tot time: 5.29day, gap_random: 12.2175,0.0066, gap_repeat: 8.5713,0.0063, gap_jiggling: 6.4170,0.0182, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 664, epoch time: 7.01min, tot time: 5.30day, gap_random: 12.3145,0.0066, gap_repeat: 8.7637,0.0064, gap_jiggling: 6.4541,0.0183, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 665, epoch time: 7.01min, tot time: 5.30day, gap_random: 12.2603,0.0066, gap_repeat: 8.6133,0.0062, gap_jiggling: 6.3096,0.0181, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 666, epoch time: 7.00min, tot time: 5.31day, gap_random: 12.3560,0.0066, gap_repeat: 8.4795,0.0061, gap_jiggling: 6.5674,0.0184, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 667, epoch time: 7.02min, tot time: 5.31day, gap_random: 12.2813,0.0066, gap_repeat: 8.5352,0.0062, gap_jiggling: 6.5576,0.0184, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 668, epoch time: 7.01min, tot time: 5.32day, gap_random: 12.2708,0.0066, gap_repeat: 8.5176,0.0061, gap_jiggling: 6.3906,0.0181, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 669, epoch time: 7.02min, tot time: 5.32day, gap_random: 12.1723,0.0065, gap_repeat: 8.3887,0.0060, gap_jiggling: 6.2803,0.0186, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 670, epoch time: 7.03min, tot time: 5.33day, gap_random: 12.1498,0.0065, gap_repeat: 8.5117,0.0061, gap_jiggling: 6.3174,0.0183, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 671, epoch time: 7.03min, tot time: 5.33day, gap_random: 12.1728,0.0065, gap_repeat: 8.7539,0.0064, gap_jiggling: 6.3877,0.0181, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 672, epoch time: 7.02min, tot time: 5.34day, gap_random: 12.4168,0.0067, gap_repeat: 8.8340,0.0065, gap_jiggling: 6.3516,0.0177, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 673, epoch time: 7.01min, tot time: 5.34day, gap_random: 12.1680,0.0065, gap_repeat: 8.5576,0.0061, gap_jiggling: 6.2734,0.0181, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 674, epoch time: 7.01min, tot time: 5.35day, gap_random: 12.2128,0.0066, gap_repeat: 8.4434,0.0060, gap_jiggling: 6.2070,0.0183, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 675, epoch time: 7.00min, tot time: 5.35day, gap_random: 12.2873,0.0066, gap_repeat: 8.5312,0.0061, gap_jiggling: 6.0840,0.0175, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 676, epoch time: 7.01min, tot time: 5.36day, gap_random: 12.1345,0.0065, gap_repeat: 8.5146,0.0062, gap_jiggling: 6.2090,0.0174, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 677, epoch time: 7.01min, tot time: 5.36day, gap_random: 12.2360,0.0066, gap_repeat: 8.5615,0.0062, gap_jiggling: 6.2344,0.0183, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 678, epoch time: 7.03min, tot time: 5.37day, gap_random: 12.2605,0.0066, gap_repeat: 8.4062,0.0061, gap_jiggling: 6.2178,0.0177, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 679, epoch time: 7.03min, tot time: 5.37day, gap_random: 12.1455,0.0065, gap_repeat: 8.4824,0.0061, gap_jiggling: 6.1045,0.0173, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 680, epoch time: 7.02min, tot time: 5.38day, gap_random: 12.1430,0.0065, gap_repeat: 8.7197,0.0064, gap_jiggling: 6.1133,0.0176, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 681, epoch time: 7.02min, tot time: 5.38day, gap_random: 12.0968,0.0065, gap_repeat: 8.3730,0.0060, gap_jiggling: 6.4121,0.0186, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 682, epoch time: 7.03min, tot time: 5.39day, gap_random: 12.1838,0.0065, gap_repeat: 8.7100,0.0063, gap_jiggling: 6.3916,0.0178, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 683, epoch time: 7.04min, tot time: 5.39day, gap_random: 12.1955,0.0066, gap_repeat: 8.7559,0.0065, gap_jiggling: 6.3838,0.0184, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 684, epoch time: 7.02min, tot time: 5.40day, gap_random: 12.0210,0.0065, gap_repeat: 8.4912,0.0061, gap_jiggling: 6.2822,0.0179, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 685, epoch time: 7.02min, tot time: 5.40day, gap_random: 12.2515,0.0066, gap_repeat: 8.5840,0.0062, gap_jiggling: 6.3457,0.0180, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 686, epoch time: 7.03min, tot time: 5.41day, gap_random: 12.2493,0.0066, gap_repeat: 8.7383,0.0064, gap_jiggling: 6.5635,0.0187, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 687, epoch time: 7.03min, tot time: 5.41day, gap_random: 15.6643,0.0084, gap_repeat: 46.9229,0.0580, gap_jiggling: 55.8428,0.0981, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 688, epoch time: 7.03min, tot time: 5.42day, gap_random: 15.9423,0.0086, gap_repeat: 240.3799,0.2027, gap_jiggling: 468.6387,4.3781, kemeny_distance_idx_620: 893.0, kemeny_distance_idx_920: 893.0 
+Epoch: 689, epoch time: 7.03min, tot time: 5.42day, gap_random: 17.1823,0.0092, gap_repeat: 80.3223,0.1192, gap_jiggling: 88.8477,0.1733, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 690, epoch time: 7.03min, tot time: 5.43day, gap_random: 15.6563,0.0084, gap_repeat: 30.3398,0.0357, gap_jiggling: 24.1465,0.0495, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 691, epoch time: 7.04min, tot time: 5.43day, gap_random: 13.6250,0.0073, gap_repeat: 15.5703,0.0151, gap_jiggling: 11.1289,0.0289, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 692, epoch time: 7.03min, tot time: 5.44day, gap_random: 12.7395,0.0068, gap_repeat: 10.3828,0.0081, gap_jiggling: 7.9395,0.0225, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 693, epoch time: 7.01min, tot time: 5.44day, gap_random: 12.5635,0.0067, gap_repeat: 9.5879,0.0072, gap_jiggling: 7.0625,0.0199, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 694, epoch time: 6.99min, tot time: 5.45day, gap_random: 12.3755,0.0066, gap_repeat: 9.1475,0.0068, gap_jiggling: 6.6582,0.0189, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 695, epoch time: 7.02min, tot time: 5.45day, gap_random: 12.2383,0.0066, gap_repeat: 8.6025,0.0062, gap_jiggling: 6.4463,0.0188, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 696, epoch time: 7.03min, tot time: 5.45day, gap_random: 12.3175,0.0066, gap_repeat: 8.9932,0.0067, gap_jiggling: 6.4307,0.0185, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 697, epoch time: 7.04min, tot time: 5.46day, gap_random: 12.1320,0.0065, gap_repeat: 8.9727,0.0067, gap_jiggling: 6.5791,0.0183, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 698, epoch time: 7.03min, tot time: 5.46day, gap_random: 12.1220,0.0065, gap_repeat: 8.3164,0.0060, gap_jiggling: 6.3838,0.0177, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 699, epoch time: 7.04min, tot time: 5.47day, gap_random: 12.1548,0.0065, gap_repeat: 8.6582,0.0063, gap_jiggling: 6.2148,0.0178, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 700, epoch time: 7.02min, tot time: 5.47day, gap_random: 12.0620,0.0065, gap_repeat: 8.3174,0.0060, gap_jiggling: 6.2295,0.0179, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 701, epoch time: 7.01min, tot time: 5.48day, gap_random: 12.1980,0.0066, gap_repeat: 8.3008,0.0059, gap_jiggling: 6.3584,0.0174, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 702, epoch time: 6.98min, tot time: 5.48day, gap_random: 12.2615,0.0066, gap_repeat: 8.6016,0.0061, gap_jiggling: 6.3018,0.0176, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 703, epoch time: 7.01min, tot time: 5.49day, gap_random: 12.1248,0.0065, gap_repeat: 8.5039,0.0061, gap_jiggling: 6.2822,0.0176, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 704, epoch time: 7.03min, tot time: 5.49day, gap_random: 12.4183,0.0067, gap_repeat: 8.8867,0.0065, gap_jiggling: 6.4834,0.0185, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 705, epoch time: 7.04min, tot time: 5.50day, gap_random: 12.2130,0.0066, gap_repeat: 9.0840,0.0066, gap_jiggling: 6.7021,0.0179, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 706, epoch time: 7.03min, tot time: 5.50day, gap_random: 12.5095,0.0067, gap_repeat: 9.1318,0.0066, gap_jiggling: 6.8027,0.0183, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 707, epoch time: 7.03min, tot time: 5.51day, gap_random: 12.7490,0.0068, gap_repeat: 47.8184,0.0565, gap_jiggling: 24.8467,0.0410, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 708, epoch time: 7.03min, tot time: 5.51day, gap_random: 13.3258,0.0072, gap_repeat: 14.7217,0.0137, gap_jiggling: 12.0508,0.0248, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 709, epoch time: 7.03min, tot time: 5.52day, gap_random: 15.0953,0.0081, gap_repeat: 188.2412,0.1714, gap_jiggling: 362.4492,3.3902, kemeny_distance_idx_620: 702.0, kemeny_distance_idx_920: 702.0 
+Epoch: 710, epoch time: 7.04min, tot time: 5.52day, gap_random: 19.0035,0.0102, gap_repeat: 276.5273,0.3476, gap_jiggling: 469.2002,3.0798, kemeny_distance_idx_620: 467.0, kemeny_distance_idx_920: 467.0 
+Epoch: 711, epoch time: 7.04min, tot time: 5.53day, gap_random: 16.8923,0.0091, gap_repeat: 604.2529,0.5018, gap_jiggling: 1350.4902,13.4103, kemeny_distance_idx_620: 2565.0, kemeny_distance_idx_920: 2683.0 
+Epoch: 712, epoch time: 7.03min, tot time: 5.53day, gap_random: 16.4213,0.0088, gap_repeat: 252.9189,0.2261, gap_jiggling: 464.5996,4.0756, kemeny_distance_idx_620: 803.0, kemeny_distance_idx_920: 920.0 
+Epoch: 713, epoch time: 7.03min, tot time: 5.54day, gap_random: 19.2450,0.0104, gap_repeat: 121.2412,0.2013, gap_jiggling: 151.8408,0.2914, kemeny_distance_idx_620: 1.0, kemeny_distance_idx_920: 1.0 
+Epoch: 714, epoch time: 7.01min, tot time: 5.54day, gap_random: 15.2348,0.0082, gap_repeat: 32.2539,0.0408, gap_jiggling: 28.7314,0.0576, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 715, epoch time: 7.02min, tot time: 5.55day, gap_random: 14.5380,0.0078, gap_repeat: 24.9385,0.0300, gap_jiggling: 22.5107,0.0494, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 716, epoch time: 6.99min, tot time: 5.55day, gap_random: 13.5698,0.0073, gap_repeat: 13.3906,0.0117, gap_jiggling: 9.5244,0.0268, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 717, epoch time: 7.01min, tot time: 5.56day, gap_random: 15.4065,0.0083, gap_repeat: 174.8965,0.2650, gap_jiggling: 191.7891,0.3754, kemeny_distance_idx_620: 10.0, kemeny_distance_idx_920: 9.0 
+Epoch: 718, epoch time: 7.02min, tot time: 5.56day, gap_random: 17.1815,0.0092, gap_repeat: 60.5518,0.0810, gap_jiggling: 60.7119,0.1091, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 719, epoch time: 7.02min, tot time: 5.57day, gap_random: 13.8900,0.0075, gap_repeat: 14.4551,0.0133, gap_jiggling: 10.8457,0.0292, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 720, epoch time: 7.01min, tot time: 5.57day, gap_random: 13.8663,0.0075, gap_repeat: 13.8604,0.0122, gap_jiggling: 10.6514,0.0283, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 721, epoch time: 7.01min, tot time: 5.58day, gap_random: 13.2240,0.0071, gap_repeat: 11.9482,0.0097, gap_jiggling: 8.6787,0.0231, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 722, epoch time: 7.02min, tot time: 5.58day, gap_random: 12.8008,0.0069, gap_repeat: 10.3301,0.0081, gap_jiggling: 7.8750,0.0221, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 723, epoch time: 7.03min, tot time: 5.59day, gap_random: 12.5410,0.0067, gap_repeat: 10.3418,0.0080, gap_jiggling: 7.4072,0.0203, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 
+Epoch: 724, epoch time: 7.02min, tot time: 5.59day, gap_random: 12.7473,0.0068, gap_repeat: 19.9326,0.0365, gap_jiggling: 20.8877,0.0388, kemeny_distance_idx_620: 0.0, kemeny_distance_idx_920: 0.0 

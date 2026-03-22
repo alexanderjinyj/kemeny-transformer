@@ -1,0 +1,4312 @@
+Entity,Code,Year,Combined - percentage of 25-64 years adults with incomplete tertiary education
+Afghanistan,AFG,1870,0
+Afghanistan,AFG,1875,0
+Afghanistan,AFG,1880,0
+Afghanistan,AFG,1885,0
+Afghanistan,AFG,1890,0
+Afghanistan,AFG,1895,0
+Afghanistan,AFG,1900,0
+Afghanistan,AFG,1905,0
+Afghanistan,AFG,1910,0
+Afghanistan,AFG,1915,0.1
+Afghanistan,AFG,1920,0.1
+Afghanistan,AFG,1925,0.1
+Afghanistan,AFG,1930,0.1
+Afghanistan,AFG,1935,0.1
+Afghanistan,AFG,1940,0.2
+Afghanistan,AFG,1945,0.3
+Afghanistan,AFG,1950,0.3
+Afghanistan,AFG,1955,0.5
+Afghanistan,AFG,1960,0.6
+Afghanistan,AFG,1965,0.9
+Afghanistan,AFG,1970,1.2
+Afghanistan,AFG,1975,2.5
+Afghanistan,AFG,1980,3.6
+Afghanistan,AFG,1985,4.8
+Afghanistan,AFG,1990,6
+Afghanistan,AFG,1995,7
+Afghanistan,AFG,2000,7.9
+Afghanistan,AFG,2005,8.5
+Afghanistan,AFG,2010,8.8
+Afghanistan,AFG,2015,8.8
+Afghanistan,AFG,2020,8
+Afghanistan,AFG,2025,7.3
+Afghanistan,AFG,2030,5.8
+Afghanistan,AFG,2035,4.8
+Afghanistan,AFG,2040,4.1
+Africa,,1870,0
+Africa,,1875,0
+Africa,,1880,0
+Africa,,1885,0
+Africa,,1890,0.0058999183
+Africa,,1895,0.0060804305
+Africa,,1900,0.006786721
+Africa,,1905,0.007659175
+Africa,,1910,0.026799247
+Africa,,1915,0.03390612
+Africa,,1920,0.09994243
+Africa,,1925,0.17051019
+Africa,,1930,0.25357977
+Africa,,1935,0.3448825
+Africa,,1940,0.45153433
+Africa,,1945,0.5309498
+Africa,,1950,0.65340555
+Africa,,1955,0.7388711
+Africa,,1960,0.834243
+Africa,,1965,0.9785784
+Africa,,1970,1.1705116
+Africa,,1975,1.2956754
+Africa,,1980,1.4390233
+Africa,,1985,2.0668306
+Africa,,1990,2.74479
+Africa,,1995,3.616308
+Africa,,2000,4.1453114
+Africa,,2005,4.818901
+Africa,,2010,5.6249323
+Africa,,2015,5.558001
+Africa,,2020,6.2285576
+Africa,,2025,7.2902317
+Africa,,2030,8.838183
+Africa,,2035,11.19107
+Africa,,2040,13.898678
+Albania,ALB,1870,0
+Albania,ALB,1875,0
+Albania,ALB,1880,0
+Albania,ALB,1885,0
+Albania,ALB,1890,0
+Albania,ALB,1895,0
+Albania,ALB,1900,0
+Albania,ALB,1905,0
+Albania,ALB,1910,0
+Albania,ALB,1915,0
+Albania,ALB,1920,0
+Albania,ALB,1925,0
+Albania,ALB,1930,0.1
+Albania,ALB,1935,0.1
+Albania,ALB,1940,0.1
+Albania,ALB,1945,0.1
+Albania,ALB,1950,0.3
+Albania,ALB,1955,0.9
+Albania,ALB,1960,1.4
+Albania,ALB,1965,2.3
+Albania,ALB,1970,2.9
+Albania,ALB,1975,4.1
+Albania,ALB,1980,5.4
+Albania,ALB,1985,6
+Albania,ALB,1990,6.6
+Albania,ALB,1995,6.6
+Albania,ALB,2000,8
+Albania,ALB,2005,4.8
+Albania,ALB,2010,1.9
+Albania,ALB,2015,2.3
+Albania,ALB,2020,2
+Albania,ALB,2025,2.8
+Albania,ALB,2030,4.5
+Albania,ALB,2035,6.9
+Albania,ALB,2040,10.2
+Algeria,DZA,1870,0
+Algeria,DZA,1875,0
+Algeria,DZA,1880,0
+Algeria,DZA,1885,0
+Algeria,DZA,1890,0.1
+Algeria,DZA,1895,0.1
+Algeria,DZA,1900,0.1
+Algeria,DZA,1905,0.1
+Algeria,DZA,1910,0.2
+Algeria,DZA,1915,0.2
+Algeria,DZA,1920,0.2
+Algeria,DZA,1925,0.2
+Algeria,DZA,1930,0.3
+Algeria,DZA,1935,0.3
+Algeria,DZA,1940,0.3
+Algeria,DZA,1945,0.3
+Algeria,DZA,1950,0.4
+Algeria,DZA,1955,0.4
+Algeria,DZA,1960,0.3
+Algeria,DZA,1965,0.4
+Algeria,DZA,1970,0.4
+Algeria,DZA,1975,0.5
+Algeria,DZA,1980,1
+Algeria,DZA,1985,2.1
+Algeria,DZA,1990,3.5
+Algeria,DZA,1995,5.1
+Algeria,DZA,2000,6.5
+Algeria,DZA,2005,8.7
+Algeria,DZA,2010,10.9
+Algeria,DZA,2015,14.1
+Algeria,DZA,2020,17.3
+Algeria,DZA,2025,20.6
+Algeria,DZA,2030,24.2
+Algeria,DZA,2035,29.4
+Algeria,DZA,2040,35.6
+Argentina,ARG,1870,0.1
+Argentina,ARG,1875,0.1
+Argentina,ARG,1880,0.1
+Argentina,ARG,1885,0.1
+Argentina,ARG,1890,0.1
+Argentina,ARG,1895,0.2
+Argentina,ARG,1900,0.3
+Argentina,ARG,1905,0.4
+Argentina,ARG,1910,0.5
+Argentina,ARG,1915,0.7
+Argentina,ARG,1920,0.8
+Argentina,ARG,1925,0.8
+Argentina,ARG,1930,1
+Argentina,ARG,1935,1.1
+Argentina,ARG,1940,1.2
+Argentina,ARG,1945,1.3
+Argentina,ARG,1950,1.3
+Argentina,ARG,1955,2
+Argentina,ARG,1960,3
+Argentina,ARG,1965,3.6
+Argentina,ARG,1970,4.3
+Argentina,ARG,1975,5.8
+Argentina,ARG,1980,7.7
+Argentina,ARG,1985,10.3
+Argentina,ARG,1990,13.5
+Argentina,ARG,1995,14.3
+Argentina,ARG,2000,12.4
+Argentina,ARG,2005,13.7
+Argentina,ARG,2010,12.3
+Argentina,ARG,2015,12.9
+Argentina,ARG,2020,13.8
+Argentina,ARG,2025,15.2
+Argentina,ARG,2030,16.9
+Argentina,ARG,2035,18.8
+Argentina,ARG,2040,20.9
+Armenia,ARM,2015,27.2
+Armenia,ARM,2020,29.5
+Armenia,ARM,2025,32.1
+Armenia,ARM,2030,35.6
+Armenia,ARM,2035,39.6
+Armenia,ARM,2040,44
+Asia,,1870,0
+Asia,,1875,0
+Asia,,1880,0
+Asia,,1885,0
+Asia,,1890,0.0047522965
+Asia,,1895,0.0048646363
+Asia,,1900,0.008866789
+Asia,,1905,0.013541473
+Asia,,1910,0.06605309
+Asia,,1915,0.09110462
+Asia,,1920,0.14895068
+Asia,,1925,0.22836751
+Asia,,1930,0.30552906
+Asia,,1935,0.4445541
+Asia,,1940,0.5333862
+Asia,,1945,0.64213854
+Asia,,1950,0.75769573
+Asia,,1955,0.9907279
+Asia,,1960,1.100777
+Asia,,1965,1.365568
+Asia,,1970,1.616275
+Asia,,1975,2.179932
+Asia,,1980,2.9272804
+Asia,,1985,3.8785753
+Asia,,1990,4.940961
+Asia,,1995,6.2521157
+Asia,,2000,8.191704
+Asia,,2005,8.774441
+Asia,,2010,9.576465
+Asia,,2015,10.79199
+Asia,,2020,11.470799
+Asia,,2025,13.152229
+Asia,,2030,15.452749
+Asia,,2035,18.450756
+Asia,,2040,22.099033
+Australia,AUS,1870,0
+Australia,AUS,1875,0
+Australia,AUS,1880,0
+Australia,AUS,1885,0.1
+Australia,AUS,1890,0.1
+Australia,AUS,1895,0.1
+Australia,AUS,1900,0.2
+Australia,AUS,1905,0.3
+Australia,AUS,1910,0.5
+Australia,AUS,1915,1.9
+Australia,AUS,1920,3.2
+Australia,AUS,1925,4.3
+Australia,AUS,1930,5.7
+Australia,AUS,1935,7.1
+Australia,AUS,1940,8.4
+Australia,AUS,1945,9.6
+Australia,AUS,1950,11
+Australia,AUS,1955,11.9
+Australia,AUS,1960,12.9
+Australia,AUS,1965,13.8
+Australia,AUS,1970,23.2
+Australia,AUS,1975,20.6
+Australia,AUS,1980,22.5
+Australia,AUS,1985,25.7
+Australia,AUS,1990,27.8
+Australia,AUS,1995,29.1
+Australia,AUS,2000,26.9
+Australia,AUS,2005,32.6
+Australia,AUS,2010,37.9
+Australia,AUS,2015,33.7
+Australia,AUS,2020,30.2
+Australia,AUS,2025,26.6
+Australia,AUS,2030,23.4
+Australia,AUS,2035,20
+Australia,AUS,2040,16.9
+Austria,AUT,1870,0.6
+Austria,AUT,1875,0.7
+Austria,AUT,1880,0.9
+Austria,AUT,1885,1
+Austria,AUT,1890,1.2
+Austria,AUT,1895,1.3
+Austria,AUT,1900,1.5
+Austria,AUT,1905,1.7
+Austria,AUT,1910,1.9
+Austria,AUT,1915,2.1
+Austria,AUT,1920,2.1
+Austria,AUT,1925,2.5
+Austria,AUT,1930,2.8
+Austria,AUT,1935,2.9
+Austria,AUT,1940,2.8
+Austria,AUT,1945,2.6
+Austria,AUT,1950,2.2
+Austria,AUT,1955,2.3
+Austria,AUT,1960,2.4
+Austria,AUT,1965,2.5
+Austria,AUT,1970,2.8
+Austria,AUT,1975,3.2
+Austria,AUT,1980,3.6
+Austria,AUT,1985,4.7
+Austria,AUT,1990,6.8
+Austria,AUT,1995,9.5
+Austria,AUT,2000,13.4
+Austria,AUT,2005,17.7
+Austria,AUT,2010,19.3
+Austria,AUT,2015,17.9
+Austria,AUT,2020,15.9
+Austria,AUT,2025,11.6
+Austria,AUT,2030,10.5
+Austria,AUT,2035,9.4
+Austria,AUT,2040,8.9
+Bahrain,BHR,2015,8.5
+Bahrain,BHR,2020,10.7
+Bahrain,BHR,2025,14
+Bahrain,BHR,2030,17.5
+Bahrain,BHR,2035,21.8
+Bahrain,BHR,2040,27.1
+Bangladesh,BGD,1870,0
+Bangladesh,BGD,1875,0
+Bangladesh,BGD,1880,0
+Bangladesh,BGD,1885,0
+Bangladesh,BGD,1890,0
+Bangladesh,BGD,1895,0
+Bangladesh,BGD,1900,0
+Bangladesh,BGD,1905,0
+Bangladesh,BGD,1910,0.1
+Bangladesh,BGD,1915,0.1
+Bangladesh,BGD,1920,0.2
+Bangladesh,BGD,1925,0.2
+Bangladesh,BGD,1930,0.2
+Bangladesh,BGD,1935,0.3
+Bangladesh,BGD,1940,0.3
+Bangladesh,BGD,1945,0.3
+Bangladesh,BGD,1950,0.3
+Bangladesh,BGD,1955,0.3
+Bangladesh,BGD,1960,0.3
+Bangladesh,BGD,1965,0.4
+Bangladesh,BGD,1970,0.6
+Bangladesh,BGD,1975,0.9
+Bangladesh,BGD,1980,1.4
+Bangladesh,BGD,1985,1.8
+Bangladesh,BGD,1990,2.5
+Bangladesh,BGD,1995,3.5
+Bangladesh,BGD,2000,4.5
+Bangladesh,BGD,2005,4.6
+Bangladesh,BGD,2010,4.7
+Bangladesh,BGD,2015,4.9
+Bangladesh,BGD,2020,3.5
+Bangladesh,BGD,2025,3.4
+Bangladesh,BGD,2030,3.6
+Bangladesh,BGD,2035,4
+Bangladesh,BGD,2040,4.8
+Barbados,BRB,1870,0
+Barbados,BRB,1875,0
+Barbados,BRB,1880,0
+Barbados,BRB,1885,0
+Barbados,BRB,1890,0
+Barbados,BRB,1895,0
+Barbados,BRB,1900,0
+Barbados,BRB,1905,0
+Barbados,BRB,1910,0
+Barbados,BRB,1915,0.1
+Barbados,BRB,1920,0.1
+Barbados,BRB,1925,0.2
+Barbados,BRB,1930,0.3
+Barbados,BRB,1935,0.4
+Barbados,BRB,1940,0.5
+Barbados,BRB,1945,0.6
+Barbados,BRB,1950,0.7
+Barbados,BRB,1955,0.9
+Barbados,BRB,1960,1.1
+Barbados,BRB,1965,1.2
+Barbados,BRB,1970,1.4
+Barbados,BRB,1975,2.4
+Barbados,BRB,1980,3.9
+Barbados,BRB,1985,4.4
+Barbados,BRB,1990,4.2
+Barbados,BRB,1995,3
+Barbados,BRB,2000,1.1
+Barbados,BRB,2005,1.1
+Barbados,BRB,2010,2.3
+Barbados,BRB,2015,4.7
+Barbados,BRB,2020,7.5
+Barbados,BRB,2025,11.1
+Barbados,BRB,2030,15.6
+Barbados,BRB,2035,20.9
+Barbados,BRB,2040,26.7
+Belgium,BEL,1870,0.3
+Belgium,BEL,1875,0.4
+Belgium,BEL,1880,0.5
+Belgium,BEL,1885,0.5
+Belgium,BEL,1890,0.7
+Belgium,BEL,1895,0.7
+Belgium,BEL,1900,0.8
+Belgium,BEL,1905,0.8
+Belgium,BEL,1910,0.8
+Belgium,BEL,1915,0.9
+Belgium,BEL,1920,1
+Belgium,BEL,1925,1.1
+Belgium,BEL,1930,1.4
+Belgium,BEL,1935,1.7
+Belgium,BEL,1940,2.1
+Belgium,BEL,1945,2.6
+Belgium,BEL,1950,3.3
+Belgium,BEL,1955,3.8
+Belgium,BEL,1960,4.3
+Belgium,BEL,1965,5.2
+Belgium,BEL,1970,6.2
+Belgium,BEL,1975,9.2
+Belgium,BEL,1980,12.8
+Belgium,BEL,1985,16.4
+Belgium,BEL,1990,20.7
+Belgium,BEL,1995,24.8
+Belgium,BEL,2000,28.7
+Belgium,BEL,2005,31.8
+Belgium,BEL,2010,34.8
+Belgium,BEL,2015,34.7
+Belgium,BEL,2020,34.5
+Belgium,BEL,2025,34.2
+Belgium,BEL,2030,34.2
+Belgium,BEL,2035,33.4
+Belgium,BEL,2040,32.9
+Belize,BLZ,1870,0
+Belize,BLZ,1875,0
+Belize,BLZ,1880,0
+Belize,BLZ,1885,0
+Belize,BLZ,1890,0
+Belize,BLZ,1895,0
+Belize,BLZ,1900,0
+Belize,BLZ,1905,0
+Belize,BLZ,1910,1
+Belize,BLZ,1915,1.9
+Belize,BLZ,1920,2.8
+Belize,BLZ,1925,3.7
+Belize,BLZ,1930,4.6
+Belize,BLZ,1935,5.6
+Belize,BLZ,1940,6.4
+Belize,BLZ,1945,7.2
+Belize,BLZ,1950,7.6
+Belize,BLZ,1955,8.4
+Belize,BLZ,1960,9
+Belize,BLZ,1965,6.6
+Belize,BLZ,1970,1.5
+Belize,BLZ,1975,1.8
+Belize,BLZ,1980,2.5
+Belize,BLZ,1985,4.3
+Belize,BLZ,1990,7.3
+Belize,BLZ,1995,7.5
+Belize,BLZ,2000,7.4
+Belize,BLZ,2005,6.8
+Belize,BLZ,2010,5.8
+Belize,BLZ,2015,6.1
+Belize,BLZ,2020,5
+Belize,BLZ,2025,4.1
+Belize,BLZ,2030,3.6
+Belize,BLZ,2035,3.5
+Belize,BLZ,2040,3.8
+Benin,BEN,1870,0
+Benin,BEN,1875,0
+Benin,BEN,1880,0
+Benin,BEN,1885,0
+Benin,BEN,1890,0
+Benin,BEN,1895,0
+Benin,BEN,1900,0
+Benin,BEN,1905,0
+Benin,BEN,1910,0
+Benin,BEN,1915,0
+Benin,BEN,1920,0
+Benin,BEN,1925,0
+Benin,BEN,1930,0.1
+Benin,BEN,1935,0.1
+Benin,BEN,1940,0.1
+Benin,BEN,1945,0.2
+Benin,BEN,1950,0.2
+Benin,BEN,1955,0.2
+Benin,BEN,1960,0.3
+Benin,BEN,1965,0.3
+Benin,BEN,1970,0.3
+Benin,BEN,1975,0.3
+Benin,BEN,1980,0.3
+Benin,BEN,1985,0.7
+Benin,BEN,1990,1.3
+Benin,BEN,1995,1.6
+Benin,BEN,2000,2.4
+Benin,BEN,2005,2.4
+Benin,BEN,2010,3.3
+Benin,BEN,2015,4.6
+Benin,BEN,2020,6.1
+Benin,BEN,2025,8.3
+Benin,BEN,2030,11.4
+Benin,BEN,2035,15.3
+Benin,BEN,2040,20.2
+Bolivia,BOL,1870,0
+Bolivia,BOL,1875,0
+Bolivia,BOL,1880,0.1
+Bolivia,BOL,1885,0.1
+Bolivia,BOL,1890,0.1
+Bolivia,BOL,1895,0.1
+Bolivia,BOL,1900,0.1
+Bolivia,BOL,1905,0.2
+Bolivia,BOL,1910,0.2
+Bolivia,BOL,1915,0.3
+Bolivia,BOL,1920,0.3
+Bolivia,BOL,1925,0.5
+Bolivia,BOL,1930,0.7
+Bolivia,BOL,1935,0.9
+Bolivia,BOL,1940,1.2
+Bolivia,BOL,1945,1.5
+Bolivia,BOL,1950,2
+Bolivia,BOL,1955,2.4
+Bolivia,BOL,1960,3
+Bolivia,BOL,1965,3.4
+Bolivia,BOL,1970,4.5
+Bolivia,BOL,1975,5.5
+Bolivia,BOL,1980,7
+Bolivia,BOL,1985,9.1
+Bolivia,BOL,1990,11.5
+Bolivia,BOL,1995,12.8
+Bolivia,BOL,2000,15.3
+Bolivia,BOL,2005,18.5
+Bolivia,BOL,2010,24.5
+Bolivia,BOL,2015,26.7
+Bolivia,BOL,2020,29.2
+Bolivia,BOL,2025,32.1
+Bolivia,BOL,2030,35.6
+Bolivia,BOL,2035,39.3
+Bolivia,BOL,2040,43.4
+Botswana,BWA,2015,4.5
+Botswana,BWA,2020,5.2
+Botswana,BWA,2025,6.4
+Botswana,BWA,2030,8
+Botswana,BWA,2035,10.1
+Botswana,BWA,2040,13.3
+Brazil,BRA,1870,0
+Brazil,BRA,1875,0
+Brazil,BRA,1880,0
+Brazil,BRA,1885,0
+Brazil,BRA,1890,0
+Brazil,BRA,1895,0
+Brazil,BRA,1900,0.2
+Brazil,BRA,1905,0.3
+Brazil,BRA,1910,0.4
+Brazil,BRA,1915,0.5
+Brazil,BRA,1920,0.7
+Brazil,BRA,1925,0.8
+Brazil,BRA,1930,0.8
+Brazil,BRA,1935,0.9
+Brazil,BRA,1940,0.9
+Brazil,BRA,1945,0.9
+Brazil,BRA,1950,0.9
+Brazil,BRA,1955,1
+Brazil,BRA,1960,1.2
+Brazil,BRA,1965,1.6
+Brazil,BRA,1970,2
+Brazil,BRA,1975,4.3
+Brazil,BRA,1980,5.3
+Brazil,BRA,1985,5.8
+Brazil,BRA,1990,6.3
+Brazil,BRA,1995,7
+Brazil,BRA,2000,7.8
+Brazil,BRA,2005,8.7
+Brazil,BRA,2010,12.1
+Brazil,BRA,2015,11.2
+Brazil,BRA,2020,11.2
+Brazil,BRA,2025,12.1
+Brazil,BRA,2030,13.8
+Brazil,BRA,2035,16.1
+Brazil,BRA,2040,19.1
+Brunei,BRN,2015,11.1
+Brunei,BRN,2020,12.7
+Brunei,BRN,2025,15.6
+Brunei,BRN,2030,19.4
+Brunei,BRN,2035,24
+Brunei,BRN,2040,29.1
+Bulgaria,BGR,1870,0
+Bulgaria,BGR,1875,0
+Bulgaria,BGR,1880,0
+Bulgaria,BGR,1885,0
+Bulgaria,BGR,1890,0
+Bulgaria,BGR,1895,0.2
+Bulgaria,BGR,1900,0.3
+Bulgaria,BGR,1905,0.4
+Bulgaria,BGR,1910,0.6
+Bulgaria,BGR,1915,0.9
+Bulgaria,BGR,1920,1.1
+Bulgaria,BGR,1925,1.4
+Bulgaria,BGR,1930,1.6
+Bulgaria,BGR,1935,1.8
+Bulgaria,BGR,1940,2.2
+Bulgaria,BGR,1945,2.5
+Bulgaria,BGR,1950,3
+Bulgaria,BGR,1955,3.6
+Bulgaria,BGR,1960,4.2
+Bulgaria,BGR,1965,5.4
+Bulgaria,BGR,1970,7.6
+Bulgaria,BGR,1975,9.9
+Bulgaria,BGR,1980,13
+Bulgaria,BGR,1985,15.7
+Bulgaria,BGR,1990,17.4
+Bulgaria,BGR,1995,18
+Bulgaria,BGR,2000,20.9
+Bulgaria,BGR,2005,22.1
+Bulgaria,BGR,2010,26.3
+Bulgaria,BGR,2015,25.2
+Bulgaria,BGR,2020,23.9
+Bulgaria,BGR,2025,23.4
+Bulgaria,BGR,2030,23.7
+Bulgaria,BGR,2035,24.5
+Bulgaria,BGR,2040,25.6
+Burundi,BDI,2015,1.4
+Burundi,BDI,2020,1.9
+Burundi,BDI,2025,2.6
+Burundi,BDI,2030,3.4
+Burundi,BDI,2035,4.6
+Burundi,BDI,2040,6.3
+Cambodia,KHM,1870,0
+Cambodia,KHM,1875,0
+Cambodia,KHM,1880,0
+Cambodia,KHM,1885,0
+Cambodia,KHM,1890,0
+Cambodia,KHM,1895,0
+Cambodia,KHM,1900,0
+Cambodia,KHM,1905,0
+Cambodia,KHM,1910,0
+Cambodia,KHM,1915,0
+Cambodia,KHM,1920,0
+Cambodia,KHM,1925,0
+Cambodia,KHM,1930,0
+Cambodia,KHM,1935,0
+Cambodia,KHM,1940,0
+Cambodia,KHM,1945,0
+Cambodia,KHM,1950,0
+Cambodia,KHM,1955,0
+Cambodia,KHM,1960,0
+Cambodia,KHM,1965,0.1
+Cambodia,KHM,1970,0.1
+Cambodia,KHM,1975,0.2
+Cambodia,KHM,1980,0.3
+Cambodia,KHM,1985,0.3
+Cambodia,KHM,1990,0.3
+Cambodia,KHM,1995,0.4
+Cambodia,KHM,2000,0.5
+Cambodia,KHM,2005,1
+Cambodia,KHM,2010,2.3
+Cambodia,KHM,2015,3.1
+Cambodia,KHM,2020,2.8
+Cambodia,KHM,2025,2.8
+Cambodia,KHM,2030,3.6
+Cambodia,KHM,2035,5.4
+Cambodia,KHM,2040,8.7
+Cameroon,CMR,1870,0
+Cameroon,CMR,1875,0
+Cameroon,CMR,1880,0
+Cameroon,CMR,1885,0
+Cameroon,CMR,1890,0
+Cameroon,CMR,1895,0
+Cameroon,CMR,1900,0
+Cameroon,CMR,1905,0
+Cameroon,CMR,1910,0
+Cameroon,CMR,1915,0
+Cameroon,CMR,1920,0
+Cameroon,CMR,1925,0
+Cameroon,CMR,1930,0
+Cameroon,CMR,1935,0
+Cameroon,CMR,1940,0
+Cameroon,CMR,1945,0.1
+Cameroon,CMR,1950,0.1
+Cameroon,CMR,1955,0.1
+Cameroon,CMR,1960,0.1
+Cameroon,CMR,1965,0.2
+Cameroon,CMR,1970,0.2
+Cameroon,CMR,1975,0.3
+Cameroon,CMR,1980,0.3
+Cameroon,CMR,1985,0.4
+Cameroon,CMR,1990,0.6
+Cameroon,CMR,1995,1
+Cameroon,CMR,2000,1.4
+Cameroon,CMR,2005,1.9
+Cameroon,CMR,2010,2.7
+Cameroon,CMR,2015,3.9
+Cameroon,CMR,2020,4.7
+Cameroon,CMR,2025,7
+Cameroon,CMR,2030,9.9
+Cameroon,CMR,2035,13.3
+Cameroon,CMR,2040,17.5
+Canada,CAN,1870,0
+Canada,CAN,1875,0
+Canada,CAN,1880,0
+Canada,CAN,1885,0
+Canada,CAN,1890,0.3
+Canada,CAN,1895,0.4
+Canada,CAN,1900,1.4
+Canada,CAN,1905,2.4
+Canada,CAN,1910,3.2
+Canada,CAN,1915,4.2
+Canada,CAN,1920,5
+Canada,CAN,1925,5.9
+Canada,CAN,1930,6.6
+Canada,CAN,1935,7.6
+Canada,CAN,1940,8.2
+Canada,CAN,1945,8.8
+Canada,CAN,1950,9.3
+Canada,CAN,1955,11.7
+Canada,CAN,1960,14
+Canada,CAN,1965,14.7
+Canada,CAN,1970,17.5
+Canada,CAN,1975,22.7
+Canada,CAN,1980,28
+Canada,CAN,1985,21.4
+Canada,CAN,1990,23.7
+Canada,CAN,1995,26.8
+Canada,CAN,2000,30.3
+Canada,CAN,2005,48.5
+Canada,CAN,2010,52.2
+Canada,CAN,2015,51.5
+Canada,CAN,2020,51.3
+Canada,CAN,2025,51.2
+Canada,CAN,2030,51.4
+Canada,CAN,2035,50.8
+Canada,CAN,2040,50.7
+Central African Republic,CAF,2015,2
+Central African Republic,CAF,2020,1.4
+Central African Republic,CAF,2025,1.3
+Central African Republic,CAF,2030,1.2
+Central African Republic,CAF,2035,1.3
+Central African Republic,CAF,2040,1.5
+Chile,CHL,1870,0.1
+Chile,CHL,1875,0.1
+Chile,CHL,1880,0.1
+Chile,CHL,1885,0.2
+Chile,CHL,1890,0.2
+Chile,CHL,1895,0.3
+Chile,CHL,1900,0.5
+Chile,CHL,1905,0.7
+Chile,CHL,1910,0.9
+Chile,CHL,1915,1.1
+Chile,CHL,1920,1.3
+Chile,CHL,1925,1.7
+Chile,CHL,1930,1.9
+Chile,CHL,1935,2.1
+Chile,CHL,1940,2.3
+Chile,CHL,1945,2.4
+Chile,CHL,1950,2.4
+Chile,CHL,1955,2.3
+Chile,CHL,1960,2.1
+Chile,CHL,1965,2.8
+Chile,CHL,1970,4
+Chile,CHL,1975,5.4
+Chile,CHL,1980,7.8
+Chile,CHL,1985,10
+Chile,CHL,1990,12.3
+Chile,CHL,1995,16.4
+Chile,CHL,2000,22.3
+Chile,CHL,2005,21.9
+Chile,CHL,2010,20.6
+Chile,CHL,2015,18.8
+Chile,CHL,2020,17.3
+Chile,CHL,2025,16.5
+Chile,CHL,2030,16.2
+Chile,CHL,2035,16
+Chile,CHL,2040,16.3
+China,CHN,1870,0
+China,CHN,1875,0
+China,CHN,1880,0
+China,CHN,1885,0
+China,CHN,1890,0
+China,CHN,1895,0
+China,CHN,1900,0
+China,CHN,1905,0
+China,CHN,1910,0
+China,CHN,1915,0
+China,CHN,1920,0
+China,CHN,1925,0
+China,CHN,1930,0
+China,CHN,1935,0.1
+China,CHN,1940,0.1
+China,CHN,1945,0.1
+China,CHN,1950,0.2
+China,CHN,1955,0.4
+China,CHN,1960,0.6
+China,CHN,1965,0.9
+China,CHN,1970,1.1
+China,CHN,1975,1.1
+China,CHN,1980,1.1
+China,CHN,1985,1.5
+China,CHN,1990,2.2
+China,CHN,1995,3.1
+China,CHN,2000,4.6
+China,CHN,2005,4.2
+China,CHN,2010,3.9
+China,CHN,2015,5.4
+China,CHN,2020,8.7
+China,CHN,2025,11.9
+China,CHN,2030,15.9
+China,CHN,2035,21.2
+China,CHN,2040,27.7
+Colombia,COL,1870,0.1
+Colombia,COL,1875,0.1
+Colombia,COL,1880,0.1
+Colombia,COL,1885,0.1
+Colombia,COL,1890,0.1
+Colombia,COL,1895,0.2
+Colombia,COL,1900,0.2
+Colombia,COL,1905,0.3
+Colombia,COL,1910,0.4
+Colombia,COL,1915,0.5
+Colombia,COL,1920,0.6
+Colombia,COL,1925,0.7
+Colombia,COL,1930,0.7
+Colombia,COL,1935,0.8
+Colombia,COL,1940,0.8
+Colombia,COL,1945,0.9
+Colombia,COL,1950,0.9
+Colombia,COL,1955,1
+Colombia,COL,1960,1.2
+Colombia,COL,1965,1.5
+Colombia,COL,1970,2
+Colombia,COL,1975,3
+Colombia,COL,1980,4.2
+Colombia,COL,1985,6.3
+Colombia,COL,1990,8.7
+Colombia,COL,1995,11.3
+Colombia,COL,2000,11.2
+Colombia,COL,2005,11
+Colombia,COL,2010,22
+Colombia,COL,2015,24.3
+Colombia,COL,2020,26.4
+Colombia,COL,2025,28.9
+Colombia,COL,2030,32.2
+Colombia,COL,2035,35.8
+Colombia,COL,2040,40
+Congo,COG,2015,1.9
+Congo,COG,2020,1.3
+Congo,COG,2025,0.8
+Congo,COG,2030,0.5
+Congo,COG,2035,0.3
+Congo,COG,2040,0.1
+Costa Rica,CRI,1870,0
+Costa Rica,CRI,1875,0
+Costa Rica,CRI,1880,0
+Costa Rica,CRI,1885,0
+Costa Rica,CRI,1890,0
+Costa Rica,CRI,1895,0
+Costa Rica,CRI,1900,0.3
+Costa Rica,CRI,1905,0.5
+Costa Rica,CRI,1910,0.8
+Costa Rica,CRI,1915,1
+Costa Rica,CRI,1920,1.2
+Costa Rica,CRI,1925,1.3
+Costa Rica,CRI,1930,1.4
+Costa Rica,CRI,1935,1.6
+Costa Rica,CRI,1940,1.6
+Costa Rica,CRI,1945,1.7
+Costa Rica,CRI,1950,1.8
+Costa Rica,CRI,1955,2
+Costa Rica,CRI,1960,2.5
+Costa Rica,CRI,1965,3.1
+Costa Rica,CRI,1970,3.1
+Costa Rica,CRI,1975,6.1
+Costa Rica,CRI,1980,7.4
+Costa Rica,CRI,1985,10.2
+Costa Rica,CRI,1990,12.3
+Costa Rica,CRI,1995,14.2
+Costa Rica,CRI,2000,15.7
+Costa Rica,CRI,2005,19.4
+Costa Rica,CRI,2010,20.8
+Costa Rica,CRI,2015,19.9
+Costa Rica,CRI,2020,19.5
+Costa Rica,CRI,2025,19.7
+Costa Rica,CRI,2030,20.8
+Costa Rica,CRI,2035,22.3
+Costa Rica,CRI,2040,24.6
+Cote d'Ivoire,CIV,1870,0
+Cote d'Ivoire,CIV,1875,0
+Cote d'Ivoire,CIV,1880,0
+Cote d'Ivoire,CIV,1885,0
+Cote d'Ivoire,CIV,1890,0
+Cote d'Ivoire,CIV,1895,0
+Cote d'Ivoire,CIV,1900,0
+Cote d'Ivoire,CIV,1905,0
+Cote d'Ivoire,CIV,1910,0
+Cote d'Ivoire,CIV,1915,0
+Cote d'Ivoire,CIV,1920,0
+Cote d'Ivoire,CIV,1925,0
+Cote d'Ivoire,CIV,1930,0
+Cote d'Ivoire,CIV,1935,0.1
+Cote d'Ivoire,CIV,1940,0.2
+Cote d'Ivoire,CIV,1945,0.3
+Cote d'Ivoire,CIV,1950,0.5
+Cote d'Ivoire,CIV,1955,0.6
+Cote d'Ivoire,CIV,1960,0.7
+Cote d'Ivoire,CIV,1965,0.9
+Cote d'Ivoire,CIV,1970,1.1
+Cote d'Ivoire,CIV,1975,1.4
+Cote d'Ivoire,CIV,1980,1.8
+Cote d'Ivoire,CIV,1985,2.1
+Cote d'Ivoire,CIV,1990,2.4
+Cote d'Ivoire,CIV,1995,3
+Cote d'Ivoire,CIV,2000,4.7
+Cote d'Ivoire,CIV,2005,5.2
+Cote d'Ivoire,CIV,2010,5.4
+Cote d'Ivoire,CIV,2015,5.3
+Cote d'Ivoire,CIV,2020,4.7
+Cote d'Ivoire,CIV,2025,4.3
+Cote d'Ivoire,CIV,2030,4.3
+Cote d'Ivoire,CIV,2035,4.7
+Cote d'Ivoire,CIV,2040,5.4
+Croatia,HRV,2015,22
+Croatia,HRV,2020,24.2
+Croatia,HRV,2025,27.2
+Croatia,HRV,2030,30.5
+Croatia,HRV,2035,34.3
+Croatia,HRV,2040,38.6
+Cuba,CUB,1870,0
+Cuba,CUB,1875,0.1
+Cuba,CUB,1880,0.1
+Cuba,CUB,1885,0.1
+Cuba,CUB,1890,0.1
+Cuba,CUB,1895,0.1
+Cuba,CUB,1900,0.2
+Cuba,CUB,1905,0.3
+Cuba,CUB,1910,0.4
+Cuba,CUB,1915,0.5
+Cuba,CUB,1920,0.7
+Cuba,CUB,1925,0.9
+Cuba,CUB,1930,1.1
+Cuba,CUB,1935,1.3
+Cuba,CUB,1940,1.4
+Cuba,CUB,1945,1.5
+Cuba,CUB,1950,1.6
+Cuba,CUB,1955,1.7
+Cuba,CUB,1960,1.8
+Cuba,CUB,1965,2.1
+Cuba,CUB,1970,2.5
+Cuba,CUB,1975,3.6
+Cuba,CUB,1980,5
+Cuba,CUB,1985,6.2
+Cuba,CUB,1990,7.8
+Cuba,CUB,1995,9.4
+Cuba,CUB,2000,10.6
+Cuba,CUB,2005,10
+Cuba,CUB,2010,13.6
+Cuba,CUB,2015,21.5
+Cuba,CUB,2020,29.5
+Cuba,CUB,2025,36.8
+Cuba,CUB,2030,45.6
+Cuba,CUB,2035,55.3
+Cuba,CUB,2040,66.4
+Cyprus,CYP,1870,0
+Cyprus,CYP,1875,0
+Cyprus,CYP,1880,0
+Cyprus,CYP,1885,0
+Cyprus,CYP,1890,0
+Cyprus,CYP,1895,0
+Cyprus,CYP,1900,0.2
+Cyprus,CYP,1905,0.3
+Cyprus,CYP,1910,0.4
+Cyprus,CYP,1915,0.7
+Cyprus,CYP,1920,1
+Cyprus,CYP,1925,1.3
+Cyprus,CYP,1930,1.5
+Cyprus,CYP,1935,1.7
+Cyprus,CYP,1940,1.8
+Cyprus,CYP,1945,1.9
+Cyprus,CYP,1950,2
+Cyprus,CYP,1955,1.6
+Cyprus,CYP,1960,1.5
+Cyprus,CYP,1965,2
+Cyprus,CYP,1970,2.8
+Cyprus,CYP,1975,5
+Cyprus,CYP,1980,8.3
+Cyprus,CYP,1985,13.5
+Cyprus,CYP,1990,20.1
+Cyprus,CYP,1995,23.3
+Cyprus,CYP,2000,29.2
+Cyprus,CYP,2005,26
+Cyprus,CYP,2010,35.4
+Cyprus,CYP,2015,36.8
+Cyprus,CYP,2020,38.7
+Cyprus,CYP,2025,41.1
+Cyprus,CYP,2030,44.2
+Cyprus,CYP,2035,47.3
+Cyprus,CYP,2040,51.2
+Czechia,CZE,1870,0.1
+Czechia,CZE,1875,0.1
+Czechia,CZE,1880,0.2
+Czechia,CZE,1885,0.2
+Czechia,CZE,1890,0.3
+Czechia,CZE,1895,0.3
+Czechia,CZE,1900,0.4
+Czechia,CZE,1905,0.5
+Czechia,CZE,1910,0.6
+Czechia,CZE,1915,0.7
+Czechia,CZE,1920,0.8
+Czechia,CZE,1925,0.9
+Czechia,CZE,1930,1
+Czechia,CZE,1935,1.1
+Czechia,CZE,1940,1.2
+Czechia,CZE,1945,1.4
+Czechia,CZE,1950,1.6
+Czechia,CZE,1955,2.1
+Czechia,CZE,1960,2.4
+Czechia,CZE,1965,3.2
+Czechia,CZE,1970,4.7
+Czechia,CZE,1975,5.4
+Czechia,CZE,1980,7.1
+Czechia,CZE,1985,10.8
+Czechia,CZE,1990,15.9
+Czechia,CZE,1995,13.7
+Czechia,CZE,2000,12.7
+Czechia,CZE,2005,13.5
+Czechia,CZE,2010,18.2
+Czechia,CZE,2015,17.9
+Czechia,CZE,2020,18.4
+Czechia,CZE,2025,18.7
+Czechia,CZE,2030,19.4
+Czechia,CZE,2035,20.5
+Czechia,CZE,2040,22.1
+Democratic Republic of Congo,COD,1870,0
+Democratic Republic of Congo,COD,1875,0
+Democratic Republic of Congo,COD,1880,0
+Democratic Republic of Congo,COD,1885,0
+Democratic Republic of Congo,COD,1890,0
+Democratic Republic of Congo,COD,1895,0
+Democratic Republic of Congo,COD,1900,0
+Democratic Republic of Congo,COD,1905,0
+Democratic Republic of Congo,COD,1910,0
+Democratic Republic of Congo,COD,1915,0
+Democratic Republic of Congo,COD,1920,0
+Democratic Republic of Congo,COD,1925,0
+Democratic Republic of Congo,COD,1930,0
+Democratic Republic of Congo,COD,1935,0
+Democratic Republic of Congo,COD,1940,0
+Democratic Republic of Congo,COD,1945,0
+Democratic Republic of Congo,COD,1950,0
+Democratic Republic of Congo,COD,1955,0
+Democratic Republic of Congo,COD,1960,0
+Democratic Republic of Congo,COD,1965,0
+Democratic Republic of Congo,COD,1970,0.1
+Democratic Republic of Congo,COD,1975,0.2
+Democratic Republic of Congo,COD,1980,0.4
+Democratic Republic of Congo,COD,1985,0.6
+Democratic Republic of Congo,COD,1990,0.8
+Democratic Republic of Congo,COD,1995,1.1
+Democratic Republic of Congo,COD,2000,1.5
+Democratic Republic of Congo,COD,2005,1.4
+Democratic Republic of Congo,COD,2010,1.3
+Democratic Republic of Congo,COD,2015,1.2
+Democratic Republic of Congo,COD,2020,1.2
+Democratic Republic of Congo,COD,2025,1.2
+Democratic Republic of Congo,COD,2030,1.3
+Democratic Republic of Congo,COD,2035,1.5
+Democratic Republic of Congo,COD,2040,1.9
+Denmark,DNK,1870,0
+Denmark,DNK,1875,0
+Denmark,DNK,1880,0.1
+Denmark,DNK,1885,0.1
+Denmark,DNK,1890,0.1
+Denmark,DNK,1895,0.1
+Denmark,DNK,1900,0.1
+Denmark,DNK,1905,0.1
+Denmark,DNK,1910,0.2
+Denmark,DNK,1915,0.2
+Denmark,DNK,1920,0.2
+Denmark,DNK,1925,0.2
+Denmark,DNK,1930,0.3
+Denmark,DNK,1935,1.2
+Denmark,DNK,1940,1.9
+Denmark,DNK,1945,2.7
+Denmark,DNK,1950,3.3
+Denmark,DNK,1955,5.8
+Denmark,DNK,1960,6.7
+Denmark,DNK,1965,7.8
+Denmark,DNK,1970,9.8
+Denmark,DNK,1975,12.1
+Denmark,DNK,1980,14.5
+Denmark,DNK,1985,19.1
+Denmark,DNK,1990,21.2
+Denmark,DNK,1995,23.2
+Denmark,DNK,2000,23.7
+Denmark,DNK,2005,28.8
+Denmark,DNK,2010,32.9
+Denmark,DNK,2015,30.5
+Denmark,DNK,2020,30.8
+Denmark,DNK,2025,31
+Denmark,DNK,2030,31.1
+Denmark,DNK,2035,30.5
+Denmark,DNK,2040,29.9
+Dominican Republic,DOM,1870,0
+Dominican Republic,DOM,1875,0
+Dominican Republic,DOM,1880,0
+Dominican Republic,DOM,1885,0
+Dominican Republic,DOM,1890,0
+Dominican Republic,DOM,1895,0
+Dominican Republic,DOM,1900,0
+Dominican Republic,DOM,1905,0
+Dominican Republic,DOM,1910,0.2
+Dominican Republic,DOM,1915,0.3
+Dominican Republic,DOM,1920,0.5
+Dominican Republic,DOM,1925,0.6
+Dominican Republic,DOM,1930,0.6
+Dominican Republic,DOM,1935,0.7
+Dominican Republic,DOM,1940,0.7
+Dominican Republic,DOM,1945,0.8
+Dominican Republic,DOM,1950,0.8
+Dominican Republic,DOM,1955,0.8
+Dominican Republic,DOM,1960,0.8
+Dominican Republic,DOM,1965,1.3
+Dominican Republic,DOM,1970,2
+Dominican Republic,DOM,1975,2.3
+Dominican Republic,DOM,1980,3.5
+Dominican Republic,DOM,1985,5.3
+Dominican Republic,DOM,1990,7.7
+Dominican Republic,DOM,1995,11.1
+Dominican Republic,DOM,2000,13.9
+Dominican Republic,DOM,2005,16.7
+Dominican Republic,DOM,2010,16.4
+Dominican Republic,DOM,2015,14.5
+Dominican Republic,DOM,2020,14.7
+Dominican Republic,DOM,2025,16.1
+Dominican Republic,DOM,2030,18.7
+Dominican Republic,DOM,2035,21.5
+Dominican Republic,DOM,2040,24.6
+Ecuador,ECU,1870,0
+Ecuador,ECU,1875,0
+Ecuador,ECU,1880,0
+Ecuador,ECU,1885,0
+Ecuador,ECU,1890,0
+Ecuador,ECU,1895,0
+Ecuador,ECU,1900,0.2
+Ecuador,ECU,1905,0.3
+Ecuador,ECU,1910,0.4
+Ecuador,ECU,1915,0.4
+Ecuador,ECU,1920,0.5
+Ecuador,ECU,1925,0.6
+Ecuador,ECU,1930,0.7
+Ecuador,ECU,1935,0.7
+Ecuador,ECU,1940,0.8
+Ecuador,ECU,1945,0.8
+Ecuador,ECU,1950,0.9
+Ecuador,ECU,1955,1.1
+Ecuador,ECU,1960,1.4
+Ecuador,ECU,1965,1.7
+Ecuador,ECU,1970,2.4
+Ecuador,ECU,1975,3.4
+Ecuador,ECU,1980,8.2
+Ecuador,ECU,1985,10.4
+Ecuador,ECU,1990,13.8
+Ecuador,ECU,1995,15.2
+Ecuador,ECU,2000,16.8
+Ecuador,ECU,2005,14.8
+Ecuador,ECU,2010,13.2
+Ecuador,ECU,2015,12.1
+Ecuador,ECU,2020,10.7
+Ecuador,ECU,2025,10
+Ecuador,ECU,2030,10.5
+Ecuador,ECU,2035,12.1
+Ecuador,ECU,2040,14.6
+Egypt,EGY,1870,0
+Egypt,EGY,1875,0
+Egypt,EGY,1880,0
+Egypt,EGY,1885,0
+Egypt,EGY,1890,0
+Egypt,EGY,1895,0
+Egypt,EGY,1900,0
+Egypt,EGY,1905,0
+Egypt,EGY,1910,0
+Egypt,EGY,1915,0
+Egypt,EGY,1920,0
+Egypt,EGY,1925,0.2
+Egypt,EGY,1930,0.3
+Egypt,EGY,1935,0.5
+Egypt,EGY,1940,0.7
+Egypt,EGY,1945,0.9
+Egypt,EGY,1950,1.2
+Egypt,EGY,1955,1.4
+Egypt,EGY,1960,1.9
+Egypt,EGY,1965,2.2
+Egypt,EGY,1970,2.9
+Egypt,EGY,1975,3.6
+Egypt,EGY,1980,3.8
+Egypt,EGY,1985,4.9
+Egypt,EGY,1990,4.8
+Egypt,EGY,1995,4.5
+Egypt,EGY,2000,4.7
+Egypt,EGY,2005,8.1
+Egypt,EGY,2010,10.8
+Egypt,EGY,2015,12.6
+Egypt,EGY,2020,15
+Egypt,EGY,2025,18.5
+Egypt,EGY,2030,23.2
+Egypt,EGY,2035,31.3
+Egypt,EGY,2040,39.3
+El Salvador,SLV,1870,0
+El Salvador,SLV,1875,0
+El Salvador,SLV,1880,0
+El Salvador,SLV,1885,0
+El Salvador,SLV,1890,0
+El Salvador,SLV,1895,0
+El Salvador,SLV,1900,0.1
+El Salvador,SLV,1905,0.2
+El Salvador,SLV,1910,0.3
+El Salvador,SLV,1915,0.4
+El Salvador,SLV,1920,0.4
+El Salvador,SLV,1925,0.4
+El Salvador,SLV,1930,0.4
+El Salvador,SLV,1935,0.4
+El Salvador,SLV,1940,0.4
+El Salvador,SLV,1945,0.4
+El Salvador,SLV,1950,0.4
+El Salvador,SLV,1955,0.5
+El Salvador,SLV,1960,0.5
+El Salvador,SLV,1965,1.1
+El Salvador,SLV,1970,2
+El Salvador,SLV,1975,2.6
+El Salvador,SLV,1980,4
+El Salvador,SLV,1985,5.3
+El Salvador,SLV,1990,7
+El Salvador,SLV,1995,8.2
+El Salvador,SLV,2000,10.1
+El Salvador,SLV,2005,12.2
+El Salvador,SLV,2010,7.3
+El Salvador,SLV,2015,6.1
+El Salvador,SLV,2020,6.3
+El Salvador,SLV,2025,7.5
+El Salvador,SLV,2030,9.5
+El Salvador,SLV,2035,12.2
+El Salvador,SLV,2040,15.8
+Estonia,EST,2015,33.7
+Estonia,EST,2020,32.5
+Estonia,EST,2025,31.5
+Estonia,EST,2030,30.9
+Estonia,EST,2035,31
+Estonia,EST,2040,31.2
+Eswatini,SWZ,1870,0
+Eswatini,SWZ,1875,0
+Eswatini,SWZ,1880,0
+Eswatini,SWZ,1885,0
+Eswatini,SWZ,1890,0
+Eswatini,SWZ,1895,0
+Eswatini,SWZ,1900,0
+Eswatini,SWZ,1905,0
+Eswatini,SWZ,1910,0
+Eswatini,SWZ,1915,0.1
+Eswatini,SWZ,1920,0.1
+Eswatini,SWZ,1925,0.1
+Eswatini,SWZ,1930,0.2
+Eswatini,SWZ,1935,0.2
+Eswatini,SWZ,1940,0.3
+Eswatini,SWZ,1945,0.3
+Eswatini,SWZ,1950,0.4
+Eswatini,SWZ,1955,0.4
+Eswatini,SWZ,1960,0.4
+Eswatini,SWZ,1965,0.4
+Eswatini,SWZ,1970,1
+Eswatini,SWZ,1975,1.9
+Eswatini,SWZ,1980,2.5
+Eswatini,SWZ,1985,3.4
+Eswatini,SWZ,1990,2.9
+Eswatini,SWZ,1995,2.2
+Eswatini,SWZ,2000,1.3
+Eswatini,SWZ,2005,0
+Eswatini,SWZ,2010,1.4
+Eswatini,SWZ,2015,2.1
+Eswatini,SWZ,2020,2.7
+Eswatini,SWZ,2025,3.3
+Eswatini,SWZ,2030,4
+Eswatini,SWZ,2035,4.8
+Eswatini,SWZ,2040,5.8
+Europe,,1870,0.16709624
+Europe,,1875,0.18344574
+Europe,,1880,0.23425554
+Europe,,1885,0.266269
+Europe,,1890,0.31605852
+Europe,,1895,0.3611036
+Europe,,1900,0.40182126
+Europe,,1905,0.45438588
+Europe,,1910,0.5916219
+Europe,,1915,0.7086116
+Europe,,1920,0.87224096
+Europe,,1925,1.1047591
+Europe,,1930,1.335067
+Europe,,1935,1.6203076
+Europe,,1940,1.9005233
+Europe,,1945,2.2298934
+Europe,,1950,2.5121212
+Europe,,1955,2.8808584
+Europe,,1960,3.2160974
+Europe,,1965,4.1149735
+Europe,,1970,5.5014267
+Europe,,1975,7.9946485
+Europe,,1980,10.722656
+Europe,,1985,13.869863
+Europe,,1990,18.64401
+Europe,,1995,22.52353
+Europe,,2000,27.999117
+Europe,,2005,30.758585
+Europe,,2010,34.969326
+Europe,,2015,35.210674
+Europe,,2020,36.999924
+Europe,,2025,38.55431
+Europe,,2030,40.486942
+Europe,,2035,42.307858
+Europe,,2040,44.45048
+Fiji,FJI,1870,0
+Fiji,FJI,1875,0
+Fiji,FJI,1880,0
+Fiji,FJI,1885,0
+Fiji,FJI,1890,0
+Fiji,FJI,1895,0
+Fiji,FJI,1900,0
+Fiji,FJI,1905,0
+Fiji,FJI,1910,0
+Fiji,FJI,1915,0.1
+Fiji,FJI,1920,0.1
+Fiji,FJI,1925,0.4
+Fiji,FJI,1930,0.7
+Fiji,FJI,1935,1
+Fiji,FJI,1940,1.3
+Fiji,FJI,1945,1.6
+Fiji,FJI,1950,2
+Fiji,FJI,1955,2.4
+Fiji,FJI,1960,2.6
+Fiji,FJI,1965,2.9
+Fiji,FJI,1970,3.2
+Fiji,FJI,1975,3.4
+Fiji,FJI,1980,3.9
+Fiji,FJI,1985,4.6
+Fiji,FJI,1990,6.2
+Fiji,FJI,1995,9.1
+Fiji,FJI,2000,10.4
+Fiji,FJI,2005,12.6
+Fiji,FJI,2010,13.8
+Fiji,FJI,2015,14.8
+Fiji,FJI,2020,14.8
+Fiji,FJI,2025,15.7
+Fiji,FJI,2030,14.1
+Fiji,FJI,2035,15.9
+Fiji,FJI,2040,18
+Finland,FIN,1870,0.2
+Finland,FIN,1875,0.2
+Finland,FIN,1880,0.2
+Finland,FIN,1885,0.2
+Finland,FIN,1890,0.3
+Finland,FIN,1895,0.4
+Finland,FIN,1900,0.5
+Finland,FIN,1905,0.7
+Finland,FIN,1910,0.8
+Finland,FIN,1915,1.1
+Finland,FIN,1920,1.4
+Finland,FIN,1925,1.7
+Finland,FIN,1930,1.9
+Finland,FIN,1935,2.2
+Finland,FIN,1940,2.5
+Finland,FIN,1945,2.9
+Finland,FIN,1950,3.3
+Finland,FIN,1955,3.8
+Finland,FIN,1960,4.4
+Finland,FIN,1965,5.5
+Finland,FIN,1970,6.6
+Finland,FIN,1975,10.6
+Finland,FIN,1980,13.1
+Finland,FIN,1985,15.5
+Finland,FIN,1990,17.4
+Finland,FIN,1995,23.1
+Finland,FIN,2000,31.3
+Finland,FIN,2005,34.8
+Finland,FIN,2010,36.1
+Finland,FIN,2015,33.5
+Finland,FIN,2020,31.2
+Finland,FIN,2025,28
+Finland,FIN,2030,24.7
+Finland,FIN,2035,20.6
+Finland,FIN,2040,16.9
+France,FRA,1870,0.2
+France,FRA,1875,0.2
+France,FRA,1880,0.3
+France,FRA,1885,0.3
+France,FRA,1890,0.4
+France,FRA,1895,0.3
+France,FRA,1900,0.3
+France,FRA,1905,0.3
+France,FRA,1910,0.5
+France,FRA,1915,0.6
+France,FRA,1920,0.7
+France,FRA,1925,0.9
+France,FRA,1930,1.1
+France,FRA,1935,1.2
+France,FRA,1940,1.5
+France,FRA,1945,1.6
+France,FRA,1950,1.8
+France,FRA,1955,2
+France,FRA,1960,2.4
+France,FRA,1965,3.3
+France,FRA,1970,5.2
+France,FRA,1975,7.9
+France,FRA,1980,10.2
+France,FRA,1985,10.9
+France,FRA,1990,13.6
+France,FRA,1995,16
+France,FRA,2000,19.9
+France,FRA,2005,24
+France,FRA,2010,28.9
+France,FRA,2015,30
+France,FRA,2020,31.9
+France,FRA,2025,33.9
+France,FRA,2030,36.4
+France,FRA,2035,37.9
+France,FRA,2040,39.9
+Gabon,GAB,2015,13.8
+Gabon,GAB,2020,14.6
+Gabon,GAB,2025,16.4
+Gabon,GAB,2030,19
+Gabon,GAB,2035,22.3
+Gabon,GAB,2040,26.3
+Gambia,GMB,1870,0
+Gambia,GMB,1875,0
+Gambia,GMB,1880,0
+Gambia,GMB,1885,0
+Gambia,GMB,1890,0
+Gambia,GMB,1895,0
+Gambia,GMB,1900,0
+Gambia,GMB,1905,0
+Gambia,GMB,1910,0
+Gambia,GMB,1915,0
+Gambia,GMB,1920,0
+Gambia,GMB,1925,0.1
+Gambia,GMB,1930,0.1
+Gambia,GMB,1935,0.1
+Gambia,GMB,1940,0.1
+Gambia,GMB,1945,0.1
+Gambia,GMB,1950,0.1
+Gambia,GMB,1955,0.2
+Gambia,GMB,1960,0.2
+Gambia,GMB,1965,0.2
+Gambia,GMB,1970,0.2
+Gambia,GMB,1975,0.2
+Gambia,GMB,1980,0.5
+Gambia,GMB,1985,0.9
+Gambia,GMB,1990,1.5
+Gambia,GMB,1995,2.3
+Gambia,GMB,2000,2.3
+Gambia,GMB,2005,2.1
+Gambia,GMB,2010,1.9
+Gambia,GMB,2015,1.7
+Gambia,GMB,2020,1.3
+Gambia,GMB,2025,1
+Gambia,GMB,2030,0.8
+Gambia,GMB,2035,0.8
+Gambia,GMB,2040,0.9
+Germany,DEU,1870,0.3
+Germany,DEU,1875,0.3
+Germany,DEU,1880,0.4
+Germany,DEU,1885,0.5
+Germany,DEU,1890,0.6
+Germany,DEU,1895,0.7
+Germany,DEU,1900,0.8
+Germany,DEU,1905,0.9
+Germany,DEU,1910,1
+Germany,DEU,1915,1.1
+Germany,DEU,1920,1.5
+Germany,DEU,1925,1.8
+Germany,DEU,1930,2.1
+Germany,DEU,1935,2.5
+Germany,DEU,1940,2.7
+Germany,DEU,1945,2.9
+Germany,DEU,1950,3.1
+Germany,DEU,1955,3.3
+Germany,DEU,1960,3.4
+Germany,DEU,1965,3.5
+Germany,DEU,1970,3.6
+Germany,DEU,1975,6.9
+Germany,DEU,1980,9.3
+Germany,DEU,1985,11.2
+Germany,DEU,1990,13.9
+Germany,DEU,1995,18.3
+Germany,DEU,2000,22.3
+Germany,DEU,2005,23.2
+Germany,DEU,2010,26.6
+Germany,DEU,2015,24.5
+Germany,DEU,2020,30.4
+Germany,DEU,2025,36.8
+Germany,DEU,2030,43.6
+Germany,DEU,2035,51.3
+Germany,DEU,2040,59.1
+Ghana,GHA,1870,0
+Ghana,GHA,1875,0
+Ghana,GHA,1880,0
+Ghana,GHA,1885,0
+Ghana,GHA,1890,0
+Ghana,GHA,1895,0
+Ghana,GHA,1900,0
+Ghana,GHA,1905,0
+Ghana,GHA,1910,0
+Ghana,GHA,1915,0
+Ghana,GHA,1920,0.1
+Ghana,GHA,1925,0.1
+Ghana,GHA,1930,0.1
+Ghana,GHA,1935,0.3
+Ghana,GHA,1940,0.4
+Ghana,GHA,1945,0.5
+Ghana,GHA,1950,0.6
+Ghana,GHA,1955,0.7
+Ghana,GHA,1960,0.7
+Ghana,GHA,1965,0.6
+Ghana,GHA,1970,0.4
+Ghana,GHA,1975,0.7
+Ghana,GHA,1980,1.2
+Ghana,GHA,1985,1.8
+Ghana,GHA,1990,2.6
+Ghana,GHA,1995,3.3
+Ghana,GHA,2000,4
+Ghana,GHA,2005,3.2
+Ghana,GHA,2010,3.4
+Ghana,GHA,2015,3.6
+Ghana,GHA,2020,4
+Ghana,GHA,2025,5
+Ghana,GHA,2030,6.4
+Ghana,GHA,2035,8.6
+Ghana,GHA,2040,11.7
+Greece,GRC,1870,0.1
+Greece,GRC,1875,0.2
+Greece,GRC,1880,0.2
+Greece,GRC,1885,0.3
+Greece,GRC,1890,0.3
+Greece,GRC,1895,0.3
+Greece,GRC,1900,0.4
+Greece,GRC,1905,0.5
+Greece,GRC,1910,0.7
+Greece,GRC,1915,0.9
+Greece,GRC,1920,1
+Greece,GRC,1925,1.3
+Greece,GRC,1930,1.6
+Greece,GRC,1935,1.8
+Greece,GRC,1940,2
+Greece,GRC,1945,2.1
+Greece,GRC,1950,2.2
+Greece,GRC,1955,2
+Greece,GRC,1960,2.7
+Greece,GRC,1965,2.6
+Greece,GRC,1970,3.8
+Greece,GRC,1975,6.1
+Greece,GRC,1980,8.7
+Greece,GRC,1985,10.5
+Greece,GRC,1990,12.5
+Greece,GRC,1995,16.1
+Greece,GRC,2000,18.6
+Greece,GRC,2005,29
+Greece,GRC,2010,33.3
+Greece,GRC,2015,33
+Greece,GRC,2020,33
+Greece,GRC,2025,32.1
+Greece,GRC,2030,31.1
+Greece,GRC,2035,29.2
+Greece,GRC,2040,27.2
+Guatemala,GTM,1870,0
+Guatemala,GTM,1875,0
+Guatemala,GTM,1880,0
+Guatemala,GTM,1885,0
+Guatemala,GTM,1890,0
+Guatemala,GTM,1895,0
+Guatemala,GTM,1900,0.1
+Guatemala,GTM,1905,0.2
+Guatemala,GTM,1910,0.3
+Guatemala,GTM,1915,0.3
+Guatemala,GTM,1920,0.3
+Guatemala,GTM,1925,0.4
+Guatemala,GTM,1930,0.4
+Guatemala,GTM,1935,0.4
+Guatemala,GTM,1940,0.5
+Guatemala,GTM,1945,0.4
+Guatemala,GTM,1950,0.4
+Guatemala,GTM,1955,0.5
+Guatemala,GTM,1960,0.6
+Guatemala,GTM,1965,0.8
+Guatemala,GTM,1970,0.9
+Guatemala,GTM,1975,1.2
+Guatemala,GTM,1980,2.3
+Guatemala,GTM,1985,2.6
+Guatemala,GTM,1990,2.9
+Guatemala,GTM,1995,3.4
+Guatemala,GTM,2000,3.9
+Guatemala,GTM,2005,3.6
+Guatemala,GTM,2010,0
+Guatemala,GTM,2015,0
+Guatemala,GTM,2020,0.4
+Guatemala,GTM,2025,1.3
+Guatemala,GTM,2030,2.9
+Guatemala,GTM,2035,5
+Guatemala,GTM,2040,7.7
+Guyana,GUY,1870,0
+Guyana,GUY,1875,0
+Guyana,GUY,1880,0
+Guyana,GUY,1885,0
+Guyana,GUY,1890,0
+Guyana,GUY,1895,0
+Guyana,GUY,1900,0
+Guyana,GUY,1905,0
+Guyana,GUY,1910,0
+Guyana,GUY,1915,0
+Guyana,GUY,1920,0
+Guyana,GUY,1925,0.1
+Guyana,GUY,1930,0.1
+Guyana,GUY,1935,0.2
+Guyana,GUY,1940,0.3
+Guyana,GUY,1945,0.4
+Guyana,GUY,1950,0.5
+Guyana,GUY,1955,0.7
+Guyana,GUY,1960,0.8
+Guyana,GUY,1965,0.9
+Guyana,GUY,1970,1
+Guyana,GUY,1975,1.3
+Guyana,GUY,1980,2
+Guyana,GUY,1985,1.8
+Guyana,GUY,1990,1.5
+Guyana,GUY,1995,1.1
+Guyana,GUY,2000,0.2
+Guyana,GUY,2005,0.2
+Guyana,GUY,2010,0.3
+Guyana,GUY,2015,0.5
+Guyana,GUY,2020,1.2
+Guyana,GUY,2025,3.1
+Guyana,GUY,2030,5.9
+Guyana,GUY,2035,9.6
+Guyana,GUY,2040,13.5
+Haiti,HTI,1870,0
+Haiti,HTI,1875,0
+Haiti,HTI,1880,0
+Haiti,HTI,1885,0
+Haiti,HTI,1890,0
+Haiti,HTI,1895,0
+Haiti,HTI,1900,0.1
+Haiti,HTI,1905,0.1
+Haiti,HTI,1910,0.1
+Haiti,HTI,1915,0.1
+Haiti,HTI,1920,0.2
+Haiti,HTI,1925,0.2
+Haiti,HTI,1930,0.2
+Haiti,HTI,1935,0.2
+Haiti,HTI,1940,0.2
+Haiti,HTI,1945,0.2
+Haiti,HTI,1950,0.2
+Haiti,HTI,1955,0.2
+Haiti,HTI,1960,0.2
+Haiti,HTI,1965,0.3
+Haiti,HTI,1970,0.3
+Haiti,HTI,1975,0.5
+Haiti,HTI,1980,0.7
+Haiti,HTI,1985,0.8
+Haiti,HTI,1990,0.8
+Haiti,HTI,1995,0.9
+Haiti,HTI,2000,0.9
+Haiti,HTI,2005,1
+Haiti,HTI,2010,1
+Haiti,HTI,2015,1.1
+Haiti,HTI,2020,1.2
+Haiti,HTI,2025,1.6
+Haiti,HTI,2030,2.5
+Haiti,HTI,2035,3.6
+Haiti,HTI,2040,4.9
+Honduras,HND,1870,0
+Honduras,HND,1875,0
+Honduras,HND,1880,0
+Honduras,HND,1885,0
+Honduras,HND,1890,0
+Honduras,HND,1895,0
+Honduras,HND,1900,0
+Honduras,HND,1905,0.1
+Honduras,HND,1910,0.2
+Honduras,HND,1915,0.3
+Honduras,HND,1920,0.4
+Honduras,HND,1925,0.4
+Honduras,HND,1930,0.5
+Honduras,HND,1935,0.5
+Honduras,HND,1940,0.6
+Honduras,HND,1945,0.6
+Honduras,HND,1950,0.6
+Honduras,HND,1955,0.6
+Honduras,HND,1960,0.6
+Honduras,HND,1965,0.6
+Honduras,HND,1970,0.8
+Honduras,HND,1975,1.1
+Honduras,HND,1980,2
+Honduras,HND,1985,3.7
+Honduras,HND,1990,4
+Honduras,HND,1995,4.4
+Honduras,HND,2000,5
+Honduras,HND,2005,5.5
+Honduras,HND,2010,5.5
+Honduras,HND,2015,4.6
+Honduras,HND,2020,3.9
+Honduras,HND,2025,5
+Honduras,HND,2030,7
+Honduras,HND,2035,9.9
+Honduras,HND,2040,13.5
+Hong Kong,HKG,1870,0
+Hong Kong,HKG,1875,0
+Hong Kong,HKG,1880,0
+Hong Kong,HKG,1885,0
+Hong Kong,HKG,1890,0
+Hong Kong,HKG,1895,0
+Hong Kong,HKG,1900,0
+Hong Kong,HKG,1905,0
+Hong Kong,HKG,1910,0
+Hong Kong,HKG,1915,0.5
+Hong Kong,HKG,1920,1
+Hong Kong,HKG,1925,1.4
+Hong Kong,HKG,1930,2.1
+Hong Kong,HKG,1935,2.6
+Hong Kong,HKG,1940,3.3
+Hong Kong,HKG,1945,3.9
+Hong Kong,HKG,1950,4.2
+Hong Kong,HKG,1955,4.3
+Hong Kong,HKG,1960,4.8
+Hong Kong,HKG,1965,5.1
+Hong Kong,HKG,1970,3.2
+Hong Kong,HKG,1975,4
+Hong Kong,HKG,1980,7.8
+Hong Kong,HKG,1985,8.3
+Hong Kong,HKG,1990,11.8
+Hong Kong,HKG,1995,13.8
+Hong Kong,HKG,2000,16.8
+Hong Kong,HKG,2005,25.1
+Hong Kong,HKG,2010,19.5
+Hong Kong,HKG,2015,22.9
+Hong Kong,HKG,2020,25.3
+Hong Kong,HKG,2025,27.9
+Hong Kong,HKG,2030,31.3
+Hong Kong,HKG,2035,33.8
+Hong Kong,HKG,2040,37.6
+Hungary,HUN,1870,0.1
+Hungary,HUN,1875,0.1
+Hungary,HUN,1880,0.2
+Hungary,HUN,1885,0.2
+Hungary,HUN,1890,0.2
+Hungary,HUN,1895,0.3
+Hungary,HUN,1900,0.3
+Hungary,HUN,1905,0.4
+Hungary,HUN,1910,0.5
+Hungary,HUN,1915,0.7
+Hungary,HUN,1920,0.8
+Hungary,HUN,1925,1.1
+Hungary,HUN,1930,1.4
+Hungary,HUN,1935,1.7
+Hungary,HUN,1940,2
+Hungary,HUN,1945,2.5
+Hungary,HUN,1950,2.8
+Hungary,HUN,1955,3.2
+Hungary,HUN,1960,3.6
+Hungary,HUN,1965,3.8
+Hungary,HUN,1970,5.7
+Hungary,HUN,1975,6.7
+Hungary,HUN,1980,8.1
+Hungary,HUN,1985,9.7
+Hungary,HUN,1990,11.5
+Hungary,HUN,1995,12.5
+Hungary,HUN,2000,14.3
+Hungary,HUN,2005,16.5
+Hungary,HUN,2010,21.2
+Hungary,HUN,2015,20.3
+Hungary,HUN,2020,23
+Hungary,HUN,2025,25.6
+Hungary,HUN,2030,28
+Hungary,HUN,2035,30.4
+Hungary,HUN,2040,33.2
+Iceland,ISL,1870,0
+Iceland,ISL,1875,0
+Iceland,ISL,1880,0
+Iceland,ISL,1885,0
+Iceland,ISL,1890,0
+Iceland,ISL,1895,0
+Iceland,ISL,1900,0.1
+Iceland,ISL,1905,0.1
+Iceland,ISL,1910,0.2
+Iceland,ISL,1915,0.4
+Iceland,ISL,1920,0.5
+Iceland,ISL,1925,0.8
+Iceland,ISL,1930,1.1
+Iceland,ISL,1935,1.4
+Iceland,ISL,1940,1.8
+Iceland,ISL,1945,2.3
+Iceland,ISL,1950,2.8
+Iceland,ISL,1955,3.5
+Iceland,ISL,1960,4.2
+Iceland,ISL,1965,4.9
+Iceland,ISL,1970,5.7
+Iceland,ISL,1975,6.8
+Iceland,ISL,1980,8.9
+Iceland,ISL,1985,11.7
+Iceland,ISL,1990,14
+Iceland,ISL,1995,16.3
+Iceland,ISL,2000,20
+Iceland,ISL,2005,24.7
+Iceland,ISL,2010,32.2
+Iceland,ISL,2015,42
+Iceland,ISL,2020,51.4
+Iceland,ISL,2025,60.6
+Iceland,ISL,2030,69.7
+Iceland,ISL,2035,78.2
+Iceland,ISL,2040,85.6
+India,IND,1870,0
+India,IND,1875,0
+India,IND,1880,0
+India,IND,1885,0
+India,IND,1890,0
+India,IND,1895,0
+India,IND,1900,0
+India,IND,1905,0
+India,IND,1910,0.1
+India,IND,1915,0.1
+India,IND,1920,0.2
+India,IND,1925,0.3
+India,IND,1930,0.4
+India,IND,1935,0.5
+India,IND,1940,0.6
+India,IND,1945,0.7
+India,IND,1950,0.7
+India,IND,1955,0.8
+India,IND,1960,0.6
+India,IND,1965,1
+India,IND,1970,1.2
+India,IND,1975,1.7
+India,IND,1980,2.7
+India,IND,1985,3.5
+India,IND,1990,4.6
+India,IND,1995,6.2
+India,IND,2000,8.7
+India,IND,2005,9.1
+India,IND,2010,9.6
+India,IND,2015,10.3
+India,IND,2020,7.9
+India,IND,2025,8.5
+India,IND,2030,9.7
+India,IND,2035,11.3
+India,IND,2040,13.4
+Indonesia,IDN,1870,0
+Indonesia,IDN,1875,0
+Indonesia,IDN,1880,0
+Indonesia,IDN,1885,0
+Indonesia,IDN,1890,0
+Indonesia,IDN,1895,0
+Indonesia,IDN,1900,0
+Indonesia,IDN,1905,0
+Indonesia,IDN,1910,0
+Indonesia,IDN,1915,0
+Indonesia,IDN,1920,0
+Indonesia,IDN,1925,0
+Indonesia,IDN,1930,0
+Indonesia,IDN,1935,0
+Indonesia,IDN,1940,0
+Indonesia,IDN,1945,0
+Indonesia,IDN,1950,0
+Indonesia,IDN,1955,0.1
+Indonesia,IDN,1960,0.1
+Indonesia,IDN,1965,0.2
+Indonesia,IDN,1970,0.5
+Indonesia,IDN,1975,0.6
+Indonesia,IDN,1980,0.9
+Indonesia,IDN,1985,1.4
+Indonesia,IDN,1990,2.5
+Indonesia,IDN,1995,2.5
+Indonesia,IDN,2000,2.9
+Indonesia,IDN,2005,4.7
+Indonesia,IDN,2010,8.2
+Indonesia,IDN,2015,8
+Indonesia,IDN,2020,8.1
+Indonesia,IDN,2025,9.3
+Indonesia,IDN,2030,12.1
+Indonesia,IDN,2035,16.4
+Indonesia,IDN,2040,21.5
+Iran,IRN,1870,0
+Iran,IRN,1875,0
+Iran,IRN,1880,0
+Iran,IRN,1885,0
+Iran,IRN,1890,0
+Iran,IRN,1895,0
+Iran,IRN,1900,0
+Iran,IRN,1905,0
+Iran,IRN,1910,0
+Iran,IRN,1915,0.1
+Iran,IRN,1920,0.1
+Iran,IRN,1925,0.1
+Iran,IRN,1930,0.1
+Iran,IRN,1935,0.1
+Iran,IRN,1940,0.2
+Iran,IRN,1945,0.2
+Iran,IRN,1950,0.3
+Iran,IRN,1955,0.3
+Iran,IRN,1960,0.6
+Iran,IRN,1965,1
+Iran,IRN,1970,1.2
+Iran,IRN,1975,1.7
+Iran,IRN,1980,2.7
+Iran,IRN,1985,3.8
+Iran,IRN,1990,5
+Iran,IRN,1995,8.3
+Iran,IRN,2000,11.4
+Iran,IRN,2005,13.3
+Iran,IRN,2010,19
+Iran,IRN,2015,22.2
+Iran,IRN,2020,24.4
+Iran,IRN,2025,27.2
+Iran,IRN,2030,30.9
+Iran,IRN,2035,35.9
+Iran,IRN,2040,41.9
+Iraq,IRQ,1870,0
+Iraq,IRQ,1875,0
+Iraq,IRQ,1880,0
+Iraq,IRQ,1885,0
+Iraq,IRQ,1890,0
+Iraq,IRQ,1895,0
+Iraq,IRQ,1900,0
+Iraq,IRQ,1905,0
+Iraq,IRQ,1910,0
+Iraq,IRQ,1915,0.1
+Iraq,IRQ,1920,0.1
+Iraq,IRQ,1925,0.1
+Iraq,IRQ,1930,0.2
+Iraq,IRQ,1935,0.2
+Iraq,IRQ,1940,0.3
+Iraq,IRQ,1945,0.4
+Iraq,IRQ,1950,0.6
+Iraq,IRQ,1955,0.8
+Iraq,IRQ,1960,0.8
+Iraq,IRQ,1965,1.1
+Iraq,IRQ,1970,1.6
+Iraq,IRQ,1975,2.3
+Iraq,IRQ,1980,3.8
+Iraq,IRQ,1985,5.2
+Iraq,IRQ,1990,6.9
+Iraq,IRQ,1995,8.8
+Iraq,IRQ,2000,9.7
+Iraq,IRQ,2005,12.2
+Iraq,IRQ,2010,15.2
+Iraq,IRQ,2015,19.6
+Iraq,IRQ,2020,20.4
+Iraq,IRQ,2025,22.2
+Iraq,IRQ,2030,25.1
+Iraq,IRQ,2035,29.1
+Iraq,IRQ,2040,34.2
+Ireland,IRL,1870,0
+Ireland,IRL,1875,0.1
+Ireland,IRL,1880,0.1
+Ireland,IRL,1885,0.1
+Ireland,IRL,1890,0.1
+Ireland,IRL,1895,0.1
+Ireland,IRL,1900,0.2
+Ireland,IRL,1905,0.2
+Ireland,IRL,1910,0.2
+Ireland,IRL,1915,0.4
+Ireland,IRL,1920,0.6
+Ireland,IRL,1925,0.8
+Ireland,IRL,1930,1.2
+Ireland,IRL,1935,1.7
+Ireland,IRL,1940,2.3
+Ireland,IRL,1945,2.9
+Ireland,IRL,1950,3.7
+Ireland,IRL,1955,4
+Ireland,IRL,1960,4.4
+Ireland,IRL,1965,4.9
+Ireland,IRL,1970,5.2
+Ireland,IRL,1975,6.8
+Ireland,IRL,1980,8.8
+Ireland,IRL,1985,13.3
+Ireland,IRL,1990,16.8
+Ireland,IRL,1995,21.7
+Ireland,IRL,2000,28.7
+Ireland,IRL,2005,35.2
+Ireland,IRL,2010,49.4
+Ireland,IRL,2015,49.8
+Ireland,IRL,2020,50.3
+Ireland,IRL,2025,50.2
+Ireland,IRL,2030,50.9
+Ireland,IRL,2035,50.5
+Ireland,IRL,2040,50.6
+Israel,ISR,2015,40.3
+Israel,ISR,2020,36.5
+Israel,ISR,2025,33.8
+Israel,ISR,2030,32
+Israel,ISR,2035,30.6
+Israel,ISR,2040,29.6
+Italy,ITA,1870,0.1
+Italy,ITA,1875,0.2
+Italy,ITA,1880,0.2
+Italy,ITA,1885,0.3
+Italy,ITA,1890,0.3
+Italy,ITA,1895,0.4
+Italy,ITA,1900,0.5
+Italy,ITA,1905,0.6
+Italy,ITA,1910,0.7
+Italy,ITA,1915,0.8
+Italy,ITA,1920,0.8
+Italy,ITA,1925,1
+Italy,ITA,1930,1.1
+Italy,ITA,1935,1.2
+Italy,ITA,1940,1.3
+Italy,ITA,1945,1.5
+Italy,ITA,1950,1.6
+Italy,ITA,1955,1.8
+Italy,ITA,1960,2.3
+Italy,ITA,1965,2.4
+Italy,ITA,1970,2.9
+Italy,ITA,1975,3.4
+Italy,ITA,1980,4.7
+Italy,ITA,1985,5.4
+Italy,ITA,1990,6.7
+Italy,ITA,1995,8.9
+Italy,ITA,2000,11
+Italy,ITA,2005,12.2
+Italy,ITA,2010,14.6
+Italy,ITA,2015,14.4
+Italy,ITA,2020,15.9
+Italy,ITA,2025,17.7
+Italy,ITA,2030,19.9
+Italy,ITA,2035,22.1
+Italy,ITA,2040,24.6
+Jamaica,JAM,1870,0
+Jamaica,JAM,1875,0
+Jamaica,JAM,1880,0
+Jamaica,JAM,1885,0
+Jamaica,JAM,1890,0
+Jamaica,JAM,1895,0
+Jamaica,JAM,1900,0
+Jamaica,JAM,1905,0
+Jamaica,JAM,1910,0.1
+Jamaica,JAM,1915,0.1
+Jamaica,JAM,1920,0.2
+Jamaica,JAM,1925,0.2
+Jamaica,JAM,1930,0.2
+Jamaica,JAM,1935,0.3
+Jamaica,JAM,1940,0.3
+Jamaica,JAM,1945,0.4
+Jamaica,JAM,1950,0.4
+Jamaica,JAM,1955,0.4
+Jamaica,JAM,1960,0.4
+Jamaica,JAM,1965,0.7
+Jamaica,JAM,1970,1.2
+Jamaica,JAM,1975,1.6
+Jamaica,JAM,1980,2.3
+Jamaica,JAM,1985,2.7
+Jamaica,JAM,1990,3.7
+Jamaica,JAM,1995,7.8
+Jamaica,JAM,2000,14
+Jamaica,JAM,2005,14.8
+Jamaica,JAM,2010,16
+Jamaica,JAM,2015,17.1
+Jamaica,JAM,2020,18.4
+Jamaica,JAM,2025,20.6
+Jamaica,JAM,2030,23.4
+Jamaica,JAM,2035,27.2
+Jamaica,JAM,2040,31.6
+Japan,JPN,1870,0
+Japan,JPN,1875,0
+Japan,JPN,1880,0
+Japan,JPN,1885,0
+Japan,JPN,1890,0.1
+Japan,JPN,1895,0.1
+Japan,JPN,1900,0.1
+Japan,JPN,1905,0.1
+Japan,JPN,1910,0.3
+Japan,JPN,1915,0.6
+Japan,JPN,1920,0.9
+Japan,JPN,1925,1.5
+Japan,JPN,1930,2
+Japan,JPN,1935,2.7
+Japan,JPN,1940,3.3
+Japan,JPN,1945,4.2
+Japan,JPN,1950,4.9
+Japan,JPN,1955,5.9
+Japan,JPN,1960,6.8
+Japan,JPN,1965,6.2
+Japan,JPN,1970,6.1
+Japan,JPN,1975,11.9
+Japan,JPN,1980,15.9
+Japan,JPN,1985,20.1
+Japan,JPN,1990,24.3
+Japan,JPN,1995,27.6
+Japan,JPN,2000,32.2
+Japan,JPN,2005,36.6
+Japan,JPN,2010,41
+Japan,JPN,2015,43.8
+Japan,JPN,2020,47.2
+Japan,JPN,2025,48.7
+Japan,JPN,2030,50.8
+Japan,JPN,2035,52.9
+Japan,JPN,2040,57.3
+Jordan,JOR,1870,0
+Jordan,JOR,1875,0
+Jordan,JOR,1880,0
+Jordan,JOR,1885,0
+Jordan,JOR,1890,0
+Jordan,JOR,1895,0
+Jordan,JOR,1900,0
+Jordan,JOR,1905,0
+Jordan,JOR,1910,0.1
+Jordan,JOR,1915,0.2
+Jordan,JOR,1920,0.3
+Jordan,JOR,1925,0.3
+Jordan,JOR,1930,0.4
+Jordan,JOR,1935,0.4
+Jordan,JOR,1940,0.5
+Jordan,JOR,1945,0.6
+Jordan,JOR,1950,0.7
+Jordan,JOR,1955,0.8
+Jordan,JOR,1960,0.8
+Jordan,JOR,1965,1.2
+Jordan,JOR,1970,2.3
+Jordan,JOR,1975,4.4
+Jordan,JOR,1980,7.4
+Jordan,JOR,1985,8.8
+Jordan,JOR,1990,12.1
+Jordan,JOR,1995,12.8
+Jordan,JOR,2000,13.1
+Jordan,JOR,2005,14.1
+Jordan,JOR,2010,16.6
+Jordan,JOR,2015,16.6
+Jordan,JOR,2020,19.1
+Jordan,JOR,2025,22.7
+Jordan,JOR,2030,27.1
+Jordan,JOR,2035,32.8
+Jordan,JOR,2040,39
+Kazakhstan,KAZ,2015,26.5
+Kazakhstan,KAZ,2020,32.8
+Kazakhstan,KAZ,2025,38.6
+Kazakhstan,KAZ,2030,44.5
+Kazakhstan,KAZ,2035,51.1
+Kazakhstan,KAZ,2040,57.4
+Kenya,KEN,1870,0
+Kenya,KEN,1875,0
+Kenya,KEN,1880,0
+Kenya,KEN,1885,0
+Kenya,KEN,1890,0
+Kenya,KEN,1895,0
+Kenya,KEN,1900,0
+Kenya,KEN,1905,0
+Kenya,KEN,1910,0.1
+Kenya,KEN,1915,0.1
+Kenya,KEN,1920,0.2
+Kenya,KEN,1925,0.2
+Kenya,KEN,1930,0.2
+Kenya,KEN,1935,0.3
+Kenya,KEN,1940,0.3
+Kenya,KEN,1945,0.3
+Kenya,KEN,1950,0.3
+Kenya,KEN,1955,0.3
+Kenya,KEN,1960,0.3
+Kenya,KEN,1965,0.4
+Kenya,KEN,1970,0.5
+Kenya,KEN,1975,0.8
+Kenya,KEN,1980,1.3
+Kenya,KEN,1985,1.8
+Kenya,KEN,1990,2.5
+Kenya,KEN,1995,3.6
+Kenya,KEN,2000,4.9
+Kenya,KEN,2005,6.7
+Kenya,KEN,2010,8.7
+Kenya,KEN,2015,8.5
+Kenya,KEN,2020,8.4
+Kenya,KEN,2025,8.2
+Kenya,KEN,2030,8.5
+Kenya,KEN,2035,9.2
+Kenya,KEN,2040,10.4
+Kuwait,KWT,1870,0
+Kuwait,KWT,1875,0
+Kuwait,KWT,1880,0
+Kuwait,KWT,1885,0
+Kuwait,KWT,1890,0
+Kuwait,KWT,1895,0
+Kuwait,KWT,1900,0
+Kuwait,KWT,1905,0
+Kuwait,KWT,1910,0
+Kuwait,KWT,1915,0.1
+Kuwait,KWT,1920,0.1
+Kuwait,KWT,1925,0.2
+Kuwait,KWT,1930,0.2
+Kuwait,KWT,1935,0.7
+Kuwait,KWT,1940,1
+Kuwait,KWT,1945,1.7
+Kuwait,KWT,1950,2.2
+Kuwait,KWT,1955,3.2
+Kuwait,KWT,1960,3.9
+Kuwait,KWT,1965,4.5
+Kuwait,KWT,1970,4.8
+Kuwait,KWT,1975,7
+Kuwait,KWT,1980,10.4
+Kuwait,KWT,1985,12.7
+Kuwait,KWT,1990,12.9
+Kuwait,KWT,1995,13.4
+Kuwait,KWT,2000,10.5
+Kuwait,KWT,2005,8.4
+Kuwait,KWT,2010,8.5
+Kuwait,KWT,2015,6.9
+Kuwait,KWT,2020,6.3
+Kuwait,KWT,2025,6.9
+Kuwait,KWT,2030,8.3
+Kuwait,KWT,2035,10.7
+Kuwait,KWT,2040,13.7
+Kyrgyzstan,KGZ,2015,19.2
+Kyrgyzstan,KGZ,2020,21.7
+Kyrgyzstan,KGZ,2025,24.7
+Kyrgyzstan,KGZ,2030,28.4
+Kyrgyzstan,KGZ,2035,33.4
+Kyrgyzstan,KGZ,2040,39.3
+Laos,LAO,2015,6.8
+Laos,LAO,2020,8.6
+Laos,LAO,2025,11.5
+Laos,LAO,2030,15.9
+Laos,LAO,2035,22.7
+Laos,LAO,2040,30.8
+Latvia,LVA,2015,23.9
+Latvia,LVA,2020,30.4
+Latvia,LVA,2025,35.7
+Latvia,LVA,2030,41.8
+Latvia,LVA,2035,48.9
+Latvia,LVA,2040,56.5
+Lesotho,LSO,1870,0
+Lesotho,LSO,1875,0
+Lesotho,LSO,1880,0
+Lesotho,LSO,1885,0
+Lesotho,LSO,1890,0
+Lesotho,LSO,1895,0
+Lesotho,LSO,1900,0
+Lesotho,LSO,1905,0
+Lesotho,LSO,1910,0
+Lesotho,LSO,1915,0
+Lesotho,LSO,1920,0
+Lesotho,LSO,1925,0
+Lesotho,LSO,1930,0
+Lesotho,LSO,1935,0
+Lesotho,LSO,1940,0.1
+Lesotho,LSO,1945,0.1
+Lesotho,LSO,1950,0.1
+Lesotho,LSO,1955,0.1
+Lesotho,LSO,1960,0.1
+Lesotho,LSO,1965,0.1
+Lesotho,LSO,1970,0.1
+Lesotho,LSO,1975,0.1
+Lesotho,LSO,1980,0.2
+Lesotho,LSO,1985,0.5
+Lesotho,LSO,1990,0.8
+Lesotho,LSO,1995,1.1
+Lesotho,LSO,2000,1.5
+Lesotho,LSO,2005,1.8
+Lesotho,LSO,2010,2.1
+Lesotho,LSO,2015,1.7
+Lesotho,LSO,2020,1.1
+Lesotho,LSO,2025,1
+Lesotho,LSO,2030,1.5
+Lesotho,LSO,2035,2.4
+Lesotho,LSO,2040,4
+Liberia,LBR,1870,0
+Liberia,LBR,1875,0
+Liberia,LBR,1880,0
+Liberia,LBR,1885,0
+Liberia,LBR,1890,0
+Liberia,LBR,1895,0
+Liberia,LBR,1900,0
+Liberia,LBR,1905,0
+Liberia,LBR,1910,0.2
+Liberia,LBR,1915,0.4
+Liberia,LBR,1920,0.6
+Liberia,LBR,1925,0.7
+Liberia,LBR,1930,0.8
+Liberia,LBR,1935,0.9
+Liberia,LBR,1940,0.9
+Liberia,LBR,1945,1
+Liberia,LBR,1950,1
+Liberia,LBR,1955,1
+Liberia,LBR,1960,1
+Liberia,LBR,1965,1.1
+Liberia,LBR,1970,1.3
+Liberia,LBR,1975,1.5
+Liberia,LBR,1980,1.6
+Liberia,LBR,1985,2
+Liberia,LBR,1990,2.6
+Liberia,LBR,1995,3.5
+Liberia,LBR,2000,4.4
+Liberia,LBR,2005,5.8
+Liberia,LBR,2010,5.7
+Liberia,LBR,2015,5
+Liberia,LBR,2020,11.1
+Liberia,LBR,2025,18.3
+Liberia,LBR,2030,26.1
+Liberia,LBR,2035,33.9
+Liberia,LBR,2040,41.6
+Libya,LBY,1870,0
+Libya,LBY,1875,0
+Libya,LBY,1880,0
+Libya,LBY,1885,0
+Libya,LBY,1890,0
+Libya,LBY,1895,0
+Libya,LBY,1900,0
+Libya,LBY,1905,0
+Libya,LBY,1910,0
+Libya,LBY,1915,0
+Libya,LBY,1920,0
+Libya,LBY,1925,0
+Libya,LBY,1930,0
+Libya,LBY,1935,0.1
+Libya,LBY,1940,0.1
+Libya,LBY,1945,0.1
+Libya,LBY,1950,0.1
+Libya,LBY,1955,0.1
+Libya,LBY,1960,0.2
+Libya,LBY,1965,0.2
+Libya,LBY,1970,0.5
+Libya,LBY,1975,1.2
+Libya,LBY,1980,1.8
+Libya,LBY,1985,3.2
+Libya,LBY,1990,3
+Libya,LBY,1995,3.7
+Libya,LBY,2000,4.8
+Libya,LBY,2005,11.6
+Libya,LBY,2010,19.4
+Libya,LBY,2015,25.8
+Libya,LBY,2020,32.4
+Libya,LBY,2025,39.2
+Libya,LBY,2030,46.9
+Libya,LBY,2035,56.7
+Libya,LBY,2040,66.4
+Lithuania,LTU,2015,32.4
+Lithuania,LTU,2020,33
+Lithuania,LTU,2025,33.3
+Lithuania,LTU,2030,33.6
+Lithuania,LTU,2035,33.3
+Lithuania,LTU,2040,32.9
+Luxembourg,LUX,1870,0
+Luxembourg,LUX,1875,0
+Luxembourg,LUX,1880,0
+Luxembourg,LUX,1885,0
+Luxembourg,LUX,1890,0
+Luxembourg,LUX,1895,0
+Luxembourg,LUX,1900,0
+Luxembourg,LUX,1905,0
+Luxembourg,LUX,1910,0
+Luxembourg,LUX,1915,0
+Luxembourg,LUX,1920,0
+Luxembourg,LUX,1925,0
+Luxembourg,LUX,1930,0
+Luxembourg,LUX,1935,0.1
+Luxembourg,LUX,1940,0.6
+Luxembourg,LUX,1945,1
+Luxembourg,LUX,1950,1.7
+Luxembourg,LUX,1955,2.5
+Luxembourg,LUX,1960,3.3
+Luxembourg,LUX,1965,4.9
+Luxembourg,LUX,1970,6.5
+Luxembourg,LUX,1975,8.9
+Luxembourg,LUX,1980,10.5
+Luxembourg,LUX,1985,11.8
+Luxembourg,LUX,1990,13
+Luxembourg,LUX,1995,15.9
+Luxembourg,LUX,2000,18.8
+Luxembourg,LUX,2005,24.3
+Luxembourg,LUX,2010,35.4
+Luxembourg,LUX,2015,33.7
+Luxembourg,LUX,2020,31.5
+Luxembourg,LUX,2025,29.4
+Luxembourg,LUX,2030,28.2
+Luxembourg,LUX,2035,26.3
+Luxembourg,LUX,2040,25.6
+Macao,MAC,2015,20.7
+Macao,MAC,2020,23.9
+Macao,MAC,2025,27.7
+Macao,MAC,2030,31.5
+Macao,MAC,2035,35
+Macao,MAC,2040,38.4
+Malawi,MWI,1870,0
+Malawi,MWI,1875,0
+Malawi,MWI,1880,0
+Malawi,MWI,1885,0
+Malawi,MWI,1890,0
+Malawi,MWI,1895,0
+Malawi,MWI,1900,0
+Malawi,MWI,1905,0
+Malawi,MWI,1910,0
+Malawi,MWI,1915,0
+Malawi,MWI,1920,0
+Malawi,MWI,1925,0
+Malawi,MWI,1930,0
+Malawi,MWI,1935,0
+Malawi,MWI,1940,0
+Malawi,MWI,1945,0
+Malawi,MWI,1950,0
+Malawi,MWI,1955,0
+Malawi,MWI,1960,0
+Malawi,MWI,1965,0
+Malawi,MWI,1970,0.1
+Malawi,MWI,1975,0.2
+Malawi,MWI,1980,0.3
+Malawi,MWI,1985,0.4
+Malawi,MWI,1990,0.4
+Malawi,MWI,1995,0.5
+Malawi,MWI,2000,0.5
+Malawi,MWI,2005,0.4
+Malawi,MWI,2010,0.4
+Malawi,MWI,2015,0.3
+Malawi,MWI,2020,0.2
+Malawi,MWI,2025,0.1
+Malawi,MWI,2030,0.1
+Malawi,MWI,2035,0.1
+Malawi,MWI,2040,0
+Malaysia,MYS,1870,0
+Malaysia,MYS,1875,0
+Malaysia,MYS,1880,0
+Malaysia,MYS,1885,0
+Malaysia,MYS,1890,0
+Malaysia,MYS,1895,0
+Malaysia,MYS,1900,0
+Malaysia,MYS,1905,0
+Malaysia,MYS,1910,0.1
+Malaysia,MYS,1915,0.2
+Malaysia,MYS,1920,0.3
+Malaysia,MYS,1925,0.6
+Malaysia,MYS,1930,0.9
+Malaysia,MYS,1935,1
+Malaysia,MYS,1940,1.2
+Malaysia,MYS,1945,1.3
+Malaysia,MYS,1950,1.4
+Malaysia,MYS,1955,1.5
+Malaysia,MYS,1960,1.6
+Malaysia,MYS,1965,1.5
+Malaysia,MYS,1970,1.5
+Malaysia,MYS,1975,1.5
+Malaysia,MYS,1980,1.6
+Malaysia,MYS,1985,4.6
+Malaysia,MYS,1990,7.9
+Malaysia,MYS,1995,8.9
+Malaysia,MYS,2000,9
+Malaysia,MYS,2005,12.9
+Malaysia,MYS,2010,17.6
+Malaysia,MYS,2015,22.6
+Malaysia,MYS,2020,26.5
+Malaysia,MYS,2025,30.8
+Malaysia,MYS,2030,35.8
+Malaysia,MYS,2035,40.6
+Malaysia,MYS,2040,46.1
+Maldives,MDV,2015,1.8
+Maldives,MDV,2020,1.5
+Maldives,MDV,2025,1.3
+Maldives,MDV,2030,1.1
+Maldives,MDV,2035,0.9
+Maldives,MDV,2040,0.6
+Mali,MLI,1870,0
+Mali,MLI,1875,0
+Mali,MLI,1880,0
+Mali,MLI,1885,0
+Mali,MLI,1890,0
+Mali,MLI,1895,0
+Mali,MLI,1900,0
+Mali,MLI,1905,0
+Mali,MLI,1910,0
+Mali,MLI,1915,0
+Mali,MLI,1920,0
+Mali,MLI,1925,0
+Mali,MLI,1930,0
+Mali,MLI,1935,0
+Mali,MLI,1940,0
+Mali,MLI,1945,0
+Mali,MLI,1950,0.1
+Mali,MLI,1955,0.1
+Mali,MLI,1960,0.1
+Mali,MLI,1965,0.1
+Mali,MLI,1970,0.2
+Mali,MLI,1975,0.2
+Mali,MLI,1980,0.3
+Mali,MLI,1985,0.4
+Mali,MLI,1990,0.5
+Mali,MLI,1995,0.7
+Mali,MLI,2000,0.8
+Mali,MLI,2005,1.1
+Mali,MLI,2010,2
+Mali,MLI,2015,2
+Mali,MLI,2020,1.6
+Mali,MLI,2025,1.9
+Mali,MLI,2030,2.7
+Mali,MLI,2035,4.4
+Mali,MLI,2040,6.9
+Malta,MLT,1870,0
+Malta,MLT,1875,0
+Malta,MLT,1880,0
+Malta,MLT,1885,0
+Malta,MLT,1890,0
+Malta,MLT,1895,0
+Malta,MLT,1900,0.6
+Malta,MLT,1905,1
+Malta,MLT,1910,1.5
+Malta,MLT,1915,1.9
+Malta,MLT,1920,2.2
+Malta,MLT,1925,2.6
+Malta,MLT,1930,2.9
+Malta,MLT,1935,3.4
+Malta,MLT,1940,3.6
+Malta,MLT,1945,3.9
+Malta,MLT,1950,4.2
+Malta,MLT,1955,3.7
+Malta,MLT,1960,3.2
+Malta,MLT,1965,2.6
+Malta,MLT,1970,3.7
+Malta,MLT,1975,5
+Malta,MLT,1980,6
+Malta,MLT,1985,5.8
+Malta,MLT,1990,6.6
+Malta,MLT,1995,7.6
+Malta,MLT,2000,9.3
+Malta,MLT,2005,11.9
+Malta,MLT,2010,14.7
+Malta,MLT,2015,16
+Malta,MLT,2020,18.9
+Malta,MLT,2025,22.7
+Malta,MLT,2030,26.5
+Malta,MLT,2035,29.8
+Malta,MLT,2040,33.7
+Mauritania,MRT,2015,2.1
+Mauritania,MRT,2020,1.9
+Mauritania,MRT,2025,1.6
+Mauritania,MRT,2030,1.5
+Mauritania,MRT,2035,1.5
+Mauritania,MRT,2040,1.9
+Mauritius,MUS,1870,0
+Mauritius,MUS,1875,0
+Mauritius,MUS,1880,0
+Mauritius,MUS,1885,0
+Mauritius,MUS,1890,0
+Mauritius,MUS,1895,0
+Mauritius,MUS,1900,0.1
+Mauritius,MUS,1905,0.2
+Mauritius,MUS,1910,0.2
+Mauritius,MUS,1915,0.3
+Mauritius,MUS,1920,0.3
+Mauritius,MUS,1925,0.3
+Mauritius,MUS,1930,0.4
+Mauritius,MUS,1935,0.4
+Mauritius,MUS,1940,0.4
+Mauritius,MUS,1945,0.4
+Mauritius,MUS,1950,0.4
+Mauritius,MUS,1955,0.8
+Mauritius,MUS,1960,1.3
+Mauritius,MUS,1965,1.1
+Mauritius,MUS,1970,1.4
+Mauritius,MUS,1975,1.7
+Mauritius,MUS,1980,2.4
+Mauritius,MUS,1985,3.8
+Mauritius,MUS,1990,2.1
+Mauritius,MUS,1995,2.3
+Mauritius,MUS,2000,2.9
+Mauritius,MUS,2005,3.7
+Mauritius,MUS,2010,5.9
+Mauritius,MUS,2015,6
+Mauritius,MUS,2020,6.6
+Mauritius,MUS,2025,8.4
+Mauritius,MUS,2030,11.7
+Mauritius,MUS,2035,15.6
+Mauritius,MUS,2040,20.2
+Mexico,MEX,1870,0
+Mexico,MEX,1875,0.1
+Mexico,MEX,1880,0.1
+Mexico,MEX,1885,0.1
+Mexico,MEX,1890,0.1
+Mexico,MEX,1895,0.1
+Mexico,MEX,1900,0.2
+Mexico,MEX,1905,0.2
+Mexico,MEX,1910,0.5
+Mexico,MEX,1915,0.6
+Mexico,MEX,1920,0.8
+Mexico,MEX,1925,1
+Mexico,MEX,1930,1.2
+Mexico,MEX,1935,1.3
+Mexico,MEX,1940,1.3
+Mexico,MEX,1945,1.4
+Mexico,MEX,1950,1.4
+Mexico,MEX,1955,1.4
+Mexico,MEX,1960,1.3
+Mexico,MEX,1965,1.7
+Mexico,MEX,1970,2.4
+Mexico,MEX,1975,3.8
+Mexico,MEX,1980,5.8
+Mexico,MEX,1985,7.1
+Mexico,MEX,1990,8.5
+Mexico,MEX,1995,10.9
+Mexico,MEX,2000,13.1
+Mexico,MEX,2005,16.5
+Mexico,MEX,2010,19.3
+Mexico,MEX,2015,20.5
+Mexico,MEX,2020,22.9
+Mexico,MEX,2025,25.5
+Mexico,MEX,2030,28.7
+Mexico,MEX,2035,32.3
+Mexico,MEX,2040,36.4
+Moldova,MDA,2015,17.1
+Moldova,MDA,2020,17.6
+Moldova,MDA,2025,18.9
+Moldova,MDA,2030,20.7
+Moldova,MDA,2035,23.4
+Moldova,MDA,2040,26.7
+Mongolia,MNG,2015,24.5
+Mongolia,MNG,2020,26.4
+Mongolia,MNG,2025,28.7
+Mongolia,MNG,2030,31.7
+Mongolia,MNG,2035,36
+Mongolia,MNG,2040,40.5
+Morocco,MAR,1870,0
+Morocco,MAR,1875,0
+Morocco,MAR,1880,0
+Morocco,MAR,1885,0
+Morocco,MAR,1890,0
+Morocco,MAR,1895,0
+Morocco,MAR,1900,0
+Morocco,MAR,1905,0
+Morocco,MAR,1910,0
+Morocco,MAR,1915,0
+Morocco,MAR,1920,0
+Morocco,MAR,1925,0
+Morocco,MAR,1930,0
+Morocco,MAR,1935,0
+Morocco,MAR,1940,0
+Morocco,MAR,1945,0
+Morocco,MAR,1950,0
+Morocco,MAR,1955,0
+Morocco,MAR,1960,0
+Morocco,MAR,1965,0.2
+Morocco,MAR,1970,0.3
+Morocco,MAR,1975,0.8
+Morocco,MAR,1980,1.8
+Morocco,MAR,1985,3.2
+Morocco,MAR,1990,4.9
+Morocco,MAR,1995,6.8
+Morocco,MAR,2000,8.4
+Morocco,MAR,2005,9.3
+Morocco,MAR,2010,10.3
+Morocco,MAR,2015,11.3
+Morocco,MAR,2020,12.7
+Morocco,MAR,2025,14.5
+Morocco,MAR,2030,16.9
+Morocco,MAR,2035,20.1
+Morocco,MAR,2040,24.9
+Mozambique,MOZ,1870,0
+Mozambique,MOZ,1875,0
+Mozambique,MOZ,1880,0
+Mozambique,MOZ,1885,0
+Mozambique,MOZ,1890,0
+Mozambique,MOZ,1895,0
+Mozambique,MOZ,1900,0
+Mozambique,MOZ,1905,0
+Mozambique,MOZ,1910,0
+Mozambique,MOZ,1915,0
+Mozambique,MOZ,1920,0
+Mozambique,MOZ,1925,0
+Mozambique,MOZ,1930,0
+Mozambique,MOZ,1935,0
+Mozambique,MOZ,1940,0
+Mozambique,MOZ,1945,0
+Mozambique,MOZ,1950,0
+Mozambique,MOZ,1955,0.1
+Mozambique,MOZ,1960,0.1
+Mozambique,MOZ,1965,0.1
+Mozambique,MOZ,1970,0.1
+Mozambique,MOZ,1975,0.1
+Mozambique,MOZ,1980,0
+Mozambique,MOZ,1985,0.1
+Mozambique,MOZ,1990,0.2
+Mozambique,MOZ,1995,0.4
+Mozambique,MOZ,2000,0.4
+Mozambique,MOZ,2005,0.5
+Mozambique,MOZ,2010,0.5
+Mozambique,MOZ,2015,0.6
+Mozambique,MOZ,2020,0.5
+Mozambique,MOZ,2025,0.5
+Mozambique,MOZ,2030,0.7
+Mozambique,MOZ,2035,1
+Mozambique,MOZ,2040,1.4
+Myanmar,MMR,1870,0
+Myanmar,MMR,1875,0
+Myanmar,MMR,1880,0
+Myanmar,MMR,1885,0
+Myanmar,MMR,1890,0
+Myanmar,MMR,1895,0
+Myanmar,MMR,1900,0
+Myanmar,MMR,1905,0.1
+Myanmar,MMR,1910,0.1
+Myanmar,MMR,1915,0.2
+Myanmar,MMR,1920,0.2
+Myanmar,MMR,1925,0.2
+Myanmar,MMR,1930,0.3
+Myanmar,MMR,1935,0.3
+Myanmar,MMR,1940,0.4
+Myanmar,MMR,1945,0.4
+Myanmar,MMR,1950,0.4
+Myanmar,MMR,1955,0.4
+Myanmar,MMR,1960,0.3
+Myanmar,MMR,1965,0.3
+Myanmar,MMR,1970,0.3
+Myanmar,MMR,1975,0.2
+Myanmar,MMR,1980,0.9
+Myanmar,MMR,1985,2.2
+Myanmar,MMR,1990,4.7
+Myanmar,MMR,1995,4.9
+Myanmar,MMR,2000,5.1
+Myanmar,MMR,2005,6.1
+Myanmar,MMR,2010,8.1
+Myanmar,MMR,2015,10.6
+Myanmar,MMR,2020,13.9
+Myanmar,MMR,2025,17.9
+Myanmar,MMR,2030,22.3
+Myanmar,MMR,2035,27.6
+Myanmar,MMR,2040,33.2
+Namibia,NAM,2015,1.8
+Namibia,NAM,2020,1.3
+Namibia,NAM,2025,1.1
+Namibia,NAM,2030,1.1
+Namibia,NAM,2035,1.5
+Namibia,NAM,2040,2.1
+Nepal,NPL,1870,0
+Nepal,NPL,1875,0
+Nepal,NPL,1880,0
+Nepal,NPL,1885,0
+Nepal,NPL,1890,0
+Nepal,NPL,1895,0
+Nepal,NPL,1900,0
+Nepal,NPL,1905,0
+Nepal,NPL,1910,0
+Nepal,NPL,1915,0
+Nepal,NPL,1920,0
+Nepal,NPL,1925,0
+Nepal,NPL,1930,0
+Nepal,NPL,1935,0
+Nepal,NPL,1940,0.1
+Nepal,NPL,1945,0.1
+Nepal,NPL,1950,0.1
+Nepal,NPL,1955,0.1
+Nepal,NPL,1960,0.1
+Nepal,NPL,1965,0.2
+Nepal,NPL,1970,0.3
+Nepal,NPL,1975,0.6
+Nepal,NPL,1980,1.2
+Nepal,NPL,1985,2.5
+Nepal,NPL,1990,4.4
+Nepal,NPL,1995,4
+Nepal,NPL,2000,4
+Nepal,NPL,2005,3.9
+Nepal,NPL,2010,3.5
+Nepal,NPL,2015,3.5
+Nepal,NPL,2020,2.8
+Nepal,NPL,2025,2.3
+Nepal,NPL,2030,2
+Nepal,NPL,2035,2
+Nepal,NPL,2040,2.2
+Netherlands,NLD,1870,0.2
+Netherlands,NLD,1875,0.2
+Netherlands,NLD,1880,0.2
+Netherlands,NLD,1885,0.2
+Netherlands,NLD,1890,0.3
+Netherlands,NLD,1895,0.3
+Netherlands,NLD,1900,0.4
+Netherlands,NLD,1905,0.5
+Netherlands,NLD,1910,0.5
+Netherlands,NLD,1915,0.6
+Netherlands,NLD,1920,0.7
+Netherlands,NLD,1925,0.8
+Netherlands,NLD,1930,0.8
+Netherlands,NLD,1935,1
+Netherlands,NLD,1940,1.1
+Netherlands,NLD,1945,1.2
+Netherlands,NLD,1950,1.3
+Netherlands,NLD,1955,1.4
+Netherlands,NLD,1960,1.4
+Netherlands,NLD,1965,4.4
+Netherlands,NLD,1970,7.6
+Netherlands,NLD,1975,9
+Netherlands,NLD,1980,11.9
+Netherlands,NLD,1985,15.4
+Netherlands,NLD,1990,18.6
+Netherlands,NLD,1995,22
+Netherlands,NLD,2000,24.9
+Netherlands,NLD,2005,28
+Netherlands,NLD,2010,32.4
+Netherlands,NLD,2015,31.4
+Netherlands,NLD,2020,30.9
+Netherlands,NLD,2025,30.4
+Netherlands,NLD,2030,30.2
+Netherlands,NLD,2035,29.8
+Netherlands,NLD,2040,29.8
+New Zealand,NZL,1870,0
+New Zealand,NZL,1875,0.1
+New Zealand,NZL,1880,0.1
+New Zealand,NZL,1885,0.2
+New Zealand,NZL,1890,0.3
+New Zealand,NZL,1895,0.5
+New Zealand,NZL,1900,0.6
+New Zealand,NZL,1905,0.8
+New Zealand,NZL,1910,0.7
+New Zealand,NZL,1915,1
+New Zealand,NZL,1920,1.3
+New Zealand,NZL,1925,1.6
+New Zealand,NZL,1930,2.1
+New Zealand,NZL,1935,2.5
+New Zealand,NZL,1940,2.9
+New Zealand,NZL,1945,3.3
+New Zealand,NZL,1950,4.1
+New Zealand,NZL,1955,4.6
+New Zealand,NZL,1960,5
+New Zealand,NZL,1965,5.4
+New Zealand,NZL,1970,13
+New Zealand,NZL,1975,21.7
+New Zealand,NZL,1980,29.1
+New Zealand,NZL,1985,36.3
+New Zealand,NZL,1990,42.4
+New Zealand,NZL,1995,41
+New Zealand,NZL,2000,42
+New Zealand,NZL,2005,43.7
+New Zealand,NZL,2010,40.4
+New Zealand,NZL,2015,39.5
+New Zealand,NZL,2020,39.8
+New Zealand,NZL,2025,39.9
+New Zealand,NZL,2030,40
+New Zealand,NZL,2035,39.8
+New Zealand,NZL,2040,39.7
+Nicaragua,NIC,1870,0
+Nicaragua,NIC,1875,0
+Nicaragua,NIC,1880,0
+Nicaragua,NIC,1885,0
+Nicaragua,NIC,1890,0
+Nicaragua,NIC,1895,0
+Nicaragua,NIC,1900,0.2
+Nicaragua,NIC,1905,0.3
+Nicaragua,NIC,1910,0.4
+Nicaragua,NIC,1915,0.4
+Nicaragua,NIC,1920,0.4
+Nicaragua,NIC,1925,0.5
+Nicaragua,NIC,1930,0.5
+Nicaragua,NIC,1935,0.5
+Nicaragua,NIC,1940,0.5
+Nicaragua,NIC,1945,0.5
+Nicaragua,NIC,1950,0.5
+Nicaragua,NIC,1955,1
+Nicaragua,NIC,1960,1.8
+Nicaragua,NIC,1965,2.8
+Nicaragua,NIC,1970,4.6
+Nicaragua,NIC,1975,5.6
+Nicaragua,NIC,1980,7
+Nicaragua,NIC,1985,9.2
+Nicaragua,NIC,1990,10
+Nicaragua,NIC,1995,10.3
+Nicaragua,NIC,2000,10.7
+Nicaragua,NIC,2005,11
+Nicaragua,NIC,2010,11.8
+Nicaragua,NIC,2015,12.6
+Nicaragua,NIC,2020,14.3
+Nicaragua,NIC,2025,16.7
+Nicaragua,NIC,2030,19.6
+Nicaragua,NIC,2035,23.5
+Nicaragua,NIC,2040,28
+Niger,NER,1870,0
+Niger,NER,1875,0
+Niger,NER,1880,0
+Niger,NER,1885,0
+Niger,NER,1890,0
+Niger,NER,1895,0
+Niger,NER,1900,0
+Niger,NER,1905,0
+Niger,NER,1910,0
+Niger,NER,1915,0
+Niger,NER,1920,0
+Niger,NER,1925,0
+Niger,NER,1930,0.1
+Niger,NER,1935,0.1
+Niger,NER,1940,0.1
+Niger,NER,1945,0.1
+Niger,NER,1950,0.1
+Niger,NER,1955,0.1
+Niger,NER,1960,0.1
+Niger,NER,1965,0.1
+Niger,NER,1970,0.2
+Niger,NER,1975,0.2
+Niger,NER,1980,0.3
+Niger,NER,1985,0.4
+Niger,NER,1990,0.6
+Niger,NER,1995,0.7
+Niger,NER,2000,0.9
+Niger,NER,2005,1
+Niger,NER,2010,1.2
+Niger,NER,2015,1.2
+Niger,NER,2020,1.4
+Niger,NER,2025,1.5
+Niger,NER,2030,1.7
+Niger,NER,2035,2.2
+Niger,NER,2040,2.8
+North America,,1870,0.60757506
+North America,,1875,0.7034891
+North America,,1880,0.7827632
+North America,,1885,1.0060134
+North America,,1890,1.6100904
+North America,,1895,2.2097628
+North America,,1900,2.8851135
+North America,,1905,3.6202068
+North America,,1910,4.3160276
+North America,,1915,5.1513033
+North America,,1920,5.9174438
+North America,,1925,6.8114266
+North America,,1930,7.528845
+North America,,1935,8.420493
+North America,,1940,9.095388
+North America,,1945,9.662828
+North America,,1950,10.9466915
+North America,,1955,12.038535
+North America,,1960,13.361164
+North America,,1965,14.871752
+North America,,1970,16.845251
+North America,,1975,21.214626
+North America,,1980,25.471424
+North America,,1985,29.378225
+North America,,1990,34.08652
+North America,,1995,35.035076
+North America,,2000,38.844025
+North America,,2005,40.93854
+North America,,2010,43.696262
+North America,,2015,43.788326
+North America,,2020,44.65029
+North America,,2025,45.68666
+North America,,2030,46.86984
+North America,,2035,47.97574
+North America,,2040,49.282852
+Norway,NOR,1870,0.5
+Norway,NOR,1875,0.5
+Norway,NOR,1880,0.5
+Norway,NOR,1885,0.5
+Norway,NOR,1890,0.6
+Norway,NOR,1895,0.7
+Norway,NOR,1900,0.7
+Norway,NOR,1905,0.7
+Norway,NOR,1910,0.9
+Norway,NOR,1915,1
+Norway,NOR,1920,1.1
+Norway,NOR,1925,1.3
+Norway,NOR,1930,1.3
+Norway,NOR,1935,1.4
+Norway,NOR,1940,1.5
+Norway,NOR,1945,1.5
+Norway,NOR,1950,1.5
+Norway,NOR,1955,1.8
+Norway,NOR,1960,2
+Norway,NOR,1965,4.7
+Norway,NOR,1970,8.4
+Norway,NOR,1975,10.6
+Norway,NOR,1980,14.2
+Norway,NOR,1985,17.5
+Norway,NOR,1990,22
+Norway,NOR,1995,24.2
+Norway,NOR,2000,28.7
+Norway,NOR,2005,31.4
+Norway,NOR,2010,32.9
+Norway,NOR,2015,31.5
+Norway,NOR,2020,31.8
+Norway,NOR,2025,32.1
+Norway,NOR,2030,32.5
+Norway,NOR,2035,32.3
+Norway,NOR,2040,32.3
+Oceania,,2015,26.53345
+Oceania,,2020,24.204275
+Oceania,,2025,21.796988
+Oceania,,2030,19.679155
+Oceania,,2035,17.515919
+Oceania,,2040,15.59143
+Pakistan,PAK,1870,0
+Pakistan,PAK,1875,0
+Pakistan,PAK,1880,0
+Pakistan,PAK,1885,0
+Pakistan,PAK,1890,0
+Pakistan,PAK,1895,0
+Pakistan,PAK,1900,0
+Pakistan,PAK,1905,0
+Pakistan,PAK,1910,0.2
+Pakistan,PAK,1915,0.3
+Pakistan,PAK,1920,0.4
+Pakistan,PAK,1925,0.5
+Pakistan,PAK,1930,0.5
+Pakistan,PAK,1935,0.6
+Pakistan,PAK,1940,0.6
+Pakistan,PAK,1945,0.7
+Pakistan,PAK,1950,0.7
+Pakistan,PAK,1955,0.7
+Pakistan,PAK,1960,0.7
+Pakistan,PAK,1965,0.9
+Pakistan,PAK,1970,1.2
+Pakistan,PAK,1975,1.7
+Pakistan,PAK,1980,2.1
+Pakistan,PAK,1985,2.4
+Pakistan,PAK,1990,2.8
+Pakistan,PAK,1995,4.5
+Pakistan,PAK,2000,7.3
+Pakistan,PAK,2005,6.7
+Pakistan,PAK,2010,6.9
+Pakistan,PAK,2015,5.5
+Pakistan,PAK,2020,5.9
+Pakistan,PAK,2025,6.3
+Pakistan,PAK,2030,6.8
+Pakistan,PAK,2035,7.4
+Pakistan,PAK,2040,8
+Panama,PAN,1870,0
+Panama,PAN,1875,0
+Panama,PAN,1880,0
+Panama,PAN,1885,0
+Panama,PAN,1890,0
+Panama,PAN,1895,0
+Panama,PAN,1900,0.2
+Panama,PAN,1905,0.4
+Panama,PAN,1910,0.5
+Panama,PAN,1915,0.7
+Panama,PAN,1920,0.8
+Panama,PAN,1925,1
+Panama,PAN,1930,1.2
+Panama,PAN,1935,1.4
+Panama,PAN,1940,1.5
+Panama,PAN,1945,1.7
+Panama,PAN,1950,1.7
+Panama,PAN,1955,2
+Panama,PAN,1960,2.7
+Panama,PAN,1965,3.3
+Panama,PAN,1970,4.5
+Panama,PAN,1975,6
+Panama,PAN,1980,9
+Panama,PAN,1985,11.6
+Panama,PAN,1990,15.2
+Panama,PAN,1995,17.9
+Panama,PAN,2000,22.3
+Panama,PAN,2005,23.6
+Panama,PAN,2010,26.2
+Panama,PAN,2015,26.4
+Panama,PAN,2020,27.7
+Panama,PAN,2025,29.7
+Panama,PAN,2030,32.7
+Panama,PAN,2035,36.2
+Panama,PAN,2040,40.3
+Papua New Guinea,PNG,2015,1.5
+Papua New Guinea,PNG,2020,1.4
+Papua New Guinea,PNG,2025,1.4
+Papua New Guinea,PNG,2030,1.6
+Papua New Guinea,PNG,2035,1.8
+Papua New Guinea,PNG,2040,2
+Paraguay,PRY,1870,0
+Paraguay,PRY,1875,0
+Paraguay,PRY,1880,0
+Paraguay,PRY,1885,0
+Paraguay,PRY,1890,0
+Paraguay,PRY,1895,0
+Paraguay,PRY,1900,0.1
+Paraguay,PRY,1905,0.2
+Paraguay,PRY,1910,0.3
+Paraguay,PRY,1915,0.4
+Paraguay,PRY,1920,0.5
+Paraguay,PRY,1925,0.6
+Paraguay,PRY,1930,0.7
+Paraguay,PRY,1935,0.7
+Paraguay,PRY,1940,0.8
+Paraguay,PRY,1945,0.8
+Paraguay,PRY,1950,0.8
+Paraguay,PRY,1955,1
+Paraguay,PRY,1960,1.2
+Paraguay,PRY,1965,1.5
+Paraguay,PRY,1970,2.2
+Paraguay,PRY,1975,2.5
+Paraguay,PRY,1980,3.7
+Paraguay,PRY,1985,5.6
+Paraguay,PRY,1990,8.2
+Paraguay,PRY,1995,8
+Paraguay,PRY,2000,8.3
+Paraguay,PRY,2005,4.4
+Paraguay,PRY,2010,11.5
+Paraguay,PRY,2015,10.2
+Paraguay,PRY,2020,10.8
+Paraguay,PRY,2025,12.4
+Paraguay,PRY,2030,14.9
+Paraguay,PRY,2035,18
+Paraguay,PRY,2040,21.7
+Peru,PER,1870,0
+Peru,PER,1875,0
+Peru,PER,1880,0
+Peru,PER,1885,0
+Peru,PER,1890,0
+Peru,PER,1895,0
+Peru,PER,1900,0
+Peru,PER,1905,0.1
+Peru,PER,1910,0.3
+Peru,PER,1915,0.4
+Peru,PER,1920,0.6
+Peru,PER,1925,0.9
+Peru,PER,1930,1.2
+Peru,PER,1935,1.4
+Peru,PER,1940,1.5
+Peru,PER,1945,1.9
+Peru,PER,1950,2.1
+Peru,PER,1955,2.4
+Peru,PER,1960,2.7
+Peru,PER,1965,3.4
+Peru,PER,1970,4.9
+Peru,PER,1975,7.3
+Peru,PER,1980,11
+Peru,PER,1985,12.3
+Peru,PER,1990,16.4
+Peru,PER,1995,22.4
+Peru,PER,2000,27.3
+Peru,PER,2005,35.5
+Peru,PER,2010,22.5
+Peru,PER,2015,20.9
+Peru,PER,2020,19.9
+Peru,PER,2025,19.8
+Peru,PER,2030,20.7
+Peru,PER,2035,22.5
+Peru,PER,2040,24.9
+Philippines,PHL,1870,0
+Philippines,PHL,1875,0
+Philippines,PHL,1880,0
+Philippines,PHL,1885,0
+Philippines,PHL,1890,0
+Philippines,PHL,1895,0
+Philippines,PHL,1900,0.1
+Philippines,PHL,1905,0.2
+Philippines,PHL,1910,0.3
+Philippines,PHL,1915,0.5
+Philippines,PHL,1920,0.7
+Philippines,PHL,1925,1.1
+Philippines,PHL,1930,1.3
+Philippines,PHL,1935,1.8
+Philippines,PHL,1940,2.2
+Philippines,PHL,1945,2.5
+Philippines,PHL,1950,2.8
+Philippines,PHL,1955,5.9
+Philippines,PHL,1960,6.2
+Philippines,PHL,1965,7.7
+Philippines,PHL,1970,10.1
+Philippines,PHL,1975,12.3
+Philippines,PHL,1980,15.7
+Philippines,PHL,1985,18.2
+Philippines,PHL,1990,18.7
+Philippines,PHL,1995,22.1
+Philippines,PHL,2000,26.2
+Philippines,PHL,2005,25.8
+Philippines,PHL,2010,25.4
+Philippines,PHL,2015,27.4
+Philippines,PHL,2020,29.7
+Philippines,PHL,2025,32.7
+Philippines,PHL,2030,36.6
+Philippines,PHL,2035,41.1
+Philippines,PHL,2040,46
+Poland,POL,1870,0.1
+Poland,POL,1875,0.1
+Poland,POL,1880,0.1
+Poland,POL,1885,0.1
+Poland,POL,1890,0.1
+Poland,POL,1895,0.2
+Poland,POL,1900,0.2
+Poland,POL,1905,0.3
+Poland,POL,1910,0.5
+Poland,POL,1915,0.7
+Poland,POL,1920,0.9
+Poland,POL,1925,1.1
+Poland,POL,1930,1.4
+Poland,POL,1935,1.7
+Poland,POL,1940,2
+Poland,POL,1945,2.3
+Poland,POL,1950,2.5
+Poland,POL,1955,3
+Poland,POL,1960,3.4
+Poland,POL,1965,4.5
+Poland,POL,1970,6.1
+Poland,POL,1975,6.2
+Poland,POL,1980,6.5
+Poland,POL,1985,7.2
+Poland,POL,1990,8.9
+Poland,POL,1995,10.4
+Poland,POL,2000,13.9
+Poland,POL,2005,16.8
+Poland,POL,2010,23.8
+Poland,POL,2015,23.7
+Poland,POL,2020,24.9
+Poland,POL,2025,26.3
+Poland,POL,2030,27.6
+Poland,POL,2035,28.3
+Poland,POL,2040,29.3
+Portugal,PRT,1870,0.2
+Portugal,PRT,1875,0.2
+Portugal,PRT,1880,0.2
+Portugal,PRT,1885,0.2
+Portugal,PRT,1890,0.2
+Portugal,PRT,1895,0.2
+Portugal,PRT,1900,0.2
+Portugal,PRT,1905,0.2
+Portugal,PRT,1910,0.3
+Portugal,PRT,1915,0.4
+Portugal,PRT,1920,0.5
+Portugal,PRT,1925,0.5
+Portugal,PRT,1930,0.6
+Portugal,PRT,1935,0.7
+Portugal,PRT,1940,0.8
+Portugal,PRT,1945,0.9
+Portugal,PRT,1950,1
+Portugal,PRT,1955,1.1
+Portugal,PRT,1960,1.1
+Portugal,PRT,1965,1.5
+Portugal,PRT,1970,1.8
+Portugal,PRT,1975,2.6
+Portugal,PRT,1980,4.1
+Portugal,PRT,1985,6.3
+Portugal,PRT,1990,8.9
+Portugal,PRT,1995,10.5
+Portugal,PRT,2000,13.8
+Portugal,PRT,2005,13.5
+Portugal,PRT,2010,15.3
+Portugal,PRT,2015,15.7
+Portugal,PRT,2020,16.1
+Portugal,PRT,2025,16.7
+Portugal,PRT,2030,17.8
+Portugal,PRT,2035,18.4
+Portugal,PRT,2040,19.4
+Qatar,QAT,2015,15.5
+Qatar,QAT,2020,14.9
+Qatar,QAT,2025,15.1
+Qatar,QAT,2030,15.6
+Qatar,QAT,2035,16.2
+Qatar,QAT,2040,17.5
+Reunion,REU,1870,0
+Reunion,REU,1875,0
+Reunion,REU,1880,0
+Reunion,REU,1885,0
+Reunion,REU,1890,0
+Reunion,REU,1895,0
+Reunion,REU,1900,0
+Reunion,REU,1905,1.5
+Reunion,REU,1910,2.7
+Reunion,REU,1915,4
+Reunion,REU,1920,5
+Reunion,REU,1925,5.9
+Reunion,REU,1930,6.5
+Reunion,REU,1935,7
+Reunion,REU,1940,7.4
+Reunion,REU,1945,7.5
+Reunion,REU,1950,7.8
+Reunion,REU,1955,9
+Reunion,REU,1960,4.8
+Reunion,REU,1965,0.6
+Reunion,REU,1970,0.5
+Reunion,REU,1975,0.5
+Reunion,REU,1980,0.6
+Reunion,REU,1985,0.8
+Reunion,REU,1990,1
+Reunion,REU,1995,1.3
+Reunion,REU,2000,1.5
+Reunion,REU,2005,1.8
+Reunion,REU,2010,2.1
+Reunion,REU,2015,3
+Reunion,REU,2020,4
+Reunion,REU,2025,5
+Reunion,REU,2030,6.4
+Reunion,REU,2035,7.9
+Reunion,REU,2040,9.5
+Romania,ROU,1870,0
+Romania,ROU,1875,0
+Romania,ROU,1880,0
+Romania,ROU,1885,0
+Romania,ROU,1890,0
+Romania,ROU,1895,0
+Romania,ROU,1900,0
+Romania,ROU,1905,0.1
+Romania,ROU,1910,0.1
+Romania,ROU,1915,0.3
+Romania,ROU,1920,0.7
+Romania,ROU,1925,1
+Romania,ROU,1930,1.3
+Romania,ROU,1935,1.5
+Romania,ROU,1940,1.7
+Romania,ROU,1945,1.9
+Romania,ROU,1950,2.1
+Romania,ROU,1955,2.3
+Romania,ROU,1960,2.7
+Romania,ROU,1965,2.9
+Romania,ROU,1970,3.7
+Romania,ROU,1975,5.1
+Romania,ROU,1980,5.3
+Romania,ROU,1985,6
+Romania,ROU,1990,7.7
+Romania,ROU,1995,8
+Romania,ROU,2000,10.2
+Romania,ROU,2005,10.6
+Romania,ROU,2010,13.8
+Romania,ROU,2015,13.5
+Romania,ROU,2020,14.7
+Romania,ROU,2025,16.1
+Romania,ROU,2030,17.8
+Romania,ROU,2035,20
+Romania,ROU,2040,22.6
+Russia,RUS,1870,0.1
+Russia,RUS,1875,0.1
+Russia,RUS,1880,0.1
+Russia,RUS,1885,0.1
+Russia,RUS,1890,0.1
+Russia,RUS,1895,0.1
+Russia,RUS,1900,0.1
+Russia,RUS,1905,0.1
+Russia,RUS,1910,0.2
+Russia,RUS,1915,0.3
+Russia,RUS,1920,0.4
+Russia,RUS,1925,0.7
+Russia,RUS,1930,1
+Russia,RUS,1935,1.5
+Russia,RUS,1940,2.1
+Russia,RUS,1945,2.9
+Russia,RUS,1950,3.5
+Russia,RUS,1955,4.2
+Russia,RUS,1960,4.6
+Russia,RUS,1965,5.6
+Russia,RUS,1970,7.2
+Russia,RUS,1975,11.3
+Russia,RUS,1980,17.4
+Russia,RUS,1985,26
+Russia,RUS,1990,37.8
+Russia,RUS,1995,45
+Russia,RUS,2000,56.8
+Russia,RUS,2005,61.3
+Russia,RUS,2010,67.2
+Russia,RUS,2015,67.9
+Russia,RUS,2020,69.8
+Russia,RUS,2025,71.4
+Russia,RUS,2030,72.8
+Russia,RUS,2035,74.2
+Russia,RUS,2040,75.8
+Rwanda,RWA,2015,2.1
+Rwanda,RWA,2020,2.5
+Rwanda,RWA,2025,3.4
+Rwanda,RWA,2030,4.5
+Rwanda,RWA,2035,6.3
+Rwanda,RWA,2040,8.7
+Saudi Arabia,SAU,2015,14.3
+Saudi Arabia,SAU,2020,15.2
+Saudi Arabia,SAU,2025,17.2
+Saudi Arabia,SAU,2030,19.7
+Saudi Arabia,SAU,2035,23.5
+Saudi Arabia,SAU,2040,27.9
+Senegal,SEN,1870,0
+Senegal,SEN,1875,0
+Senegal,SEN,1880,0
+Senegal,SEN,1885,0
+Senegal,SEN,1890,0
+Senegal,SEN,1895,0
+Senegal,SEN,1900,0
+Senegal,SEN,1905,0
+Senegal,SEN,1910,0
+Senegal,SEN,1915,0
+Senegal,SEN,1920,0
+Senegal,SEN,1925,0
+Senegal,SEN,1930,0
+Senegal,SEN,1935,0.1
+Senegal,SEN,1940,0.1
+Senegal,SEN,1945,0.1
+Senegal,SEN,1950,0.1
+Senegal,SEN,1955,0.2
+Senegal,SEN,1960,0.2
+Senegal,SEN,1965,0.3
+Senegal,SEN,1970,0.5
+Senegal,SEN,1975,0.8
+Senegal,SEN,1980,1.1
+Senegal,SEN,1985,1.5
+Senegal,SEN,1990,1.6
+Senegal,SEN,1995,1.6
+Senegal,SEN,2000,1.4
+Senegal,SEN,2005,0.8
+Senegal,SEN,2010,3.3
+Senegal,SEN,2015,3
+Senegal,SEN,2020,3.7
+Senegal,SEN,2025,5
+Senegal,SEN,2030,7.1
+Senegal,SEN,2035,10
+Senegal,SEN,2040,13.9
+Serbia,SRB,1870,0
+Serbia,SRB,1875,0
+Serbia,SRB,1880,0
+Serbia,SRB,1885,0
+Serbia,SRB,1890,0
+Serbia,SRB,1895,0
+Serbia,SRB,1900,0
+Serbia,SRB,1905,0.1
+Serbia,SRB,1910,0.2
+Serbia,SRB,1915,0.3
+Serbia,SRB,1920,0.4
+Serbia,SRB,1925,0.5
+Serbia,SRB,1930,0.6
+Serbia,SRB,1935,0.7
+Serbia,SRB,1940,0.8
+Serbia,SRB,1945,0.9
+Serbia,SRB,1950,0.9
+Serbia,SRB,1955,1
+Serbia,SRB,1960,1.2
+Serbia,SRB,1965,1.9
+Serbia,SRB,1970,3.2
+Serbia,SRB,1975,4.1
+Serbia,SRB,1980,6.3
+Serbia,SRB,1985,6.8
+Serbia,SRB,1990,8.2
+Serbia,SRB,1995,11
+Serbia,SRB,2000,14.7
+Serbia,SRB,2005,14.9
+Serbia,SRB,2010,18
+Serbia,SRB,2015,16.7
+Serbia,SRB,2020,20.6
+Serbia,SRB,2025,24.1
+Serbia,SRB,2030,27.4
+Serbia,SRB,2035,30.7
+Serbia,SRB,2040,34.3
+Sierra Leone,SLE,1870,0
+Sierra Leone,SLE,1875,0
+Sierra Leone,SLE,1880,0
+Sierra Leone,SLE,1885,0
+Sierra Leone,SLE,1890,0
+Sierra Leone,SLE,1895,0
+Sierra Leone,SLE,1900,0
+Sierra Leone,SLE,1905,0
+Sierra Leone,SLE,1910,0
+Sierra Leone,SLE,1915,0
+Sierra Leone,SLE,1920,0
+Sierra Leone,SLE,1925,0.1
+Sierra Leone,SLE,1930,0.1
+Sierra Leone,SLE,1935,0.1
+Sierra Leone,SLE,1940,0.1
+Sierra Leone,SLE,1945,0.2
+Sierra Leone,SLE,1950,0.2
+Sierra Leone,SLE,1955,0.2
+Sierra Leone,SLE,1960,0.3
+Sierra Leone,SLE,1965,0.3
+Sierra Leone,SLE,1970,0.3
+Sierra Leone,SLE,1975,0.3
+Sierra Leone,SLE,1980,0.3
+Sierra Leone,SLE,1985,0.4
+Sierra Leone,SLE,1990,0.6
+Sierra Leone,SLE,1995,0.8
+Sierra Leone,SLE,2000,0.9
+Sierra Leone,SLE,2005,1.1
+Sierra Leone,SLE,2010,1.4
+Sierra Leone,SLE,2015,2.6
+Sierra Leone,SLE,2020,3.3
+Sierra Leone,SLE,2025,4.2
+Sierra Leone,SLE,2030,5.5
+Sierra Leone,SLE,2035,7.3
+Sierra Leone,SLE,2040,9.6
+Singapore,SGP,2015,46.9
+Singapore,SGP,2020,52
+Singapore,SGP,2025,57.1
+Singapore,SGP,2030,61.6
+Singapore,SGP,2035,64.6
+Singapore,SGP,2040,66.3
+Slovakia,SVK,2015,21
+Slovakia,SVK,2020,23.4
+Slovakia,SVK,2025,26.2
+Slovakia,SVK,2030,29.5
+Slovakia,SVK,2035,33.6
+Slovakia,SVK,2040,38.6
+Slovenia,SVN,2015,24.1
+Slovenia,SVN,2020,24.5
+Slovenia,SVN,2025,24.2
+Slovenia,SVN,2030,23.9
+Slovenia,SVN,2035,22.6
+Slovenia,SVN,2040,21.2
+South Africa,ZAF,1870,0
+South Africa,ZAF,1875,0
+South Africa,ZAF,1880,0
+South Africa,ZAF,1885,0
+South Africa,ZAF,1890,0
+South Africa,ZAF,1895,0
+South Africa,ZAF,1900,0
+South Africa,ZAF,1905,0
+South Africa,ZAF,1910,0
+South Africa,ZAF,1915,0.1
+South Africa,ZAF,1920,0.6
+South Africa,ZAF,1925,1.1
+South Africa,ZAF,1930,1.5
+South Africa,ZAF,1935,2
+South Africa,ZAF,1940,2.4
+South Africa,ZAF,1945,2.8
+South Africa,ZAF,1950,3
+South Africa,ZAF,1955,3.2
+South Africa,ZAF,1960,3.2
+South Africa,ZAF,1965,3.6
+South Africa,ZAF,1970,3.8
+South Africa,ZAF,1975,2.6
+South Africa,ZAF,1980,1.4
+South Africa,ZAF,1985,2.4
+South Africa,ZAF,1990,5.4
+South Africa,ZAF,1995,9.4
+South Africa,ZAF,2000,9.3
+South Africa,ZAF,2005,7.9
+South Africa,ZAF,2010,6.3
+South Africa,ZAF,2015,5.3
+South Africa,ZAF,2020,5.4
+South Africa,ZAF,2025,6.5
+South Africa,ZAF,2030,8.7
+South Africa,ZAF,2035,12.3
+South Africa,ZAF,2040,16.5
+South America,,1870,0.02756539
+South America,,1875,0.028387794
+South America,,1880,0.033489745
+South America,,1885,0.04222951
+South America,,1890,0.044572745
+South America,,1895,0.0733641
+South America,,1900,0.21177036
+South America,,1905,0.31746224
+South America,,1910,0.426915
+South America,,1915,0.55274385
+South America,,1920,0.7126712
+South America,,1925,0.84325784
+South America,,1930,0.9356627
+South America,,1935,1.0611737
+South America,,1940,1.1308309
+South America,,1945,1.207954
+South America,,1950,1.2416503
+South America,,1955,1.4320071
+South America,,1960,1.7229738
+South America,,1965,2.1565747
+South America,,1970,2.7631905
+South America,,1975,4.6191177
+South America,,1980,6.2664595
+South America,,1985,7.549007
+South America,,1990,9.276807
+South America,,1995,10.786995
+South America,,2000,11.813219
+South America,,2005,12.987977
+South America,,2010,15.080543
+South America,,2015,14.698052
+South America,,2020,14.886643
+South America,,2025,15.764165
+South America,,2030,17.426086
+South America,,2035,19.626263
+South America,,2040,22.43176
+South Korea,KOR,1870,0
+South Korea,KOR,1875,0
+South Korea,KOR,1880,0
+South Korea,KOR,1885,0
+South Korea,KOR,1890,0
+South Korea,KOR,1895,0
+South Korea,KOR,1900,0
+South Korea,KOR,1905,0.1
+South Korea,KOR,1910,0.1
+South Korea,KOR,1915,0.1
+South Korea,KOR,1920,0.3
+South Korea,KOR,1925,0.4
+South Korea,KOR,1930,0.6
+South Korea,KOR,1935,0.7
+South Korea,KOR,1940,0.8
+South Korea,KOR,1945,0.9
+South Korea,KOR,1950,1.3
+South Korea,KOR,1955,1.6
+South Korea,KOR,1960,2.8
+South Korea,KOR,1965,4
+South Korea,KOR,1970,6.2
+South Korea,KOR,1975,7.4
+South Korea,KOR,1980,9.6
+South Korea,KOR,1985,12.5
+South Korea,KOR,1990,17.2
+South Korea,KOR,1995,23.2
+South Korea,KOR,2000,29.6
+South Korea,KOR,2005,36.3
+South Korea,KOR,2010,45.5
+South Korea,KOR,2015,52.4
+South Korea,KOR,2020,58.3
+South Korea,KOR,2025,64.6
+South Korea,KOR,2030,70
+South Korea,KOR,2035,74.7
+South Korea,KOR,2040,78.6
+Spain,ESP,1870,0.2
+Spain,ESP,1875,0.2
+Spain,ESP,1880,0.2
+Spain,ESP,1885,0.3
+Spain,ESP,1890,0.3
+Spain,ESP,1895,0.4
+Spain,ESP,1900,0.4
+Spain,ESP,1905,0.4
+Spain,ESP,1910,0.5
+Spain,ESP,1915,0.5
+Spain,ESP,1920,0.5
+Spain,ESP,1925,0.6
+Spain,ESP,1930,0.7
+Spain,ESP,1935,0.9
+Spain,ESP,1940,1
+Spain,ESP,1945,1.2
+Spain,ESP,1950,1.4
+Spain,ESP,1955,1.6
+Spain,ESP,1960,1.8
+Spain,ESP,1965,2.2
+Spain,ESP,1970,2.6
+Spain,ESP,1975,5.6
+Spain,ESP,1980,8
+Spain,ESP,1985,9
+Spain,ESP,1990,9.9
+Spain,ESP,1995,14.9
+Spain,ESP,2000,23.3
+Spain,ESP,2005,28.6
+Spain,ESP,2010,30.5
+Spain,ESP,2015,30.9
+Spain,ESP,2020,31.3
+Spain,ESP,2025,31.4
+Spain,ESP,2030,31.8
+Spain,ESP,2035,31.1
+Spain,ESP,2040,30.5
+Sri Lanka,LKA,1870,0
+Sri Lanka,LKA,1875,0
+Sri Lanka,LKA,1880,0
+Sri Lanka,LKA,1885,0
+Sri Lanka,LKA,1890,0
+Sri Lanka,LKA,1895,0
+Sri Lanka,LKA,1900,0
+Sri Lanka,LKA,1905,0
+Sri Lanka,LKA,1910,0
+Sri Lanka,LKA,1915,0.1
+Sri Lanka,LKA,1920,0.1
+Sri Lanka,LKA,1925,0.1
+Sri Lanka,LKA,1930,0.2
+Sri Lanka,LKA,1935,0.2
+Sri Lanka,LKA,1940,0.2
+Sri Lanka,LKA,1945,0.3
+Sri Lanka,LKA,1950,0.3
+Sri Lanka,LKA,1955,0.4
+Sri Lanka,LKA,1960,0.4
+Sri Lanka,LKA,1965,0.5
+Sri Lanka,LKA,1970,1.3
+Sri Lanka,LKA,1975,1.4
+Sri Lanka,LKA,1980,1.2
+Sri Lanka,LKA,1985,2.5
+Sri Lanka,LKA,1990,5
+Sri Lanka,LKA,1995,9.1
+Sri Lanka,LKA,2000,14.8
+Sri Lanka,LKA,2005,15.2
+Sri Lanka,LKA,2010,15.9
+Sri Lanka,LKA,2015,16.1
+Sri Lanka,LKA,2020,15.7
+Sri Lanka,LKA,2025,15.1
+Sri Lanka,LKA,2030,15
+Sri Lanka,LKA,2035,15
+Sri Lanka,LKA,2040,15.7
+Sudan,SDN,1870,0
+Sudan,SDN,1875,0
+Sudan,SDN,1880,0
+Sudan,SDN,1885,0
+Sudan,SDN,1890,0
+Sudan,SDN,1895,0
+Sudan,SDN,1900,0
+Sudan,SDN,1905,0
+Sudan,SDN,1910,0
+Sudan,SDN,1915,0
+Sudan,SDN,1920,0
+Sudan,SDN,1925,0
+Sudan,SDN,1930,0
+Sudan,SDN,1935,0
+Sudan,SDN,1940,0.1
+Sudan,SDN,1945,0.1
+Sudan,SDN,1950,0.2
+Sudan,SDN,1955,0.3
+Sudan,SDN,1960,0.4
+Sudan,SDN,1965,0.5
+Sudan,SDN,1970,0.6
+Sudan,SDN,1975,0.7
+Sudan,SDN,1980,0.8
+Sudan,SDN,1985,0.8
+Sudan,SDN,1990,0.7
+Sudan,SDN,1995,0.9
+Sudan,SDN,2000,1.2
+Sudan,SDN,2005,2
+Sudan,SDN,2010,3
+Sudan,SDN,2015,4.3
+Sudan,SDN,2020,6.6
+Sudan,SDN,2025,10.1
+Sudan,SDN,2030,15
+Sudan,SDN,2035,21.2
+Sudan,SDN,2040,28
+Sweden,SWE,1870,0.1
+Sweden,SWE,1875,0.1
+Sweden,SWE,1880,0.2
+Sweden,SWE,1885,0.2
+Sweden,SWE,1890,0.2
+Sweden,SWE,1895,0.2
+Sweden,SWE,1900,0.2
+Sweden,SWE,1905,0.2
+Sweden,SWE,1910,0.3
+Sweden,SWE,1915,0.3
+Sweden,SWE,1920,0.4
+Sweden,SWE,1925,1.2
+Sweden,SWE,1930,2
+Sweden,SWE,1935,2.8
+Sweden,SWE,1940,3.2
+Sweden,SWE,1945,3.9
+Sweden,SWE,1950,4.5
+Sweden,SWE,1955,5.4
+Sweden,SWE,1960,6.3
+Sweden,SWE,1965,7.1
+Sweden,SWE,1970,8
+Sweden,SWE,1975,12.7
+Sweden,SWE,1980,17.4
+Sweden,SWE,1985,19.6
+Sweden,SWE,1990,22.5
+Sweden,SWE,1995,25.6
+Sweden,SWE,2000,26.1
+Sweden,SWE,2005,28.6
+Sweden,SWE,2010,32
+Sweden,SWE,2015,30
+Sweden,SWE,2020,30.6
+Sweden,SWE,2025,31.3
+Sweden,SWE,2030,32
+Sweden,SWE,2035,32.1
+Sweden,SWE,2040,32.2
+Switzerland,CHE,1870,0.1
+Switzerland,CHE,1875,0.1
+Switzerland,CHE,1880,0.2
+Switzerland,CHE,1885,0.2
+Switzerland,CHE,1890,0.2
+Switzerland,CHE,1895,0.3
+Switzerland,CHE,1900,0.3
+Switzerland,CHE,1905,0.4
+Switzerland,CHE,1910,1.5
+Switzerland,CHE,1915,2.5
+Switzerland,CHE,1920,3.4
+Switzerland,CHE,1925,4.5
+Switzerland,CHE,1930,5.5
+Switzerland,CHE,1935,6.4
+Switzerland,CHE,1940,7.3
+Switzerland,CHE,1945,8.3
+Switzerland,CHE,1950,8.8
+Switzerland,CHE,1955,9.4
+Switzerland,CHE,1960,9.8
+Switzerland,CHE,1965,9.6
+Switzerland,CHE,1970,10.2
+Switzerland,CHE,1975,11.3
+Switzerland,CHE,1980,12.4
+Switzerland,CHE,1985,14.5
+Switzerland,CHE,1990,17.4
+Switzerland,CHE,1995,20
+Switzerland,CHE,2000,21.5
+Switzerland,CHE,2005,25.3
+Switzerland,CHE,2010,37.3
+Switzerland,CHE,2015,35.3
+Switzerland,CHE,2020,33
+Switzerland,CHE,2025,30.7
+Switzerland,CHE,2030,28.9
+Switzerland,CHE,2035,26.9
+Switzerland,CHE,2040,25.6
+Syria,SYR,1870,0
+Syria,SYR,1875,0
+Syria,SYR,1880,0
+Syria,SYR,1885,0
+Syria,SYR,1890,0
+Syria,SYR,1895,0
+Syria,SYR,1900,0
+Syria,SYR,1905,0
+Syria,SYR,1910,0.1
+Syria,SYR,1915,0.1
+Syria,SYR,1920,0.1
+Syria,SYR,1925,0.2
+Syria,SYR,1930,0.2
+Syria,SYR,1935,0.2
+Syria,SYR,1940,0.3
+Syria,SYR,1945,0.4
+Syria,SYR,1950,0.4
+Syria,SYR,1955,0.5
+Syria,SYR,1960,0.6
+Syria,SYR,1965,0.8
+Syria,SYR,1970,1.5
+Syria,SYR,1975,1.5
+Syria,SYR,1980,2.5
+Syria,SYR,1985,4.1
+Syria,SYR,1990,5.1
+Syria,SYR,1995,5.8
+Syria,SYR,2000,5.5
+Syria,SYR,2005,5.4
+Syria,SYR,2010,6.4
+Syria,SYR,2015,5.5
+Syria,SYR,2020,4.3
+Syria,SYR,2025,3.9
+Syria,SYR,2030,4.4
+Syria,SYR,2035,5.6
+Syria,SYR,2040,7.3
+Taiwan,TWN,1870,0
+Taiwan,TWN,1875,0
+Taiwan,TWN,1880,0
+Taiwan,TWN,1885,0
+Taiwan,TWN,1890,0
+Taiwan,TWN,1895,0
+Taiwan,TWN,1900,0
+Taiwan,TWN,1905,0
+Taiwan,TWN,1910,0
+Taiwan,TWN,1915,0
+Taiwan,TWN,1920,0
+Taiwan,TWN,1925,0.7
+Taiwan,TWN,1930,1.4
+Taiwan,TWN,1935,2.1
+Taiwan,TWN,1940,2.7
+Taiwan,TWN,1945,3.2
+Taiwan,TWN,1950,3.9
+Taiwan,TWN,1955,4.2
+Taiwan,TWN,1960,4.2
+Taiwan,TWN,1965,4.4
+Taiwan,TWN,1970,4.8
+Taiwan,TWN,1975,5.9
+Taiwan,TWN,1980,9.7
+Taiwan,TWN,1985,11.9
+Taiwan,TWN,1990,14.3
+Taiwan,TWN,1995,18.7
+Taiwan,TWN,2000,23.9
+Taiwan,TWN,2005,33.8
+Taiwan,TWN,2010,39.5
+Taiwan,TWN,2015,45
+Taiwan,TWN,2020,51.9
+Taiwan,TWN,2025,58.8
+Taiwan,TWN,2030,65.1
+Taiwan,TWN,2035,70.6
+Taiwan,TWN,2040,75.1
+Tajikistan,TJK,2015,8
+Tajikistan,TJK,2020,4.7
+Tajikistan,TJK,2025,4.4
+Tajikistan,TJK,2030,4.8
+Tajikistan,TJK,2035,6.3
+Tajikistan,TJK,2040,9
+Tanzania,TZA,2015,0.9
+Tanzania,TZA,2020,0.9
+Tanzania,TZA,2025,0.9
+Tanzania,TZA,2030,1.2
+Tanzania,TZA,2035,1.6
+Tanzania,TZA,2040,2.3
+Thailand,THA,1870,0
+Thailand,THA,1875,0
+Thailand,THA,1880,0
+Thailand,THA,1885,0
+Thailand,THA,1890,0
+Thailand,THA,1895,0
+Thailand,THA,1900,0
+Thailand,THA,1905,0
+Thailand,THA,1910,0.1
+Thailand,THA,1915,0.1
+Thailand,THA,1920,0.2
+Thailand,THA,1925,0.2
+Thailand,THA,1930,0.2
+Thailand,THA,1935,0.3
+Thailand,THA,1940,0.3
+Thailand,THA,1945,0.4
+Thailand,THA,1950,0.4
+Thailand,THA,1955,0.5
+Thailand,THA,1960,0.6
+Thailand,THA,1965,0.9
+Thailand,THA,1970,1.2
+Thailand,THA,1975,1.9
+Thailand,THA,1980,3.2
+Thailand,THA,1985,3.9
+Thailand,THA,1990,5.2
+Thailand,THA,1995,5.5
+Thailand,THA,2000,5.7
+Thailand,THA,2005,13.4
+Thailand,THA,2010,14.2
+Thailand,THA,2015,14.8
+Thailand,THA,2020,17.2
+Thailand,THA,2025,20.2
+Thailand,THA,2030,23.7
+Thailand,THA,2035,27.8
+Thailand,THA,2040,32
+Togo,TGO,1870,0
+Togo,TGO,1875,0
+Togo,TGO,1880,0
+Togo,TGO,1885,0
+Togo,TGO,1890,0
+Togo,TGO,1895,0
+Togo,TGO,1900,0
+Togo,TGO,1905,0
+Togo,TGO,1910,0
+Togo,TGO,1915,0
+Togo,TGO,1920,0
+Togo,TGO,1925,0.1
+Togo,TGO,1930,0.1
+Togo,TGO,1935,0.1
+Togo,TGO,1940,0.1
+Togo,TGO,1945,0.1
+Togo,TGO,1950,0.1
+Togo,TGO,1955,0.1
+Togo,TGO,1960,0.1
+Togo,TGO,1965,0.2
+Togo,TGO,1970,0.2
+Togo,TGO,1975,0.7
+Togo,TGO,1980,1.6
+Togo,TGO,1985,1.8
+Togo,TGO,1990,1.9
+Togo,TGO,1995,2
+Togo,TGO,2000,2.1
+Togo,TGO,2005,2.4
+Togo,TGO,2010,3.1
+Togo,TGO,2015,3.9
+Togo,TGO,2020,3.6
+Togo,TGO,2025,3.5
+Togo,TGO,2030,3.7
+Togo,TGO,2035,4.4
+Togo,TGO,2040,5.7
+Tonga,TON,2015,6.5
+Tonga,TON,2020,6.6
+Tonga,TON,2025,7.6
+Tonga,TON,2030,9.9
+Tonga,TON,2035,13.3
+Tonga,TON,2040,17.5
+Trinidad and Tobago,TTO,1870,0
+Trinidad and Tobago,TTO,1875,0
+Trinidad and Tobago,TTO,1880,0
+Trinidad and Tobago,TTO,1885,0
+Trinidad and Tobago,TTO,1890,0
+Trinidad and Tobago,TTO,1895,0
+Trinidad and Tobago,TTO,1900,0
+Trinidad and Tobago,TTO,1905,0
+Trinidad and Tobago,TTO,1910,0
+Trinidad and Tobago,TTO,1915,0
+Trinidad and Tobago,TTO,1920,0.1
+Trinidad and Tobago,TTO,1925,0.1
+Trinidad and Tobago,TTO,1930,0.2
+Trinidad and Tobago,TTO,1935,0.3
+Trinidad and Tobago,TTO,1940,0.4
+Trinidad and Tobago,TTO,1945,0.6
+Trinidad and Tobago,TTO,1950,0.6
+Trinidad and Tobago,TTO,1955,0.8
+Trinidad and Tobago,TTO,1960,1
+Trinidad and Tobago,TTO,1965,1.2
+Trinidad and Tobago,TTO,1970,1.3
+Trinidad and Tobago,TTO,1975,2
+Trinidad and Tobago,TTO,1980,3.2
+Trinidad and Tobago,TTO,1985,3.3
+Trinidad and Tobago,TTO,1990,3.8
+Trinidad and Tobago,TTO,1995,4.6
+Trinidad and Tobago,TTO,2000,5.8
+Trinidad and Tobago,TTO,2005,7.4
+Trinidad and Tobago,TTO,2010,10.2
+Trinidad and Tobago,TTO,2015,11
+Trinidad and Tobago,TTO,2020,12
+Trinidad and Tobago,TTO,2025,13.5
+Trinidad and Tobago,TTO,2030,15.7
+Trinidad and Tobago,TTO,2035,18.5
+Trinidad and Tobago,TTO,2040,22.1
+Tunisia,TUN,1870,0
+Tunisia,TUN,1875,0
+Tunisia,TUN,1880,0
+Tunisia,TUN,1885,0
+Tunisia,TUN,1890,0
+Tunisia,TUN,1895,0
+Tunisia,TUN,1900,0
+Tunisia,TUN,1905,0
+Tunisia,TUN,1910,0
+Tunisia,TUN,1915,0.1
+Tunisia,TUN,1920,0.2
+Tunisia,TUN,1925,0.2
+Tunisia,TUN,1930,0.3
+Tunisia,TUN,1935,0.4
+Tunisia,TUN,1940,0.4
+Tunisia,TUN,1945,0.4
+Tunisia,TUN,1950,0.5
+Tunisia,TUN,1955,0.6
+Tunisia,TUN,1960,0.7
+Tunisia,TUN,1965,0.8
+Tunisia,TUN,1970,1
+Tunisia,TUN,1975,1.3
+Tunisia,TUN,1980,2.1
+Tunisia,TUN,1985,3.2
+Tunisia,TUN,1990,4.1
+Tunisia,TUN,1995,5.6
+Tunisia,TUN,2000,6.6
+Tunisia,TUN,2005,9.4
+Tunisia,TUN,2010,14.1
+Tunisia,TUN,2015,16.2
+Tunisia,TUN,2020,20.2
+Tunisia,TUN,2025,24.4
+Tunisia,TUN,2030,29.6
+Tunisia,TUN,2035,35.7
+Tunisia,TUN,2040,42.6
+Turkey,TUR,1870,0
+Turkey,TUR,1875,0
+Turkey,TUR,1880,0
+Turkey,TUR,1885,0
+Turkey,TUR,1890,0
+Turkey,TUR,1895,0
+Turkey,TUR,1900,0.2
+Turkey,TUR,1905,0.3
+Turkey,TUR,1910,0.4
+Turkey,TUR,1915,0.5
+Turkey,TUR,1920,0.6
+Turkey,TUR,1925,0.7
+Turkey,TUR,1930,0.8
+Turkey,TUR,1935,0.9
+Turkey,TUR,1940,0.9
+Turkey,TUR,1945,1
+Turkey,TUR,1950,1.1
+Turkey,TUR,1955,1
+Turkey,TUR,1960,1.1
+Turkey,TUR,1965,1.2
+Turkey,TUR,1970,1.4
+Turkey,TUR,1975,2
+Turkey,TUR,1980,3.9
+Turkey,TUR,1985,11.8
+Turkey,TUR,1990,11.6
+Turkey,TUR,1995,11.4
+Turkey,TUR,2000,10.4
+Turkey,TUR,2005,9.3
+Turkey,TUR,2010,11.8
+Turkey,TUR,2015,11.6
+Turkey,TUR,2020,10.8
+Turkey,TUR,2025,10.3
+Turkey,TUR,2030,10.9
+Turkey,TUR,2035,12.3
+Turkey,TUR,2040,14.3
+Uganda,UGA,1870,0
+Uganda,UGA,1875,0
+Uganda,UGA,1880,0
+Uganda,UGA,1885,0
+Uganda,UGA,1890,0
+Uganda,UGA,1895,0
+Uganda,UGA,1900,0
+Uganda,UGA,1905,0
+Uganda,UGA,1910,0
+Uganda,UGA,1915,0
+Uganda,UGA,1920,0
+Uganda,UGA,1925,0
+Uganda,UGA,1930,0
+Uganda,UGA,1935,0
+Uganda,UGA,1940,0
+Uganda,UGA,1945,0
+Uganda,UGA,1950,0
+Uganda,UGA,1955,0
+Uganda,UGA,1960,0
+Uganda,UGA,1965,0.1
+Uganda,UGA,1970,0.1
+Uganda,UGA,1975,0.2
+Uganda,UGA,1980,0.3
+Uganda,UGA,1985,0.4
+Uganda,UGA,1990,0.6
+Uganda,UGA,1995,2.4
+Uganda,UGA,2000,5.1
+Uganda,UGA,2005,3.5
+Uganda,UGA,2010,3
+Uganda,UGA,2015,2.5
+Uganda,UGA,2020,2.3
+Uganda,UGA,2025,2.5
+Uganda,UGA,2030,3.3
+Uganda,UGA,2035,4.6
+Uganda,UGA,2040,6.5
+Ukraine,UKR,2015,45.9
+Ukraine,UKR,2020,49
+Ukraine,UKR,2025,52.1
+Ukraine,UKR,2030,55.5
+Ukraine,UKR,2035,59.9
+Ukraine,UKR,2040,65
+United Arab Emirates,ARE,2015,13.2
+United Arab Emirates,ARE,2020,14.2
+United Arab Emirates,ARE,2025,16
+United Arab Emirates,ARE,2030,18.5
+United Arab Emirates,ARE,2035,22.1
+United Arab Emirates,ARE,2040,27.1
+United Kingdom,GBR,1870,0.2
+United Kingdom,GBR,1875,0.2
+United Kingdom,GBR,1880,0.3
+United Kingdom,GBR,1885,0.3
+United Kingdom,GBR,1890,0.4
+United Kingdom,GBR,1895,0.5
+United Kingdom,GBR,1900,0.5
+United Kingdom,GBR,1905,0.5
+United Kingdom,GBR,1910,0.7
+United Kingdom,GBR,1915,0.8
+United Kingdom,GBR,1920,1
+United Kingdom,GBR,1925,1.1
+United Kingdom,GBR,1930,1.2
+United Kingdom,GBR,1935,1.3
+United Kingdom,GBR,1940,1.4
+United Kingdom,GBR,1945,1.5
+United Kingdom,GBR,1950,1.6
+United Kingdom,GBR,1955,1.7
+United Kingdom,GBR,1960,1.8
+United Kingdom,GBR,1965,4.7
+United Kingdom,GBR,1970,8.3
+United Kingdom,GBR,1975,10.7
+United Kingdom,GBR,1980,11.1
+United Kingdom,GBR,1985,12.2
+United Kingdom,GBR,1990,16.9
+United Kingdom,GBR,1995,20.7
+United Kingdom,GBR,2000,24.8
+United Kingdom,GBR,2005,26.6
+United Kingdom,GBR,2010,30.3
+United Kingdom,GBR,2015,30.7
+United Kingdom,GBR,2020,31.1
+United Kingdom,GBR,2025,31.6
+United Kingdom,GBR,2030,32.4
+United Kingdom,GBR,2035,33.2
+United Kingdom,GBR,2040,34.5
+United States,USA,1870,0.9
+United States,USA,1875,1
+United States,USA,1880,1.1
+United States,USA,1885,1.4
+United States,USA,1890,2.2
+United States,USA,1895,3
+United States,USA,1900,3.8
+United States,USA,1905,4.7
+United States,USA,1910,5.5
+United States,USA,1915,6.5
+United States,USA,1920,7.4
+United States,USA,1925,8.5
+United States,USA,1930,9.4
+United States,USA,1935,10.6
+United States,USA,1940,11.6
+United States,USA,1945,12.5
+United States,USA,1950,14.5
+United States,USA,1955,16
+United States,USA,1960,17.9
+United States,USA,1965,20.3
+United States,USA,1970,23.3
+United States,USA,1975,29.7
+United States,USA,1980,35.8
+United States,USA,1985,42.8
+United States,USA,1990,50.2
+United States,USA,1995,50.7
+United States,USA,2000,56
+United States,USA,2005,56.6
+United States,USA,2010,60.3
+United States,USA,2015,60.3
+United States,USA,2020,60.9
+United States,USA,2025,61.6
+United States,USA,2030,62
+United States,USA,2035,62
+United States,USA,2040,61.9
+Uruguay,URY,1870,0.1
+Uruguay,URY,1875,0.1
+Uruguay,URY,1880,0.1
+Uruguay,URY,1885,0.1
+Uruguay,URY,1890,0.2
+Uruguay,URY,1895,0.2
+Uruguay,URY,1900,0.3
+Uruguay,URY,1905,0.3
+Uruguay,URY,1910,0.3
+Uruguay,URY,1915,0.8
+Uruguay,URY,1920,1.1
+Uruguay,URY,1925,1.5
+Uruguay,URY,1930,2
+Uruguay,URY,1935,2.5
+Uruguay,URY,1940,3.1
+Uruguay,URY,1945,3.6
+Uruguay,URY,1950,4
+Uruguay,URY,1955,4.3
+Uruguay,URY,1960,4.7
+Uruguay,URY,1965,5.1
+Uruguay,URY,1970,5.7
+Uruguay,URY,1975,6.8
+Uruguay,URY,1980,7.7
+Uruguay,URY,1985,9
+Uruguay,URY,1990,11
+Uruguay,URY,1995,13.5
+Uruguay,URY,2000,12.6
+Uruguay,URY,2005,10.7
+Uruguay,URY,2010,10.4
+Uruguay,URY,2015,9.1
+Uruguay,URY,2020,7.7
+Uruguay,URY,2025,6.9
+Uruguay,URY,2030,6.9
+Uruguay,URY,2035,7.5
+Uruguay,URY,2040,8.6
+Venezuela,VEN,1870,0
+Venezuela,VEN,1875,0
+Venezuela,VEN,1880,0
+Venezuela,VEN,1885,0
+Venezuela,VEN,1890,0
+Venezuela,VEN,1895,0
+Venezuela,VEN,1900,0.2
+Venezuela,VEN,1905,0.3
+Venezuela,VEN,1910,0.4
+Venezuela,VEN,1915,0.5
+Venezuela,VEN,1920,0.6
+Venezuela,VEN,1925,0.7
+Venezuela,VEN,1930,0.8
+Venezuela,VEN,1935,1
+Venezuela,VEN,1940,1.2
+Venezuela,VEN,1945,1.3
+Venezuela,VEN,1950,1.4
+Venezuela,VEN,1955,1.4
+Venezuela,VEN,1960,1.5
+Venezuela,VEN,1965,2
+Venezuela,VEN,1970,2.8
+Venezuela,VEN,1975,4.5
+Venezuela,VEN,1980,7.5
+Venezuela,VEN,1985,9.8
+Venezuela,VEN,1990,13
+Venezuela,VEN,1995,13.4
+Venezuela,VEN,2000,14.5
+Venezuela,VEN,2005,15.5
+Venezuela,VEN,2010,17.1
+Venezuela,VEN,2015,16.2
+Venezuela,VEN,2020,14.9
+Venezuela,VEN,2025,13.9
+Venezuela,VEN,2030,14.1
+Venezuela,VEN,2035,14.9
+Venezuela,VEN,2040,16.3
+Vietnam,VNM,2015,6.8
+Vietnam,VNM,2020,7.4
+Vietnam,VNM,2025,8.8
+Vietnam,VNM,2030,11.2
+Vietnam,VNM,2035,14.8
+Vietnam,VNM,2040,19.1
+World,OWID_WRL,1870,0.06790493
+World,OWID_WRL,1875,0.07853204
+World,OWID_WRL,1880,0.09858375
+World,OWID_WRL,1885,0.120931074
+World,OWID_WRL,1890,0.17596339
+World,OWID_WRL,1895,0.2284285
+World,OWID_WRL,1900,0.2972078
+World,OWID_WRL,1905,0.372514
+World,OWID_WRL,1910,0.5056017
+World,OWID_WRL,1915,0.6182855
+World,OWID_WRL,1920,0.7733702
+World,OWID_WRL,1925,0.9615445
+World,OWID_WRL,1930,1.1466507
+World,OWID_WRL,1935,1.365601
+World,OWID_WRL,1940,1.5513308
+World,OWID_WRL,1945,1.7617141
+World,OWID_WRL,1950,2.0477786
+World,OWID_WRL,1955,2.353483
+World,OWID_WRL,1960,2.6147656
+World,OWID_WRL,1965,3.0780935
+World,OWID_WRL,1970,3.634476
+World,OWID_WRL,1975,4.7970366
+World,OWID_WRL,1980,6.0509415
+World,OWID_WRL,1985,7.4145694
+World,OWID_WRL,1990,9.113472
+World,OWID_WRL,1995,10.538126
+World,OWID_WRL,2000,12.650505
+World,OWID_WRL,2005,13.45055
+World,OWID_WRL,2010,14.648908
+World,OWID_WRL,2015,15.2279215
+World,OWID_WRL,2020,15.768732
+World,OWID_WRL,2025,16.981491
+World,OWID_WRL,2030,18.739235
+World,OWID_WRL,2035,21.073055
+World,OWID_WRL,2040,23.927427
+Yemen,YEM,1870,0
+Yemen,YEM,1875,0
+Yemen,YEM,1880,0
+Yemen,YEM,1885,0
+Yemen,YEM,1890,0
+Yemen,YEM,1895,0
+Yemen,YEM,1900,0
+Yemen,YEM,1905,0
+Yemen,YEM,1910,0
+Yemen,YEM,1915,0
+Yemen,YEM,1920,0
+Yemen,YEM,1925,0
+Yemen,YEM,1930,0
+Yemen,YEM,1935,0
+Yemen,YEM,1940,0
+Yemen,YEM,1945,0
+Yemen,YEM,1950,0
+Yemen,YEM,1955,0
+Yemen,YEM,1960,0
+Yemen,YEM,1965,0
+Yemen,YEM,1970,0
+Yemen,YEM,1975,0
+Yemen,YEM,1980,0
+Yemen,YEM,1985,0.2
+Yemen,YEM,1990,0.5
+Yemen,YEM,1995,0.9
+Yemen,YEM,2000,1.5
+Yemen,YEM,2005,2.1
+Yemen,YEM,2010,2.7
+Yemen,YEM,2015,3.4
+Yemen,YEM,2020,3.8
+Yemen,YEM,2025,6.1
+Yemen,YEM,2030,9.2
+Yemen,YEM,2035,13.3
+Yemen,YEM,2040,18.7
+Zambia,ZMB,1870,0
+Zambia,ZMB,1875,0
+Zambia,ZMB,1880,0
+Zambia,ZMB,1885,0
+Zambia,ZMB,1890,0
+Zambia,ZMB,1895,0
+Zambia,ZMB,1900,0
+Zambia,ZMB,1905,0
+Zambia,ZMB,1910,0
+Zambia,ZMB,1915,0
+Zambia,ZMB,1920,0
+Zambia,ZMB,1925,0
+Zambia,ZMB,1930,0
+Zambia,ZMB,1935,0.1
+Zambia,ZMB,1940,0.1
+Zambia,ZMB,1945,0.1
+Zambia,ZMB,1950,0.2
+Zambia,ZMB,1955,0.2
+Zambia,ZMB,1960,0.3
+Zambia,ZMB,1965,0.4
+Zambia,ZMB,1970,0.5
+Zambia,ZMB,1975,0.5
+Zambia,ZMB,1980,0.4
+Zambia,ZMB,1985,0.4
+Zambia,ZMB,1990,0.4
+Zambia,ZMB,1995,2.5
+Zambia,ZMB,2000,2.3
+Zambia,ZMB,2005,1.9
+Zambia,ZMB,2010,1.5
+Zambia,ZMB,2015,1.2
+Zambia,ZMB,2020,1
+Zambia,ZMB,2025,1
+Zambia,ZMB,2030,1.1
+Zambia,ZMB,2035,1.5
+Zambia,ZMB,2040,2.2
+Zimbabwe,ZWE,1870,0
+Zimbabwe,ZWE,1875,0
+Zimbabwe,ZWE,1880,0
+Zimbabwe,ZWE,1885,0
+Zimbabwe,ZWE,1890,0
+Zimbabwe,ZWE,1895,0
+Zimbabwe,ZWE,1900,0
+Zimbabwe,ZWE,1905,0
+Zimbabwe,ZWE,1910,0
+Zimbabwe,ZWE,1915,0
+Zimbabwe,ZWE,1920,0
+Zimbabwe,ZWE,1925,0
+Zimbabwe,ZWE,1930,0
+Zimbabwe,ZWE,1935,0
+Zimbabwe,ZWE,1940,0.3
+Zimbabwe,ZWE,1945,0.5
+Zimbabwe,ZWE,1950,0.8
+Zimbabwe,ZWE,1955,1.1
+Zimbabwe,ZWE,1960,1.5
+Zimbabwe,ZWE,1965,2
+Zimbabwe,ZWE,1970,2.4
+Zimbabwe,ZWE,1975,3
+Zimbabwe,ZWE,1980,3.5
+Zimbabwe,ZWE,1985,4.5
+Zimbabwe,ZWE,1990,5.4
+Zimbabwe,ZWE,1995,3.5
+Zimbabwe,ZWE,2000,1.7
+Zimbabwe,ZWE,2005,1.4
+Zimbabwe,ZWE,2010,1.1
+Zimbabwe,ZWE,2015,0.9
+Zimbabwe,ZWE,2020,0.7
+Zimbabwe,ZWE,2025,1
+Zimbabwe,ZWE,2030,1.9
+Zimbabwe,ZWE,2035,3.3
+Zimbabwe,ZWE,2040,5.5
