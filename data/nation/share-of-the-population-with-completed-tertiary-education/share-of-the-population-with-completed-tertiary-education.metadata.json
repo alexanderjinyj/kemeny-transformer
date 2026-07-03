@@ -1,0 +1,37 @@
+{
+  "chart": {
+    "title": "Share of the population with tertiary education",
+    "subtitle": "Percentage of the population aged 25 to 65 years who have either completed or partially completed [tertiary](#dod:tertiary-education) education.",
+    "note": "Data for the years before 2015 are estimates, while data from 2015 onwards are projections.",
+    "citation": "Barro and Lee (2015); Lee and Lee (2016)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-of-the-population-with-completed-tertiary-education?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Cambodia",
+      "Central African Republic",
+      "Papua New Guinea",
+      "Croatia",
+      "Ukraine",
+      "United States",
+      "United Kingdom",
+      "Germany"
+    ]
+  },
+  "columns": {
+    "Combined - percentage of 25-64 years adults with incomplete tertiary education": {
+      "titleShort": "Share of 25-64 year olds with incomplete tertiary education",
+      "titleLong": "Share of 25-64 year olds with incomplete tertiary education",
+      "descriptionProcessing": "Historical data up to the year 2010 has been sourced from 'Human Capital in the Long Run' by Lee and Lee (2016). This historical data was then combined with recent projections provided by Barro ane Lee (2015).\n\nRegional aggregates were computed by Our World in Data through yearly population-weighted averages, where annual values are proportionally adjusted to emphasize the influence of larger populations.\n",
+      "unit": "%",
+      "timespan": "1870-2040",
+      "type": "Numeric",
+      "owidVariableId": 809127,
+      "shortName": "mf_adults__25_64_years__percentage_of_tertiary_education",
+      "lastUpdated": "2023-07-17",
+      "citationShort": "Barro and Lee (2015); Lee and Lee (2016) – with major processing by Our World in Data",
+      "citationLong": "Barro and Lee (2015); Lee and Lee (2016) – with major processing by Our World in Data. “Share of 25-64 year olds with incomplete tertiary education” [dataset]. Barro and Lee, “Projections of Educational Attainment”; Lee and Lee, “Human Capital in the Long Run” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/809127.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-07-23",
+  "activeFilters": {}
+}

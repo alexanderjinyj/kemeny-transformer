@@ -1,0 +1,14 @@
+DECoR on 12 dataset(s)
+2012_10_voters_common      10v x  135i  kemeny=2321.40  time=2.97s -> test_results/preflib_university/2012_10_voters_common/decor.csv
+2012_6_voters_common        6v x  349i  kemeny=16675.00  time=10.81s -> test_results/preflib_university/2012_6_voters_common/decor.csv
+2012_8_voters_common        8v x  135i  kemeny=2476.25  time=2.99s -> test_results/preflib_university/2012_8_voters_common/decor.csv
+2013_10_voters_common      10v x   67i  kemeny=543.00  time=1.34s -> test_results/preflib_university/2013_10_voters_common/decor.csv
+2013_6_voters_common        6v x  349i  kemeny=17137.67  time=10.90s -> test_results/preflib_university/2013_6_voters_common/decor.csv
+2013_8_voters_common        8v x   67i  kemeny=550.50  time=1.34s -> test_results/preflib_university/2013_8_voters_common/decor.csv
+2014_10_voters_common      10v x  349i  kemeny=10525.90  time=10.84s -> test_results/preflib_university/2014_10_voters_common/decor.csv
+2014_6_voters_common        6v x  987i  kemeny=67385.33  time=63.04s -> test_results/preflib_university/2014_6_voters_common/decor.csv
+2014_8_voters_common        8v x  987i  kemeny=62801.25  time=62.24s -> test_results/preflib_university/2014_8_voters_common/decor.csv
+2015_10_voters_common      10v x  355i  kemeny=11020.80  time=11.27s -> test_results/preflib_university/2015_10_voters_common/decor.csv
+2015_6_voters_common        6v x  987i  kemeny=72837.00  time=62.34s -> test_results/preflib_university/2015_6_voters_common/decor.csv
+2015_8_voters_common        8v x  987i  kemeny=68001.62  time=62.60s -> test_results/preflib_university/2015_8_voters_common/decor.csv
+Done.

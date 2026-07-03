@@ -1,0 +1,9 @@
+DECoR on 7 dataset(s)
+2013_6_voters_common        6v x  349i  kemeny=17137.67  time=21.07s -> test_results/preflib_university/2013_6_voters_common/decor.csv
+2014_10_voters_common      10v x  349i  kemeny=10525.90  time=21.12s -> test_results/preflib_university/2014_10_voters_common/decor.csv
+2015_10_voters_common      10v x  355i  kemeny=11020.80  time=22.07s -> test_results/preflib_university/2015_10_voters_common/decor.csv
+  ERROR on 2014_8_voters_common.csv: evaluation nested too deeply: infinite recursion / options(expressions=)?
+  ERROR on 2014_6_voters_common.csv: evaluation nested too deeply: infinite recursion / options(expressions=)?
+  ERROR on 2015_8_voters_common.csv: evaluation nested too deeply: infinite recursion / options(expressions=)?
+  ERROR on 2015_6_voters_common.csv: evaluation nested too deeply: infinite recursion / options(expressions=)?
+Done.

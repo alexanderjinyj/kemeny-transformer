@@ -1,0 +1,49 @@
+config,method,mean_gap
+"(6, 100)",Borda,57.897111111111144
+"(8, 100)",Borda,54.98833333333331
+"(10, 100)",Borda,51.51919999999984
+"(6, 125)",Borda,92.33866666666677
+"(8, 125)",Borda,85.36700000000012
+"(10, 125)",Borda,77.72079999999983
+"(6, 150)",Borda,124.94466666666692
+"(8, 150)",Borda,124.93700000000013
+"(10, 150)",Borda,107.47520000000002
+"(6, 200)",Borda,215.57666666666697
+"(8, 200)",Borda,208.1183333333332
+"(10, 200)",Borda,187.5436666666651
+"(6, 100)",DECOR,22.7615555555556
+"(8, 100)",DECOR,19.97249465597857
+"(10, 100)",DECOR,15.497708617234176
+"(6, 125)",DECOR,28.145888888888976
+"(8, 125)",DECOR,25.172166666666726
+"(10, 125)",DECOR,20.533733333333128
+"(6, 150)",DECOR,36.45077777777745
+"(8, 150)",DECOR,31.231416666666746
+"(10, 150)",DECOR,28.272799999999734
+"(6, 200)",DECOR,36.58944444444402
+"(8, 200)",DECOR,24.277499999999993
+"(10, 200)",DECOR,37.32666666666622
+"(6, 100)",Transformer (input norm),0.0
+"(8, 100)",Transformer (input norm),0.0
+"(10, 100)",Transformer (input norm),0.0
+"(6, 125)",Transformer (input norm),0.0
+"(8, 125)",Transformer (input norm),0.0
+"(10, 125)",Transformer (input norm),0.0
+"(6, 150)",Transformer (input norm),0.0
+"(8, 150)",Transformer (input norm),0.0
+"(10, 150)",Transformer (input norm),0.0
+"(6, 200)",Transformer (input norm),0.0
+"(8, 200)",Transformer (input norm),0.5908333333333454
+"(10, 200)",Transformer (input norm),5.556999999999789
+"(6, 100)",Transformer (NO input norm),8.835999999999936
+"(8, 100)",Transformer (NO input norm),10.178999999999974
+"(10, 100)",Transformer (NO input norm),10.029066666666418
+"(6, 125)",Transformer (NO input norm),13.53577777777779
+"(8, 125)",Transformer (NO input norm),14.385166666666615
+"(10, 125)",Transformer (NO input norm),16.23893333333338
+"(6, 150)",Transformer (NO input norm),95.42177777777776
+"(8, 150)",Transformer (NO input norm),147.75900000000001
+"(10, 150)",Transformer (NO input norm),33.254399999999954
+"(6, 200)",Transformer (NO input norm),1801.4233333333334
+"(8, 200)",Transformer (NO input norm),1170.4716666666664
+"(10, 200)",Transformer (NO input norm),730.0363333333324

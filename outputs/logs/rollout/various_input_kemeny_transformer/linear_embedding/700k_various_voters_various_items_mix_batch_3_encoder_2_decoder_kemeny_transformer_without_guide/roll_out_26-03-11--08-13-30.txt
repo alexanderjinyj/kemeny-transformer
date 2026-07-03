@@ -1,0 +1,360 @@
+26-03-11--08-13-30
+
+comment=Configuration file for Kemeny Transformer training (Corrected and Flattened)
+dim_input=10
+dim_emb=128
+dim_ff=512
+numb_heads=8
+numb_layers_decoder=3
+numb_layers_encoder=2
+max_len_PE=1000
+conv_out_channels=64
+batchnorm=True
+embedding_type=linear
+lr=0.0001
+nb_epochs=1000
+nb_batch_per_epoch=250
+bsz=512
+baseline_alpha=0.05
+roll_out_bsz=2048
+num_voters_range=[6, 10]
+num_items_range=[90, 110]
+phi_range=[0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 0.92, 0.94, 0.96, 0.98, 1.0]
+data_generation_method=fine_tuning_mix
+sample_voters_from_range=True
+sample_items_from_range=True
+normalize_input=True
+original_validation_data=True
+checkpoint_file=checkpoint_epoch_400.pkl
+checkpoint_dir=kemeny_transformer_checkpoint/various_input_kemeny_transformer/linear_embedding/700k_various_voters_various_items_mix_batch_3_encoder_2_decoder_kemeny_transformer_without_guide
+save_every=5
+validation_data_dir=validate_dataset
+roll_out_log_dir=roll_out_logs/various_input_kemeny_transformer/linear_embedding/700k_various_voters_various_items_mix_batch_3_encoder_2_decoder_kemeny_transformer_without_guide
+validate_log_dir=validate_logs/various_input_kemeny_transformer/linear_embedding/700k_various_voters_various_items_mix_batch_3_encoder_2_decoder_kemeny_transformer_without_guide
+gpu_id=0,1
+
+
+Epoch: 401, epoch time: 10.32min, tot time: 3.49day, kemeny_dis_train: 1453.138164, kemeny_dis_base: 1456.825134, update: True, training_phase: 2
+Epoch: 402, epoch time: 10.23min, tot time: 3.50day, kemeny_dis_train: 1435.333824, kemeny_dis_base: 1437.373419, update: True, training_phase: 2
+Epoch: 403, epoch time: 10.21min, tot time: 3.51day, kemeny_dis_train: 1446.462347, kemeny_dis_base: 1446.679303, update: True, training_phase: 2
+Epoch: 404, epoch time: 10.21min, tot time: 3.51day, kemeny_dis_train: 1446.658258, kemeny_dis_base: 1447.729808, update: True, training_phase: 2
+Epoch: 405, epoch time: 10.24min, tot time: 3.52day, kemeny_dis_train: 1424.187462, kemeny_dis_base: 1424.186985, update: False, training_phase: 2
+Epoch: 406, epoch time: 10.19min, tot time: 3.53day, kemeny_dis_train: 1450.959467, kemeny_dis_base: 1451.552212, update: True, training_phase: 2
+Epoch: 407, epoch time: 10.24min, tot time: 3.53day, kemeny_dis_train: 1429.380008, kemeny_dis_base: 1429.550248, update: True, training_phase: 2
+Epoch: 408, epoch time: 10.25min, tot time: 3.54day, kemeny_dis_train: 1444.305361, kemeny_dis_base: 1444.244988, update: False, training_phase: 2
+Epoch: 409, epoch time: 10.22min, tot time: 3.55day, kemeny_dis_train: 1451.559951, kemeny_dis_base: 1451.856489, update: True, training_phase: 2
+Epoch: 410, epoch time: 10.26min, tot time: 3.56day, kemeny_dis_train: 1429.505873, kemeny_dis_base: 1429.750539, update: True, training_phase: 2
+Epoch: 411, epoch time: 10.29min, tot time: 3.56day, kemeny_dis_train: 1419.230730, kemeny_dis_base: 1419.068637, update: False, training_phase: 2
+Epoch: 412, epoch time: 10.22min, tot time: 3.57day, kemeny_dis_train: 1441.599847, kemeny_dis_base: 1441.677541, update: False, training_phase: 2
+Epoch: 413, epoch time: 10.23min, tot time: 3.58day, kemeny_dis_train: 1444.406826, kemeny_dis_base: 1444.346636, update: False, training_phase: 2
+Epoch: 414, epoch time: 10.18min, tot time: 3.58day, kemeny_dis_train: 1447.515653, kemeny_dis_base: 1447.452415, update: False, training_phase: 2
+Epoch: 415, epoch time: 10.27min, tot time: 3.59day, kemeny_dis_train: 1439.131892, kemeny_dis_base: 1439.259316, update: True, training_phase: 2
+Epoch: 416, epoch time: 10.16min, tot time: 3.60day, kemeny_dis_train: 1433.159781, kemeny_dis_base: 1433.123648, update: False, training_phase: 2
+Epoch: 417, epoch time: 10.22min, tot time: 3.61day, kemeny_dis_train: 1447.009226, kemeny_dis_base: 1446.862140, update: False, training_phase: 2
+Epoch: 418, epoch time: 10.23min, tot time: 3.61day, kemeny_dis_train: 1453.034216, kemeny_dis_base: 1453.106493, update: False, training_phase: 2
+Epoch: 419, epoch time: 10.17min, tot time: 3.62day, kemeny_dis_train: 1438.276746, kemeny_dis_base: 1438.431642, update: True, training_phase: 2
+Epoch: 420, epoch time: 10.24min, tot time: 3.63day, kemeny_dis_train: 1445.378312, kemeny_dis_base: 1445.367912, update: False, training_phase: 2
+Epoch: 421, epoch time: 10.25min, tot time: 3.63day, kemeny_dis_train: 1447.125114, kemeny_dis_base: 1447.230828, update: True, training_phase: 2
+Epoch: 422, epoch time: 10.22min, tot time: 3.64day, kemeny_dis_train: 1421.203344, kemeny_dis_base: 1421.133715, update: False, training_phase: 2
+Epoch: 423, epoch time: 10.15min, tot time: 3.65day, kemeny_dis_train: 1443.378699, kemeny_dis_base: 1443.290929, update: False, training_phase: 2
+Epoch: 424, epoch time: 10.18min, tot time: 3.66day, kemeny_dis_train: 1448.446049, kemeny_dis_base: 1447.892304, update: False, training_phase: 2
+Epoch: 425, epoch time: 10.20min, tot time: 3.66day, kemeny_dis_train: 1435.455315, kemeny_dis_base: 1435.464910, update: False, training_phase: 2
+Epoch: 426, epoch time: 10.27min, tot time: 3.67day, kemeny_dis_train: 1433.770994, kemeny_dis_base: 1433.871849, update: True, training_phase: 2
+Epoch: 427, epoch time: 10.30min, tot time: 3.68day, kemeny_dis_train: 1432.014950, kemeny_dis_base: 1431.795226, update: False, training_phase: 2
+Epoch: 428, epoch time: 10.28min, tot time: 3.68day, kemeny_dis_train: 1456.169437, kemeny_dis_base: 1455.145290, update: False, training_phase: 2
+Epoch: 429, epoch time: 10.30min, tot time: 3.69day, kemeny_dis_train: 1419.848299, kemeny_dis_base: 1419.785334, update: False, training_phase: 2
+Epoch: 430, epoch time: 10.21min, tot time: 3.70day, kemeny_dis_train: 1419.878247, kemeny_dis_base: 1419.718979, update: False, training_phase: 2
+Epoch: 431, epoch time: 10.19min, tot time: 3.70day, kemeny_dis_train: 1431.651904, kemeny_dis_base: 1431.653066, update: False, training_phase: 2
+Epoch: 432, epoch time: 10.21min, tot time: 3.71day, kemeny_dis_train: 1449.538671, kemeny_dis_base: 1449.121248, update: False, training_phase: 2
+Epoch: 433, epoch time: 10.22min, tot time: 3.72day, kemeny_dis_train: 1422.145580, kemeny_dis_base: 1422.332075, update: True, training_phase: 2
+Epoch: 434, epoch time: 10.24min, tot time: 3.73day, kemeny_dis_train: 1454.017846, kemeny_dis_base: 1453.869129, update: False, training_phase: 2
+Epoch: 435, epoch time: 10.31min, tot time: 3.73day, kemeny_dis_train: 1431.093039, kemeny_dis_base: 1431.111153, update: False, training_phase: 2
+Epoch: 436, epoch time: 10.24min, tot time: 3.74day, kemeny_dis_train: 1439.588456, kemeny_dis_base: 1439.961391, update: True, training_phase: 2
+Epoch: 437, epoch time: 10.23min, tot time: 3.75day, kemeny_dis_train: 1439.218111, kemeny_dis_base: 1438.828728, update: False, training_phase: 2
+Epoch: 438, epoch time: 10.16min, tot time: 3.75day, kemeny_dis_train: 1439.115745, kemeny_dis_base: 1438.694353, update: False, training_phase: 2
+Epoch: 439, epoch time: 10.26min, tot time: 3.76day, kemeny_dis_train: 1443.060879, kemeny_dis_base: 1442.789402, update: False, training_phase: 2
+Epoch: 440, epoch time: 10.24min, tot time: 3.77day, kemeny_dis_train: 1426.168860, kemeny_dis_base: 1425.905295, update: False, training_phase: 2
+Epoch: 441, epoch time: 10.23min, tot time: 3.78day, kemeny_dis_train: 1434.357103, kemeny_dis_base: 1434.975624, update: False, training_phase: 2
+Epoch: 442, epoch time: 10.24min, tot time: 3.78day, kemeny_dis_train: 1427.733208, kemeny_dis_base: 1427.400368, update: False, training_phase: 2
+Epoch: 443, epoch time: 10.25min, tot time: 3.79day, kemeny_dis_train: 1445.170858, kemeny_dis_base: 1445.195588, update: False, training_phase: 2
+Epoch: 444, epoch time: 10.18min, tot time: 3.80day, kemeny_dis_train: 1447.833207, kemeny_dis_base: 1447.384571, update: False, training_phase: 2
+Epoch: 445, epoch time: 10.27min, tot time: 3.80day, kemeny_dis_train: 1411.069996, kemeny_dis_base: 1410.947827, update: False, training_phase: 2
+Epoch: 446, epoch time: 10.21min, tot time: 3.81day, kemeny_dis_train: 1405.658308, kemeny_dis_base: 1405.441228, update: False, training_phase: 2
+Epoch: 447, epoch time: 10.24min, tot time: 3.82day, kemeny_dis_train: 1433.665329, kemeny_dis_base: 1433.498401, update: False, training_phase: 2
+Epoch: 448, epoch time: 10.24min, tot time: 3.83day, kemeny_dis_train: 1436.870390, kemeny_dis_base: 1436.799003, update: False, training_phase: 2
+Epoch: 449, epoch time: 10.27min, tot time: 3.83day, kemeny_dis_train: 1443.837925, kemeny_dis_base: 1443.545163, update: False, training_phase: 2
+Epoch: 450, epoch time: 10.19min, tot time: 3.84day, kemeny_dis_train: 1429.046972, kemeny_dis_base: 1428.968526, update: False, training_phase: 2
+Epoch: 451, epoch time: 10.27min, tot time: 3.85day, kemeny_dis_train: 1426.145331, kemeny_dis_base: 1426.234720, update: False, training_phase: 2
+Epoch: 452, epoch time: 10.34min, tot time: 3.85day, kemeny_dis_train: 1466.197207, kemeny_dis_base: 1466.255560, update: False, training_phase: 2
+Epoch: 453, epoch time: 10.24min, tot time: 3.86day, kemeny_dis_train: 1447.290465, kemeny_dis_base: 1447.352293, update: False, training_phase: 2
+Epoch: 454, epoch time: 10.25min, tot time: 3.87day, kemeny_dis_train: 1441.555803, kemeny_dis_base: 1441.669292, update: True, training_phase: 2
+Epoch: 455, epoch time: 10.26min, tot time: 3.88day, kemeny_dis_train: 1413.130062, kemeny_dis_base: 1413.208471, update: False, training_phase: 2
+Epoch: 456, epoch time: 10.22min, tot time: 3.88day, kemeny_dis_train: 1429.404859, kemeny_dis_base: 1429.337504, update: False, training_phase: 2
+Epoch: 457, epoch time: 10.25min, tot time: 3.89day, kemeny_dis_train: 1429.463269, kemeny_dis_base: 1429.631135, update: True, training_phase: 2
+Epoch: 458, epoch time: 10.26min, tot time: 3.90day, kemeny_dis_train: 1445.926669, kemeny_dis_base: 1445.903867, update: False, training_phase: 2
+Epoch: 459, epoch time: 10.26min, tot time: 3.90day, kemeny_dis_train: 1445.134433, kemeny_dis_base: 1445.180942, update: False, training_phase: 2
+Epoch: 460, epoch time: 10.18min, tot time: 3.91day, kemeny_dis_train: 1433.191087, kemeny_dis_base: 1433.179095, update: False, training_phase: 2
+Epoch: 461, epoch time: 10.15min, tot time: 3.92day, kemeny_dis_train: 1421.398436, kemeny_dis_base: 1421.481354, update: True, training_phase: 2
+Epoch: 462, epoch time: 10.24min, tot time: 3.93day, kemeny_dis_train: 1436.495796, kemeny_dis_base: 1436.335176, update: False, training_phase: 2
+Epoch: 463, epoch time: 10.28min, tot time: 3.93day, kemeny_dis_train: 1449.002807, kemeny_dis_base: 1448.992225, update: False, training_phase: 2
+Epoch: 464, epoch time: 10.32min, tot time: 3.94day, kemeny_dis_train: 1435.243589, kemeny_dis_base: 1435.291169, update: False, training_phase: 2
+Epoch: 465, epoch time: 10.31min, tot time: 3.95day, kemeny_dis_train: 1442.134259, kemeny_dis_base: 1441.812496, update: False, training_phase: 2
+Epoch: 466, epoch time: 10.27min, tot time: 3.95day, kemeny_dis_train: 1426.326167, kemeny_dis_base: 1426.306027, update: False, training_phase: 2
+Epoch: 467, epoch time: 10.24min, tot time: 3.96day, kemeny_dis_train: 1408.141029, kemeny_dis_base: 1408.244333, update: True, training_phase: 2
+Epoch: 468, epoch time: 10.22min, tot time: 3.97day, kemeny_dis_train: 1426.738567, kemeny_dis_base: 1426.748279, update: False, training_phase: 2
+Epoch: 469, epoch time: 10.23min, tot time: 3.98day, kemeny_dis_train: 1422.350227, kemeny_dis_base: 1422.415195, update: False, training_phase: 2
+Epoch: 470, epoch time: 10.23min, tot time: 3.98day, kemeny_dis_train: 1433.679613, kemeny_dis_base: 1433.797010, update: True, training_phase: 2
+Epoch: 471, epoch time: 10.28min, tot time: 3.99day, kemeny_dis_train: 1441.645741, kemeny_dis_base: 1441.778892, update: True, training_phase: 2
+Epoch: 472, epoch time: 10.28min, tot time: 4.00day, kemeny_dis_train: 1431.182089, kemeny_dis_base: 1431.281437, update: True, training_phase: 2
+Epoch: 473, epoch time: 10.32min, tot time: 4.00day, kemeny_dis_train: 1449.905517, kemeny_dis_base: 1449.658100, update: False, training_phase: 2
+Epoch: 474, epoch time: 10.62min, tot time: 4.01day, kemeny_dis_train: 1445.351811, kemeny_dis_base: 1445.147002, update: False, training_phase: 2
+Epoch: 475, epoch time: 10.55min, tot time: 4.02day, kemeny_dis_train: 1434.228942, kemeny_dis_base: 1434.147905, update: False, training_phase: 2
+Epoch: 476, epoch time: 10.54min, tot time: 4.03day, kemeny_dis_train: 1441.137577, kemeny_dis_base: 1440.786206, update: False, training_phase: 2
+Epoch: 477, epoch time: 10.58min, tot time: 4.03day, kemeny_dis_train: 1425.344989, kemeny_dis_base: 1425.277596, update: False, training_phase: 2
+Epoch: 478, epoch time: 10.47min, tot time: 4.04day, kemeny_dis_train: 1437.406202, kemeny_dis_base: 1437.338485, update: False, training_phase: 2
+Epoch: 479, epoch time: 10.82min, tot time: 4.05day, kemeny_dis_train: 1435.710934, kemeny_dis_base: 1435.603973, update: False, training_phase: 2
+Epoch: 480, epoch time: 10.25min, tot time: 4.05day, kemeny_dis_train: 1432.018967, kemeny_dis_base: 1432.069778, update: False, training_phase: 2
+Epoch: 481, epoch time: 13.63min, tot time: 4.06day, kemeny_dis_train: 1439.434335, kemeny_dis_base: 1439.499917, update: False, training_phase: 2
+Epoch: 482, epoch time: 13.58min, tot time: 4.07day, kemeny_dis_train: 1446.064371, kemeny_dis_base: 1446.149476, update: False, training_phase: 2
+Epoch: 483, epoch time: 13.58min, tot time: 4.08day, kemeny_dis_train: 1448.830678, kemeny_dis_base: 1448.656806, update: False, training_phase: 2
+Epoch: 484, epoch time: 13.37min, tot time: 4.09day, kemeny_dis_train: 1415.368842, kemeny_dis_base: 1415.355786, update: False, training_phase: 2
+Epoch: 485, epoch time: 13.91min, tot time: 4.10day, kemeny_dis_train: 1429.216953, kemeny_dis_base: 1429.205907, update: False, training_phase: 2
+Epoch: 486, epoch time: 13.41min, tot time: 4.11day, kemeny_dis_train: 1430.803193, kemeny_dis_base: 1430.730715, update: False, training_phase: 2
+Epoch: 487, epoch time: 13.36min, tot time: 4.12day, kemeny_dis_train: 1449.069748, kemeny_dis_base: 1448.880238, update: False, training_phase: 2
+Epoch: 488, epoch time: 12.79min, tot time: 4.13day, kemeny_dis_train: 1449.770894, kemeny_dis_base: 1449.924989, update: True, training_phase: 2
+Epoch: 489, epoch time: 11.40min, tot time: 4.14day, kemeny_dis_train: 1436.056550, kemeny_dis_base: 1436.168551, update: True, training_phase: 2
+Epoch: 490, epoch time: 10.60min, tot time: 4.14day, kemeny_dis_train: 1428.559168, kemeny_dis_base: 1428.401654, update: False, training_phase: 2
+Epoch: 491, epoch time: 10.31min, tot time: 4.15day, kemeny_dis_train: 1442.806731, kemeny_dis_base: 1442.700890, update: False, training_phase: 2
+Epoch: 492, epoch time: 10.20min, tot time: 4.16day, kemeny_dis_train: 1434.962053, kemeny_dis_base: 1434.854725, update: False, training_phase: 2
+Epoch: 493, epoch time: 10.21min, tot time: 4.17day, kemeny_dis_train: 1418.558292, kemeny_dis_base: 1418.572010, update: False, training_phase: 2
+Epoch: 494, epoch time: 10.18min, tot time: 4.17day, kemeny_dis_train: 1423.735751, kemeny_dis_base: 1423.540427, update: False, training_phase: 2
+Epoch: 495, epoch time: 10.28min, tot time: 4.18day, kemeny_dis_train: 1436.441358, kemeny_dis_base: 1436.330623, update: False, training_phase: 2
+Epoch: 496, epoch time: 10.25min, tot time: 4.19day, kemeny_dis_train: 1442.778981, kemeny_dis_base: 1442.761843, update: False, training_phase: 2
+Epoch: 497, epoch time: 10.28min, tot time: 4.19day, kemeny_dis_train: 1434.537896, kemeny_dis_base: 1434.618322, update: False, training_phase: 2
+Epoch: 498, epoch time: 10.28min, tot time: 4.20day, kemeny_dis_train: 1423.481878, kemeny_dis_base: 1423.156721, update: False, training_phase: 2
+Epoch: 499, epoch time: 10.30min, tot time: 4.21day, kemeny_dis_train: 1416.145629, kemeny_dis_base: 1415.421076, update: False, training_phase: 2
+Epoch: 500, epoch time: 10.26min, tot time: 4.22day, kemeny_dis_train: 1418.271108, kemeny_dis_base: 1416.665696, update: False, training_phase: 2
+Epoch: 501, epoch time: 10.32min, tot time: 4.22day, kemeny_dis_train: 1441.318813, kemeny_dis_base: 1440.158163, update: False, training_phase: 2
+Epoch: 502, epoch time: 10.26min, tot time: 4.23day, kemeny_dis_train: 1433.254463, kemeny_dis_base: 1432.872123, update: False, training_phase: 2
+Epoch: 503, epoch time: 10.27min, tot time: 4.24day, kemeny_dis_train: 1443.618212, kemeny_dis_base: 1443.403672, update: False, training_phase: 2
+Epoch: 504, epoch time: 10.24min, tot time: 4.24day, kemeny_dis_train: 1434.108425, kemeny_dis_base: 1433.511008, update: False, training_phase: 2
+Epoch: 505, epoch time: 10.25min, tot time: 4.25day, kemeny_dis_train: 1430.564456, kemeny_dis_base: 1430.350125, update: False, training_phase: 2
+Epoch: 506, epoch time: 10.25min, tot time: 4.26day, kemeny_dis_train: 1430.771658, kemeny_dis_base: 1430.756444, update: False, training_phase: 2
+Epoch: 507, epoch time: 10.28min, tot time: 4.27day, kemeny_dis_train: 1434.504264, kemeny_dis_base: 1434.262268, update: False, training_phase: 2
+Epoch: 508, epoch time: 10.24min, tot time: 4.27day, kemeny_dis_train: 1434.224365, kemeny_dis_base: 1434.030549, update: False, training_phase: 2
+Epoch: 509, epoch time: 10.23min, tot time: 4.28day, kemeny_dis_train: 1443.079223, kemeny_dis_base: 1442.857344, update: False, training_phase: 2
+Epoch: 510, epoch time: 10.24min, tot time: 4.29day, kemeny_dis_train: 1428.499184, kemeny_dis_base: 1428.262919, update: False, training_phase: 2
+Epoch: 511, epoch time: 10.29min, tot time: 4.29day, kemeny_dis_train: 1447.849693, kemeny_dis_base: 1447.054390, update: False, training_phase: 2
+Epoch: 512, epoch time: 10.31min, tot time: 4.30day, kemeny_dis_train: 1425.502410, kemeny_dis_base: 1425.121565, update: False, training_phase: 2
+Epoch: 513, epoch time: 10.24min, tot time: 4.31day, kemeny_dis_train: 1439.359038, kemeny_dis_base: 1439.353473, update: False, training_phase: 2
+Epoch: 514, epoch time: 10.33min, tot time: 4.32day, kemeny_dis_train: 1418.244212, kemeny_dis_base: 1418.234151, update: False, training_phase: 2
+Epoch: 515, epoch time: 10.30min, tot time: 4.32day, kemeny_dis_train: 1433.388083, kemeny_dis_base: 1433.231939, update: False, training_phase: 2
+Epoch: 516, epoch time: 10.30min, tot time: 4.33day, kemeny_dis_train: 1428.524027, kemeny_dis_base: 1428.380114, update: False, training_phase: 2
+Epoch: 517, epoch time: 10.28min, tot time: 4.34day, kemeny_dis_train: 1437.361049, kemeny_dis_base: 1437.521446, update: True, training_phase: 2
+Epoch: 518, epoch time: 10.30min, tot time: 4.34day, kemeny_dis_train: 1409.879839, kemeny_dis_base: 1409.962548, update: True, training_phase: 2
+Epoch: 519, epoch time: 10.21min, tot time: 4.35day, kemeny_dis_train: 1439.498462, kemeny_dis_base: 1439.494867, update: False, training_phase: 2
+Epoch: 520, epoch time: 10.24min, tot time: 4.36day, kemeny_dis_train: 1438.533923, kemeny_dis_base: 1438.510912, update: False, training_phase: 2
+Epoch: 521, epoch time: 10.22min, tot time: 4.37day, kemeny_dis_train: 1438.599883, kemeny_dis_base: 1438.467643, update: False, training_phase: 2
+Epoch: 522, epoch time: 10.28min, tot time: 4.37day, kemeny_dis_train: 1423.099245, kemeny_dis_base: 1423.102640, update: False, training_phase: 2
+Epoch: 523, epoch time: 10.26min, tot time: 4.38day, kemeny_dis_train: 1428.358099, kemeny_dis_base: 1428.164365, update: False, training_phase: 2
+Epoch: 524, epoch time: 10.20min, tot time: 4.39day, kemeny_dis_train: 1422.994164, kemeny_dis_base: 1423.003567, update: False, training_phase: 2
+Epoch: 525, epoch time: 10.26min, tot time: 4.39day, kemeny_dis_train: 1437.639840, kemeny_dis_base: 1437.657389, update: False, training_phase: 2
+Epoch: 526, epoch time: 10.23min, tot time: 4.40day, kemeny_dis_train: 1414.608862, kemeny_dis_base: 1414.637447, update: False, training_phase: 2
+Epoch: 527, epoch time: 10.25min, tot time: 4.41day, kemeny_dis_train: 1438.022952, kemeny_dis_base: 1437.905128, update: False, training_phase: 2
+Epoch: 528, epoch time: 10.26min, tot time: 4.42day, kemeny_dis_train: 1450.437291, kemeny_dis_base: 1450.139896, update: False, training_phase: 2
+Epoch: 529, epoch time: 10.28min, tot time: 4.42day, kemeny_dis_train: 1441.967776, kemeny_dis_base: 1441.925347, update: False, training_phase: 2
+Epoch: 530, epoch time: 10.25min, tot time: 4.43day, kemeny_dis_train: 1431.003883, kemeny_dis_base: 1431.068736, update: False, training_phase: 2
+Epoch: 531, epoch time: 10.23min, tot time: 4.44day, kemeny_dis_train: 1433.936587, kemeny_dis_base: 1433.963439, update: False, training_phase: 2
+Epoch: 532, epoch time: 10.28min, tot time: 4.44day, kemeny_dis_train: 1436.404508, kemeny_dis_base: 1436.268413, update: False, training_phase: 2
+Epoch: 533, epoch time: 10.25min, tot time: 4.45day, kemeny_dis_train: 1423.883837, kemeny_dis_base: 1423.717158, update: False, training_phase: 2
+Epoch: 534, epoch time: 10.24min, tot time: 4.46day, kemeny_dis_train: 1429.282315, kemeny_dis_base: 1428.436240, update: False, training_phase: 2
+Epoch: 535, epoch time: 10.23min, tot time: 4.47day, kemeny_dis_train: 1434.785912, kemeny_dis_base: 1434.030238, update: False, training_phase: 2
+Epoch: 536, epoch time: 10.23min, tot time: 4.47day, kemeny_dis_train: 1429.126320, kemeny_dis_base: 1428.703030, update: False, training_phase: 2
+Epoch: 537, epoch time: 10.27min, tot time: 4.48day, kemeny_dis_train: 1428.747022, kemeny_dis_base: 1428.052164, update: False, training_phase: 2
+Epoch: 538, epoch time: 10.27min, tot time: 4.49day, kemeny_dis_train: 1690.767570, kemeny_dis_base: 1448.771635, update: False, training_phase: 2
+Epoch: 539, epoch time: 10.24min, tot time: 4.49day, kemeny_dis_train: 1474.701672, kemeny_dis_base: 1434.721334, update: False, training_phase: 2
+Epoch: 540, epoch time: 10.26min, tot time: 4.50day, kemeny_dis_train: 1450.791244, kemeny_dis_base: 1421.132158, update: False, training_phase: 2
+Epoch: 541, epoch time: 10.30min, tot time: 4.51day, kemeny_dis_train: 1461.897009, kemeny_dis_base: 1437.232652, update: False, training_phase: 2
+Epoch: 542, epoch time: 10.24min, tot time: 4.52day, kemeny_dis_train: 1482.712161, kemeny_dis_base: 1428.119171, update: False, training_phase: 2
+Epoch: 543, epoch time: 10.28min, tot time: 4.52day, kemeny_dis_train: 1570.741358, kemeny_dis_base: 1439.375589, update: False, training_phase: 2
+Epoch: 544, epoch time: 10.29min, tot time: 4.53day, kemeny_dis_train: 1516.718954, kemeny_dis_base: 1442.786128, update: False, training_phase: 2
+Epoch: 545, epoch time: 10.24min, tot time: 4.54day, kemeny_dis_train: 1614.792669, kemeny_dis_base: 1423.121727, update: False, training_phase: 2
+Epoch: 546, epoch time: 10.24min, tot time: 4.54day, kemeny_dis_train: 1576.598842, kemeny_dis_base: 1461.214905, update: False, training_phase: 2
+Epoch: 547, epoch time: 10.24min, tot time: 4.55day, kemeny_dis_train: 1652.919328, kemeny_dis_base: 1424.535372, update: False, training_phase: 2
+Epoch: 548, epoch time: 10.22min, tot time: 4.56day, kemeny_dis_train: 1611.766642, kemeny_dis_base: 1454.912026, update: False, training_phase: 2
+Epoch: 549, epoch time: 10.27min, tot time: 4.57day, kemeny_dis_train: 1618.609155, kemeny_dis_base: 1428.286850, update: False, training_phase: 2
+Epoch: 550, epoch time: 10.25min, tot time: 4.57day, kemeny_dis_train: 1593.275333, kemeny_dis_base: 1424.819373, update: False, training_phase: 2
+Epoch: 551, epoch time: 10.28min, tot time: 4.58day, kemeny_dis_train: 1527.804557, kemeny_dis_base: 1446.600761, update: False, training_phase: 2
+Epoch: 552, epoch time: 10.20min, tot time: 4.59day, kemeny_dis_train: 1462.034457, kemeny_dis_base: 1428.927824, update: False, training_phase: 2
+Epoch: 553, epoch time: 10.20min, tot time: 4.59day, kemeny_dis_train: 1442.996415, kemeny_dis_base: 1417.728678, update: False, training_phase: 2
+Epoch: 554, epoch time: 10.20min, tot time: 4.60day, kemeny_dis_train: 1478.232387, kemeny_dis_base: 1444.348603, update: False, training_phase: 2
+Epoch: 555, epoch time: 10.24min, tot time: 4.61day, kemeny_dis_train: 1451.768746, kemeny_dis_base: 1433.624944, update: False, training_phase: 2
+Epoch: 556, epoch time: 10.24min, tot time: 4.62day, kemeny_dis_train: 1454.544680, kemeny_dis_base: 1439.905290, update: False, training_phase: 2
+Epoch: 557, epoch time: 10.21min, tot time: 4.62day, kemeny_dis_train: 1447.962477, kemeny_dis_base: 1438.207069, update: False, training_phase: 2
+Epoch: 558, epoch time: 10.23min, tot time: 4.63day, kemeny_dis_train: 1448.815853, kemeny_dis_base: 1441.369223, update: False, training_phase: 2
+Epoch: 559, epoch time: 10.24min, tot time: 4.64day, kemeny_dis_train: 1445.040635, kemeny_dis_base: 1439.789214, update: False, training_phase: 2
+Epoch: 560, epoch time: 10.25min, tot time: 4.64day, kemeny_dis_train: 1430.945338, kemeny_dis_base: 1426.335622, update: False, training_phase: 2
+Epoch: 561, epoch time: 10.23min, tot time: 4.65day, kemeny_dis_train: 1421.140917, kemeny_dis_base: 1418.288759, update: False, training_phase: 2
+Epoch: 562, epoch time: 10.23min, tot time: 4.66day, kemeny_dis_train: 1446.124860, kemeny_dis_base: 1443.755858, update: False, training_phase: 2
+Epoch: 563, epoch time: 10.22min, tot time: 4.66day, kemeny_dis_train: 1429.383288, kemeny_dis_base: 1427.125561, update: False, training_phase: 2
+Epoch: 564, epoch time: 10.27min, tot time: 4.67day, kemeny_dis_train: 1447.131160, kemeny_dis_base: 1445.346986, update: False, training_phase: 2
+Epoch: 565, epoch time: 10.23min, tot time: 4.68day, kemeny_dis_train: 1448.414043, kemeny_dis_base: 1437.961758, update: False, training_phase: 2
+Epoch: 566, epoch time: 10.25min, tot time: 4.69day, kemeny_dis_train: 1417.707081, kemeny_dis_base: 1413.123826, update: False, training_phase: 2
+Epoch: 567, epoch time: 10.24min, tot time: 4.69day, kemeny_dis_train: 1434.101082, kemeny_dis_base: 1430.317194, update: False, training_phase: 2
+Epoch: 568, epoch time: 10.26min, tot time: 4.70day, kemeny_dis_train: 1450.002531, kemeny_dis_base: 1448.013923, update: False, training_phase: 2
+Epoch: 569, epoch time: 10.24min, tot time: 4.71day, kemeny_dis_train: 1421.829383, kemeny_dis_base: 1420.588815, update: False, training_phase: 2
+Epoch: 570, epoch time: 10.25min, tot time: 4.71day, kemeny_dis_train: 1440.775150, kemeny_dis_base: 1439.501869, update: False, training_phase: 2
+Epoch: 571, epoch time: 10.25min, tot time: 4.72day, kemeny_dis_train: 1429.102863, kemeny_dis_base: 1428.005317, update: False, training_phase: 2
+Epoch: 572, epoch time: 10.23min, tot time: 4.73day, kemeny_dis_train: 1438.509068, kemeny_dis_base: 1437.377352, update: False, training_phase: 2
+Epoch: 573, epoch time: 10.25min, tot time: 4.74day, kemeny_dis_train: 1430.492007, kemeny_dis_base: 1429.783793, update: False, training_phase: 2
+Epoch: 574, epoch time: 10.23min, tot time: 4.74day, kemeny_dis_train: 1435.427229, kemeny_dis_base: 1434.852397, update: False, training_phase: 2
+Epoch: 575, epoch time: 10.26min, tot time: 4.75day, kemeny_dis_train: 1439.078571, kemeny_dis_base: 1438.469608, update: False, training_phase: 2
+Epoch: 576, epoch time: 10.28min, tot time: 4.76day, kemeny_dis_train: 1446.659466, kemeny_dis_base: 1446.296248, update: False, training_phase: 2
+Epoch: 577, epoch time: 10.24min, tot time: 4.76day, kemeny_dis_train: 1433.079580, kemeny_dis_base: 1432.926783, update: False, training_phase: 2
+Epoch: 578, epoch time: 10.26min, tot time: 4.77day, kemeny_dis_train: 1437.711300, kemeny_dis_base: 1437.320453, update: False, training_phase: 2
+Epoch: 579, epoch time: 10.24min, tot time: 4.78day, kemeny_dis_train: 1434.151852, kemeny_dis_base: 1433.933150, update: False, training_phase: 2
+Epoch: 580, epoch time: 10.25min, tot time: 4.79day, kemeny_dis_train: 1431.037816, kemeny_dis_base: 1430.717297, update: False, training_phase: 2
+Epoch: 581, epoch time: 10.31min, tot time: 4.79day, kemeny_dis_train: 1438.358295, kemeny_dis_base: 1438.193804, update: False, training_phase: 2
+Epoch: 582, epoch time: 10.26min, tot time: 4.80day, kemeny_dis_train: 1426.877660, kemeny_dis_base: 1426.730178, update: False, training_phase: 2
+Epoch: 583, epoch time: 10.26min, tot time: 4.81day, kemeny_dis_train: 1433.183445, kemeny_dis_base: 1433.051336, update: False, training_phase: 2
+Epoch: 584, epoch time: 10.28min, tot time: 4.81day, kemeny_dis_train: 1429.683542, kemeny_dis_base: 1429.736750, update: False, training_phase: 2
+Epoch: 585, epoch time: 10.24min, tot time: 4.82day, kemeny_dis_train: 1440.695127, kemeny_dis_base: 1440.671440, update: False, training_phase: 2
+Epoch: 586, epoch time: 10.20min, tot time: 4.83day, kemeny_dis_train: 1431.170458, kemeny_dis_base: 1430.599298, update: False, training_phase: 2
+Epoch: 587, epoch time: 10.26min, tot time: 4.84day, kemeny_dis_train: 1565.708749, kemeny_dis_base: 1434.229572, update: False, training_phase: 2
+Epoch: 588, epoch time: 10.24min, tot time: 4.84day, kemeny_dis_train: 1616.496048, kemeny_dis_base: 1438.588844, update: False, training_phase: 2
+Epoch: 589, epoch time: 10.31min, tot time: 4.85day, kemeny_dis_train: 1889.504267, kemeny_dis_base: 1442.614764, update: False, training_phase: 2
+Epoch: 590, epoch time: 10.32min, tot time: 4.86day, kemeny_dis_train: 1558.240725, kemeny_dis_base: 1443.217071, update: False, training_phase: 2
+Epoch: 591, epoch time: 10.24min, tot time: 4.86day, kemeny_dis_train: 1450.629890, kemeny_dis_base: 1435.867180, update: False, training_phase: 2
+Epoch: 592, epoch time: 10.28min, tot time: 4.87day, kemeny_dis_train: 1450.088196, kemeny_dis_base: 1444.073402, update: False, training_phase: 2
+Epoch: 593, epoch time: 10.29min, tot time: 4.88day, kemeny_dis_train: 1428.156646, kemeny_dis_base: 1425.306166, update: False, training_phase: 2
+Epoch: 594, epoch time: 10.27min, tot time: 4.89day, kemeny_dis_train: 1431.604402, kemeny_dis_base: 1430.084475, update: False, training_phase: 2
+Epoch: 595, epoch time: 10.31min, tot time: 4.89day, kemeny_dis_train: 1443.722694, kemeny_dis_base: 1442.546392, update: False, training_phase: 2
+Epoch: 596, epoch time: 10.25min, tot time: 4.90day, kemeny_dis_train: 1450.650054, kemeny_dis_base: 1450.068030, update: False, training_phase: 2
+Epoch: 597, epoch time: 10.25min, tot time: 4.91day, kemeny_dis_train: 1431.449804, kemeny_dis_base: 1431.082157, update: False, training_phase: 2
+Epoch: 598, epoch time: 10.27min, tot time: 4.91day, kemeny_dis_train: 1429.138048, kemeny_dis_base: 1429.080015, update: False, training_phase: 2
+Epoch: 599, epoch time: 10.28min, tot time: 4.92day, kemeny_dis_train: 1432.013407, kemeny_dis_base: 1431.977461, update: False, training_phase: 2
+Epoch: 600, epoch time: 10.29min, tot time: 4.93day, kemeny_dis_train: 1427.172026, kemeny_dis_base: 1427.219813, update: False, training_phase: 2
+Epoch: 601, epoch time: 10.27min, tot time: 4.94day, kemeny_dis_train: 1439.218851, kemeny_dis_base: 1439.268015, update: False, training_phase: 2
+Epoch: 602, epoch time: 10.26min, tot time: 4.94day, kemeny_dis_train: 1423.471401, kemeny_dis_base: 1423.488485, update: False, training_phase: 2
+Epoch: 603, epoch time: 10.26min, tot time: 4.95day, kemeny_dis_train: 1438.051732, kemeny_dis_base: 1438.055180, update: False, training_phase: 2
+Epoch: 604, epoch time: 10.29min, tot time: 4.96day, kemeny_dis_train: 1442.876103, kemeny_dis_base: 1442.934187, update: False, training_phase: 2
+Epoch: 605, epoch time: 10.29min, tot time: 4.96day, kemeny_dis_train: 1434.957981, kemeny_dis_base: 1435.096387, update: True, training_phase: 2
+Epoch: 606, epoch time: 10.27min, tot time: 4.97day, kemeny_dis_train: 1424.800817, kemeny_dis_base: 1424.930049, update: True, training_phase: 2
+Epoch: 607, epoch time: 10.29min, tot time: 4.98day, kemeny_dis_train: 1445.354861, kemeny_dis_base: 1445.392563, update: False, training_phase: 2
+Epoch: 608, epoch time: 10.24min, tot time: 4.99day, kemeny_dis_train: 1430.856075, kemeny_dis_base: 1430.885336, update: False, training_phase: 2
+Epoch: 609, epoch time: 10.21min, tot time: 4.99day, kemeny_dis_train: 1437.891011, kemeny_dis_base: 1437.914333, update: False, training_phase: 2
+Epoch: 610, epoch time: 10.19min, tot time: 5.00day, kemeny_dis_train: 1455.127009, kemeny_dis_base: 1455.176355, update: False, training_phase: 2
+Epoch: 611, epoch time: 10.26min, tot time: 5.01day, kemeny_dis_train: 1431.775285, kemeny_dis_base: 1431.658950, update: False, training_phase: 2
+Epoch: 612, epoch time: 10.22min, tot time: 5.01day, kemeny_dis_train: 1449.556365, kemeny_dis_base: 1449.477543, update: False, training_phase: 2
+Epoch: 613, epoch time: 10.21min, tot time: 5.02day, kemeny_dis_train: 1440.557201, kemeny_dis_base: 1440.489926, update: False, training_phase: 2
+Epoch: 614, epoch time: 10.27min, tot time: 5.03day, kemeny_dis_train: 1453.939435, kemeny_dis_base: 1453.934957, update: False, training_phase: 2
+Epoch: 615, epoch time: 10.28min, tot time: 5.04day, kemeny_dis_train: 1427.990650, kemeny_dis_base: 1428.039667, update: False, training_phase: 2
+Epoch: 616, epoch time: 10.22min, tot time: 5.04day, kemeny_dis_train: 1431.609022, kemeny_dis_base: 1431.845003, update: True, training_phase: 2
+Epoch: 617, epoch time: 10.22min, tot time: 5.05day, kemeny_dis_train: 1441.977513, kemeny_dis_base: 1441.979928, update: False, training_phase: 2
+Epoch: 618, epoch time: 10.20min, tot time: 5.06day, kemeny_dis_train: 1441.618330, kemeny_dis_base: 1441.699432, update: True, training_phase: 2
+Epoch: 619, epoch time: 10.25min, tot time: 5.06day, kemeny_dis_train: 1413.395979, kemeny_dis_base: 1413.239910, update: False, training_phase: 2
+Epoch: 620, epoch time: 10.24min, tot time: 5.07day, kemeny_dis_train: 1430.631620, kemeny_dis_base: 1430.570804, update: False, training_phase: 2
+Epoch: 621, epoch time: 10.18min, tot time: 5.08day, kemeny_dis_train: 1435.659403, kemeny_dis_base: 1435.611461, update: False, training_phase: 2
+Epoch: 622, epoch time: 10.21min, tot time: 5.08day, kemeny_dis_train: 1423.804732, kemeny_dis_base: 1423.693746, update: False, training_phase: 2
+Epoch: 623, epoch time: 10.21min, tot time: 5.09day, kemeny_dis_train: 1442.151016, kemeny_dis_base: 1442.161986, update: False, training_phase: 2
+Epoch: 624, epoch time: 10.17min, tot time: 5.10day, kemeny_dis_train: 1409.857179, kemeny_dis_base: 1409.683359, update: False, training_phase: 2
+Epoch: 625, epoch time: 10.16min, tot time: 5.11day, kemeny_dis_train: 1444.819978, kemeny_dis_base: 1444.669533, update: False, training_phase: 2
+Epoch: 626, epoch time: 9.44min, tot time: 5.11day, kemeny_dis_train: 1434.143086, kemeny_dis_base: 1434.030161, update: False, training_phase: 2
+Epoch: 627, epoch time: 7.04min, tot time: 5.12day, kemeny_dis_train: 1442.850493, kemeny_dis_base: 1442.839014, update: False, training_phase: 2
+Epoch: 628, epoch time: 7.03min, tot time: 5.12day, kemeny_dis_train: 1427.653640, kemeny_dis_base: 1427.301494, update: False, training_phase: 2
+Epoch: 629, epoch time: 7.02min, tot time: 5.13day, kemeny_dis_train: 1429.371598, kemeny_dis_base: 1429.280352, update: False, training_phase: 2
+Epoch: 630, epoch time: 7.01min, tot time: 5.13day, kemeny_dis_train: 1425.465049, kemeny_dis_base: 1425.365779, update: False, training_phase: 2
+Epoch: 631, epoch time: 7.03min, tot time: 5.14day, kemeny_dis_train: 1432.560899, kemeny_dis_base: 1432.575713, update: False, training_phase: 2
+Epoch: 632, epoch time: 7.04min, tot time: 5.14day, kemeny_dis_train: 1430.557284, kemeny_dis_base: 1430.548167, update: False, training_phase: 2
+Epoch: 633, epoch time: 7.04min, tot time: 5.15day, kemeny_dis_train: 1430.009654, kemeny_dis_base: 1429.938889, update: False, training_phase: 2
+Epoch: 634, epoch time: 7.04min, tot time: 5.15day, kemeny_dis_train: 1420.996953, kemeny_dis_base: 1420.978580, update: False, training_phase: 2
+Epoch: 635, epoch time: 7.05min, tot time: 5.16day, kemeny_dis_train: 1424.810205, kemeny_dis_base: 1424.778890, update: False, training_phase: 2
+Epoch: 636, epoch time: 7.04min, tot time: 5.16day, kemeny_dis_train: 1442.615168, kemeny_dis_base: 1442.608779, update: False, training_phase: 2
+Epoch: 637, epoch time: 7.04min, tot time: 5.17day, kemeny_dis_train: 1435.141367, kemeny_dis_base: 1435.156436, update: False, training_phase: 2
+Epoch: 638, epoch time: 7.04min, tot time: 5.17day, kemeny_dis_train: 1418.029632, kemeny_dis_base: 1418.126179, update: True, training_phase: 2
+Epoch: 639, epoch time: 7.05min, tot time: 5.18day, kemeny_dis_train: 1447.675065, kemeny_dis_base: 1447.449634, update: False, training_phase: 2
+Epoch: 640, epoch time: 7.03min, tot time: 5.18day, kemeny_dis_train: 1435.155915, kemeny_dis_base: 1435.102952, update: False, training_phase: 2
+Epoch: 641, epoch time: 7.04min, tot time: 5.19day, kemeny_dis_train: 1441.463333, kemeny_dis_base: 1441.417428, update: False, training_phase: 2
+Epoch: 642, epoch time: 7.02min, tot time: 5.19day, kemeny_dis_train: 1438.461154, kemeny_dis_base: 1438.290696, update: False, training_phase: 2
+Epoch: 643, epoch time: 7.02min, tot time: 5.20day, kemeny_dis_train: 1418.339596, kemeny_dis_base: 1418.252317, update: False, training_phase: 2
+Epoch: 644, epoch time: 7.01min, tot time: 5.20day, kemeny_dis_train: 1439.288669, kemeny_dis_base: 1439.181781, update: False, training_phase: 2
+Epoch: 645, epoch time: 7.03min, tot time: 5.21day, kemeny_dis_train: 1445.019137, kemeny_dis_base: 1444.945165, update: False, training_phase: 2
+Epoch: 646, epoch time: 7.04min, tot time: 5.21day, kemeny_dis_train: 1459.669959, kemeny_dis_base: 1459.644151, update: False, training_phase: 2
+Epoch: 647, epoch time: 7.05min, tot time: 5.22day, kemeny_dis_train: 1434.389736, kemeny_dis_base: 1434.344443, update: False, training_phase: 2
+Epoch: 648, epoch time: 7.05min, tot time: 5.22day, kemeny_dis_train: 1428.773588, kemeny_dis_base: 1428.738083, update: False, training_phase: 2
+Epoch: 649, epoch time: 7.04min, tot time: 5.23day, kemeny_dis_train: 1428.107564, kemeny_dis_base: 1427.958828, update: False, training_phase: 2
+Epoch: 650, epoch time: 7.03min, tot time: 5.23day, kemeny_dis_train: 1449.288068, kemeny_dis_base: 1449.226136, update: False, training_phase: 2
+Epoch: 651, epoch time: 7.03min, tot time: 5.23day, kemeny_dis_train: 1437.010692, kemeny_dis_base: 1436.984962, update: False, training_phase: 2
+Epoch: 652, epoch time: 7.02min, tot time: 5.24day, kemeny_dis_train: 1449.267958, kemeny_dis_base: 1449.112556, update: False, training_phase: 2
+Epoch: 653, epoch time: 7.00min, tot time: 5.24day, kemeny_dis_train: 1423.277327, kemeny_dis_base: 1423.263623, update: False, training_phase: 2
+Epoch: 654, epoch time: 7.02min, tot time: 5.25day, kemeny_dis_train: 1437.547467, kemeny_dis_base: 1437.442788, update: False, training_phase: 2
+Epoch: 655, epoch time: 7.04min, tot time: 5.25day, kemeny_dis_train: 1417.785722, kemeny_dis_base: 1417.908020, update: True, training_phase: 2
+Epoch: 656, epoch time: 7.00min, tot time: 5.26day, kemeny_dis_train: 1449.095162, kemeny_dis_base: 1449.108079, update: False, training_phase: 2
+Epoch: 657, epoch time: 7.03min, tot time: 5.26day, kemeny_dis_train: 1438.382141, kemeny_dis_base: 1438.125111, update: False, training_phase: 2
+Epoch: 658, epoch time: 7.05min, tot time: 5.27day, kemeny_dis_train: 1437.330740, kemeny_dis_base: 1437.275004, update: False, training_phase: 2
+Epoch: 659, epoch time: 7.06min, tot time: 5.27day, kemeny_dis_train: 1433.227968, kemeny_dis_base: 1433.183167, update: False, training_phase: 2
+Epoch: 660, epoch time: 7.04min, tot time: 5.28day, kemeny_dis_train: 1412.699674, kemeny_dis_base: 1412.507065, update: False, training_phase: 2
+Epoch: 661, epoch time: 7.04min, tot time: 5.28day, kemeny_dis_train: 1427.796347, kemeny_dis_base: 1427.846333, update: False, training_phase: 2
+Epoch: 662, epoch time: 7.02min, tot time: 5.29day, kemeny_dis_train: 1419.063549, kemeny_dis_base: 1419.060617, update: False, training_phase: 2
+Epoch: 663, epoch time: 7.02min, tot time: 5.29day, kemeny_dis_train: 1426.335389, kemeny_dis_base: 1426.469523, update: True, training_phase: 2
+Epoch: 664, epoch time: 7.03min, tot time: 5.30day, kemeny_dis_train: 1439.227990, kemeny_dis_base: 1439.156351, update: False, training_phase: 2
+Epoch: 665, epoch time: 7.04min, tot time: 5.30day, kemeny_dis_train: 1433.502272, kemeny_dis_base: 1433.561130, update: False, training_phase: 2
+Epoch: 666, epoch time: 7.03min, tot time: 5.31day, kemeny_dis_train: 1433.757900, kemeny_dis_base: 1433.672164, update: False, training_phase: 2
+Epoch: 667, epoch time: 7.04min, tot time: 5.31day, kemeny_dis_train: 1436.171103, kemeny_dis_base: 1436.039427, update: False, training_phase: 2
+Epoch: 668, epoch time: 7.04min, tot time: 5.32day, kemeny_dis_train: 1439.358622, kemeny_dis_base: 1439.285705, update: False, training_phase: 2
+Epoch: 669, epoch time: 7.04min, tot time: 5.32day, kemeny_dis_train: 1444.594050, kemeny_dis_base: 1444.590996, update: False, training_phase: 2
+Epoch: 670, epoch time: 7.05min, tot time: 5.33day, kemeny_dis_train: 1436.282306, kemeny_dis_base: 1436.392393, update: True, training_phase: 2
+Epoch: 671, epoch time: 7.05min, tot time: 5.33day, kemeny_dis_train: 1441.044390, kemeny_dis_base: 1441.042428, update: False, training_phase: 2
+Epoch: 672, epoch time: 7.05min, tot time: 5.34day, kemeny_dis_train: 1429.755962, kemeny_dis_base: 1429.549426, update: False, training_phase: 2
+Epoch: 673, epoch time: 7.04min, tot time: 5.34day, kemeny_dis_train: 1436.161070, kemeny_dis_base: 1436.129752, update: False, training_phase: 2
+Epoch: 674, epoch time: 7.04min, tot time: 5.35day, kemeny_dis_train: 1440.891370, kemeny_dis_base: 1440.759502, update: False, training_phase: 2
+Epoch: 675, epoch time: 7.03min, tot time: 5.35day, kemeny_dis_train: 1443.885247, kemeny_dis_base: 1443.834665, update: False, training_phase: 2
+Epoch: 676, epoch time: 7.03min, tot time: 5.36day, kemeny_dis_train: 1417.373606, kemeny_dis_base: 1417.382765, update: False, training_phase: 2
+Epoch: 677, epoch time: 7.04min, tot time: 5.36day, kemeny_dis_train: 1437.454353, kemeny_dis_base: 1437.450497, update: False, training_phase: 2
+Epoch: 678, epoch time: 7.05min, tot time: 5.37day, kemeny_dis_train: 1441.385158, kemeny_dis_base: 1441.286055, update: False, training_phase: 2
+Epoch: 679, epoch time: 7.06min, tot time: 5.37day, kemeny_dis_train: 1419.980391, kemeny_dis_base: 1419.934601, update: False, training_phase: 2
+Epoch: 680, epoch time: 7.05min, tot time: 5.38day, kemeny_dis_train: 1444.749608, kemeny_dis_base: 1444.733804, update: False, training_phase: 2
+Epoch: 681, epoch time: 7.05min, tot time: 5.38day, kemeny_dis_train: 1431.441374, kemeny_dis_base: 1431.467415, update: False, training_phase: 2
+Epoch: 682, epoch time: 7.06min, tot time: 5.39day, kemeny_dis_train: 1433.930514, kemeny_dis_base: 1433.847049, update: False, training_phase: 2
+Epoch: 683, epoch time: 7.07min, tot time: 5.39day, kemeny_dis_train: 1434.081484, kemeny_dis_base: 1434.026097, update: False, training_phase: 2
+Epoch: 684, epoch time: 7.05min, tot time: 5.40day, kemeny_dis_train: 1439.466844, kemeny_dis_base: 1439.392457, update: False, training_phase: 2
+Epoch: 685, epoch time: 7.05min, tot time: 5.40day, kemeny_dis_train: 1431.148905, kemeny_dis_base: 1431.041048, update: False, training_phase: 2
+Epoch: 686, epoch time: 7.06min, tot time: 5.41day, kemeny_dis_train: 1434.968065, kemeny_dis_base: 1434.748654, update: False, training_phase: 2
+Epoch: 687, epoch time: 7.06min, tot time: 5.41day, kemeny_dis_train: 1472.809985, kemeny_dis_base: 1422.896385, update: False, training_phase: 2
+Epoch: 688, epoch time: 7.06min, tot time: 5.42day, kemeny_dis_train: 1594.577540, kemeny_dis_base: 1429.282152, update: False, training_phase: 2
+Epoch: 689, epoch time: 7.06min, tot time: 5.42day, kemeny_dis_train: 1555.533272, kemeny_dis_base: 1449.115749, update: False, training_phase: 2
+Epoch: 690, epoch time: 7.06min, tot time: 5.43day, kemeny_dis_train: 1443.775522, kemeny_dis_base: 1426.703249, update: False, training_phase: 2
+Epoch: 691, epoch time: 7.07min, tot time: 5.43day, kemeny_dis_train: 1429.425487, kemeny_dis_base: 1424.942295, update: False, training_phase: 2
+Epoch: 692, epoch time: 7.06min, tot time: 5.44day, kemeny_dis_train: 1444.021522, kemeny_dis_base: 1442.287445, update: False, training_phase: 2
+Epoch: 693, epoch time: 7.04min, tot time: 5.44day, kemeny_dis_train: 1430.752055, kemeny_dis_base: 1429.939106, update: False, training_phase: 2
+Epoch: 694, epoch time: 7.01min, tot time: 5.45day, kemeny_dis_train: 1428.092847, kemeny_dis_base: 1427.698589, update: False, training_phase: 2
+Epoch: 695, epoch time: 7.05min, tot time: 5.45day, kemeny_dis_train: 1433.529957, kemeny_dis_base: 1433.276512, update: False, training_phase: 2
+Epoch: 696, epoch time: 7.06min, tot time: 5.45day, kemeny_dis_train: 1439.912337, kemeny_dis_base: 1439.720428, update: False, training_phase: 2
+Epoch: 697, epoch time: 7.07min, tot time: 5.46day, kemeny_dis_train: 1416.418600, kemeny_dis_base: 1416.262828, update: False, training_phase: 2
+Epoch: 698, epoch time: 7.06min, tot time: 5.46day, kemeny_dis_train: 1443.695399, kemeny_dis_base: 1443.659449, update: False, training_phase: 2
+Epoch: 699, epoch time: 7.07min, tot time: 5.47day, kemeny_dis_train: 1423.988076, kemeny_dis_base: 1423.978373, update: False, training_phase: 2
+Epoch: 700, epoch time: 7.05min, tot time: 5.47day, kemeny_dis_train: 1425.450227, kemeny_dis_base: 1425.502656, update: False, training_phase: 2
+Epoch: 701, epoch time: 7.04min, tot time: 5.48day, kemeny_dis_train: 1437.654099, kemeny_dis_base: 1437.599399, update: False, training_phase: 2
+Epoch: 702, epoch time: 7.01min, tot time: 5.48day, kemeny_dis_train: 1441.021252, kemeny_dis_base: 1440.874552, update: False, training_phase: 2
+Epoch: 703, epoch time: 7.04min, tot time: 5.49day, kemeny_dis_train: 1437.088027, kemeny_dis_base: 1437.077335, update: False, training_phase: 2
+Epoch: 704, epoch time: 7.06min, tot time: 5.49day, kemeny_dis_train: 1429.606584, kemeny_dis_base: 1429.040657, update: False, training_phase: 2
+Epoch: 705, epoch time: 7.07min, tot time: 5.50day, kemeny_dis_train: 1440.575847, kemeny_dis_base: 1440.378719, update: False, training_phase: 2
+Epoch: 706, epoch time: 7.06min, tot time: 5.50day, kemeny_dis_train: 1436.294440, kemeny_dis_base: 1435.966551, update: False, training_phase: 2
+Epoch: 707, epoch time: 7.06min, tot time: 5.51day, kemeny_dis_train: 1447.026563, kemeny_dis_base: 1433.815064, update: False, training_phase: 2
+Epoch: 708, epoch time: 7.06min, tot time: 5.51day, kemeny_dis_train: 1442.370567, kemeny_dis_base: 1439.067251, update: False, training_phase: 2
+Epoch: 709, epoch time: 7.06min, tot time: 5.52day, kemeny_dis_train: 1529.103773, kemeny_dis_base: 1431.515965, update: False, training_phase: 2
+Epoch: 710, epoch time: 7.07min, tot time: 5.52day, kemeny_dis_train: 1523.264032, kemeny_dis_base: 1432.948238, update: False, training_phase: 2
+Epoch: 711, epoch time: 7.07min, tot time: 5.53day, kemeny_dis_train: 1764.849110, kemeny_dis_base: 1420.202142, update: False, training_phase: 2
+Epoch: 712, epoch time: 7.05min, tot time: 5.53day, kemeny_dis_train: 1536.793935, kemeny_dis_base: 1435.145527, update: False, training_phase: 2
+Epoch: 713, epoch time: 7.05min, tot time: 5.54day, kemeny_dis_train: 1468.887416, kemeny_dis_base: 1419.577927, update: False, training_phase: 2
+Epoch: 714, epoch time: 7.03min, tot time: 5.54day, kemeny_dis_train: 1459.468053, kemeny_dis_base: 1448.406837, update: False, training_phase: 2
+Epoch: 715, epoch time: 7.05min, tot time: 5.55day, kemeny_dis_train: 1436.807575, kemeny_dis_base: 1428.404424, update: False, training_phase: 2
+Epoch: 716, epoch time: 7.02min, tot time: 5.55day, kemeny_dis_train: 1441.189751, kemeny_dis_base: 1438.393906, update: False, training_phase: 2
+Epoch: 717, epoch time: 7.04min, tot time: 5.56day, kemeny_dis_train: 1489.600623, kemeny_dis_base: 1438.253194, update: False, training_phase: 2
+Epoch: 718, epoch time: 7.04min, tot time: 5.56day, kemeny_dis_train: 1461.919604, kemeny_dis_base: 1436.493104, update: False, training_phase: 2
+Epoch: 719, epoch time: 7.05min, tot time: 5.57day, kemeny_dis_train: 1428.241495, kemeny_dis_base: 1424.627774, update: False, training_phase: 2
+Epoch: 720, epoch time: 7.04min, tot time: 5.57day, kemeny_dis_train: 1447.039445, kemeny_dis_base: 1443.488312, update: False, training_phase: 2
+Epoch: 721, epoch time: 7.04min, tot time: 5.58day, kemeny_dis_train: 1429.968643, kemeny_dis_base: 1427.696265, update: False, training_phase: 2
+Epoch: 722, epoch time: 7.05min, tot time: 5.58day, kemeny_dis_train: 1424.531493, kemeny_dis_base: 1423.026621, update: False, training_phase: 2
+Epoch: 723, epoch time: 7.06min, tot time: 5.59day, kemeny_dis_train: 1415.728286, kemeny_dis_base: 1414.269724, update: False, training_phase: 2
+Epoch: 724, epoch time: 7.05min, tot time: 5.59day, kemeny_dis_train: 1439.172719, kemeny_dis_base: 1436.745951, update: False, training_phase: 2

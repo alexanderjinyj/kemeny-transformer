@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+
+# Training artifacts (checkpoints and logs are written here at run time;
+# files already committed stay tracked)
+outputs/
+
+# Gurobi
+gurobi.log

@@ -1,0 +1,151 @@
+{
+  "reference_files": [
+    "borda.csv",
+    "decor.csv",
+    "gurobi.csv",
+    "kwiksort.csv",
+    "markov_chain.csv",
+    "max_agreement.csv",
+    "min_regret.csv",
+    "spearman.csv",
+    "summary.csv",
+    "transformer.csv"
+  ],
+  "checked_dirs": [
+    "test_result/preflib_university",
+    "test_result/preflib_university/2012_10_voters_common",
+    "test_result/preflib_university/2012_6_voters_common",
+    "test_result/preflib_university/2013_10_voters_common",
+    "test_result/preflib_university/2013_6_voters_common",
+    "test_result/preflib_university/2014_10_voters_common",
+    "test_result/preflib_university/2014_6_voters_common",
+    "test_result/preflib_university/2015_10_voters_common",
+    "test_result/preflib_university/2015_6_voters_common",
+    "test_result/synthesis_dataset/test_dataset_jiggling_8_100",
+    "test_result/synthesis_dataset/test_dataset_random_8_100",
+    "test_result/synthesis_dataset/test_dataset_repeat_8_100"
+  ],
+  "incomplete": [
+    {
+      "dir": "test_result/preflib_university/2012_6_voters_common",
+      "missing": [
+        "gurobi.csv"
+      ],
+      "present": [
+        "borda.csv",
+        "decor.csv",
+        "kwiksort.csv",
+        "markov_chain.csv",
+        "max_agreement.csv",
+        "min_regret.csv",
+        "spearman.csv",
+        "summary.csv",
+        "transformer.csv"
+      ]
+    },
+    {
+      "dir": "test_result/preflib_university/2013_6_voters_common",
+      "missing": [
+        "gurobi.csv"
+      ],
+      "present": [
+        "borda.csv",
+        "decor.csv",
+        "kwiksort.csv",
+        "markov_chain.csv",
+        "max_agreement.csv",
+        "min_regret.csv",
+        "spearman.csv",
+        "summary.csv",
+        "transformer.csv"
+      ]
+    },
+    {
+      "dir": "test_result/preflib_university/2014_10_voters_common",
+      "missing": [
+        "gurobi.csv"
+      ],
+      "present": [
+        "borda.csv",
+        "decor.csv",
+        "kwiksort.csv",
+        "markov_chain.csv",
+        "max_agreement.csv",
+        "min_regret.csv",
+        "spearman.csv",
+        "summary.csv",
+        "transformer.csv"
+      ]
+    },
+    {
+      "dir": "test_result/preflib_university/2014_6_voters_common",
+      "missing": [
+        "gurobi.csv"
+      ],
+      "present": [
+        "borda.csv",
+        "decor.csv",
+        "kwiksort.csv",
+        "markov_chain.csv",
+        "max_agreement.csv",
+        "min_regret.csv",
+        "spearman.csv",
+        "summary.csv",
+        "transformer.csv"
+      ]
+    },
+    {
+      "dir": "test_result/preflib_university/2015_10_voters_common",
+      "missing": [
+        "gurobi.csv"
+      ],
+      "present": [
+        "borda.csv",
+        "decor.csv",
+        "kwiksort.csv",
+        "markov_chain.csv",
+        "max_agreement.csv",
+        "min_regret.csv",
+        "spearman.csv",
+        "summary.csv",
+        "transformer.csv"
+      ]
+    },
+    {
+      "dir": "test_result/preflib_university/2015_6_voters_common",
+      "missing": [
+        "gurobi.csv"
+      ],
+      "present": [
+        "borda.csv",
+        "decor.csv",
+        "kwiksort.csv",
+        "markov_chain.csv",
+        "max_agreement.csv",
+        "min_regret.csv",
+        "spearman.csv",
+        "summary.csv",
+        "transformer.csv"
+      ]
+    }
+  ],
+  "missing_images": [],
+  "expected_images": [
+    "image/comparison_jiggling_items_100_125_150.png",
+    "image/comparison_random_items_100_125_150.png",
+    "image/comparison_repeat_items_100_125_150.png",
+    "image/running time jiggling.png",
+    "image/running time random.png",
+    "image/running time repeat.png",
+    "test_result/input_normalizatin_ablation/ablation_emphasis.png"
+  ],
+  "summary": {
+    "method_dirs_checked": 12,
+    "incomplete_dirs": 6,
+    "missing_images": 0,
+    "note": "Aggregate dirs (no per-method csvs) excluded from completeness check"
+  },
+  "aggregate_dirs_skipped": [
+    "test_result/preflib_university"
+  ]
+}

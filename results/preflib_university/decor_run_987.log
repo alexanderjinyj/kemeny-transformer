@@ -1,0 +1,6 @@
+DECoR on 4 dataset(s)
+2014_8_voters_common        8v x  987i  kemeny=62801.25  time=124.49s -> test_results/preflib_university/2014_8_voters_common/decor.csv
+2014_6_voters_common        6v x  987i  kemeny=67385.33  time=121.77s -> test_results/preflib_university/2014_6_voters_common/decor.csv
+2015_8_voters_common        8v x  987i  kemeny=68001.62  time=121.28s -> test_results/preflib_university/2015_8_voters_common/decor.csv
+2015_6_voters_common        6v x  987i  kemeny=72837.00  time=121.39s -> test_results/preflib_university/2015_6_voters_common/decor.csv
+Done.
